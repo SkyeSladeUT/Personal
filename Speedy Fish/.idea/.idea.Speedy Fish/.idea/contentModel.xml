@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Owner\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Speedy Fish.-1133519697.00" t="ExcludeRecursive" />
+    <e p="E:\Personal\Speedy Fish" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BoolInput.cs" t="Include" />
+          <e p="CameraMovement.cs" t="Include" />
+          <e p="FishMovement.cs" t="Include" />
+          <e p="FloatBool.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+          <e p="FloatInput.cs" t="Include" />
+          <e p="MovePattern.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Speedy Fish.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
