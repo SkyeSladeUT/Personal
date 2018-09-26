@@ -8,6 +8,7 @@
         <e p="SCripts" t="Include">
           <e p="Card.cs" t="Include" />
           <e p="MemoryCard.cs" t="Include" />
+          <e p="Randomizer.cs" t="Include" />
         </e>
       </e>
       <e p="Games.sln" t="IncludeFlat" />

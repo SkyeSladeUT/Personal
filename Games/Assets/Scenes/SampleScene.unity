@@ -449,13 +449,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1357761844}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 267121865e7a89642a3e86532d47ddc1, type: 3}
+  m_Script: {fileID: 11500000, guid: 1ec11b1b062027f4cba9b1517c5b7d9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Cards:
   - {fileID: 1931227639}
-  - {fileID: 1954184531}
   - {fileID: 635470380}
+  - {fileID: 1954184531}
   CardPositions:
   - {fileID: 493978073}
   - {fileID: 584633169}

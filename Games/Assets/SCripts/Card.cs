@@ -5,4 +5,5 @@ using UnityEngine;
 public class Card : ScriptableObject
 {
     public string CardType;
+    public bool isClicked = false;
 }
