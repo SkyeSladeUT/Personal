@@ -1,11 +1,9 @@
 fileFormatVersion: 2
-guid: 3734affbfb396624a903f553411266b9
+guid: 58547cf8ee795cd4e8541a0cfb483c7d
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - cardColor: {instanceID: 0}
-  - backColor: {fileID: 2100000, guid: 0ec79f1245aef8447a8c7501cdd14951, type: 2}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

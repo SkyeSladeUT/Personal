@@ -17,7 +17,6 @@ public class Randomizer : MonoBehaviour
 	{
 		while (Cards.Count != 0)
 		{
-			print(Cards.Count);
 			var randomNum = Random.Range(0, Cards.Count - 1);
 			RandomCards.Add(Cards[randomNum]);
 			Cards.Remove(Cards[randomNum]);

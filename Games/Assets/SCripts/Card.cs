@@ -4,6 +4,7 @@ using UnityEngine;
 [CreateAssetMenu]
 public class Card : ScriptableObject
 {
-    public string CardType;
-    public bool isClicked = false;
+    public string cardName;
+    public Material cardColor;
+    public Material backColor;
 }

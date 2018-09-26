@@ -17,32 +17,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MemoryCard.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-              <folding>
-                <marker date="1537921436428" expanded="false" signature="6:78" ph="..." />
-                <marker date="1537921436428" expanded="true" signature="120:291" ph="{...}" />
-                <marker date="1537921436428" expanded="true" signature="170:214" ph="{...}" />
-                <marker date="1537921436428" expanded="true" signature="246:289" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Randomizer.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Randomizer.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/SCripts/Randomizer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding>
-                <marker date="1537921696884" expanded="false" signature="6:78" ph="..." />
-                <marker date="1537921696884" expanded="true" signature="120:799" ph="{...}" />
-                <marker date="1537921696884" expanded="true" signature="393:797" ph="{...}" />
-                <marker date="1537921696884" expanded="true" signature="423:580" ph="{...}" />
-                <marker date="1537921696884" expanded="true" signature="629:794" ph="{...}" />
+                <marker date="1537982896361" expanded="false" signature="6:78" ph="..." />
+                <marker date="1537982896361" expanded="true" signature="120:776" ph="{...}" />
+                <marker date="1537982896361" expanded="true" signature="393:774" ph="{...}" />
+                <marker date="1537982896361" expanded="true" signature="423:557" ph="{...}" />
+                <marker date="1537982896361" expanded="true" signature="606:771" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -51,11 +36,62 @@
       <file leaf-file-name="Card.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state>
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
               <folding>
-                <marker date="1537921436032" expanded="false" signature="6:78" ph="..." />
-                <marker date="1537921436032" expanded="true" signature="133:200" ph="{...}" />
+                <marker date="1537981015553" expanded="false" signature="6:78" ph="..." />
+                <marker date="1537981015553" expanded="true" signature="133:227" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Memory.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SCripts/Memory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <marker date="1537981015570" expanded="false" signature="6:78" ph="..." />
+                <marker date="1537981015570" expanded="true" signature="115:589" ph="{...}" />
+                <marker date="1537981015570" expanded="true" signature="177:214" ph="{...}" />
+                <marker date="1537981015570" expanded="true" signature="238:321" ph="{...}" />
+                <marker date="1537981015570" expanded="true" signature="277:318" ph="{...}" />
+                <marker date="1537981015570" expanded="true" signature="348:587" ph="{...}" />
+                <marker date="1537981015570" expanded="true" signature="407:495" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CardScripts.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/SCripts/CardScripts.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding>
+                <marker date="1537983324383" expanded="false" signature="6:78" ph="..." />
+                <marker date="1537983324383" expanded="true" signature="120:946" ph="{...}" />
+                <marker date="1537983324383" expanded="true" signature="250:324" ph="{...}" />
+                <marker date="1537983324383" expanded="true" signature="353:816" ph="{...}" />
+                <marker date="1537983324383" expanded="true" signature="392:557" ph="{...}" />
+                <marker date="1537983324383" expanded="true" signature="598:763" ph="{...}" />
+                <marker date="1537983324383" expanded="true" signature="770:812" ph="{...}" />
+                <marker date="1537983324383" expanded="true" signature="844:944" ph="{...}" />
+                <marker date="1537983324383" expanded="true" signature="867:941" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlippedCards.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SCripts/FlippedCards.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <folding>
+                <marker date="1537980273306" expanded="false" signature="6:78" ph="..." />
+                <marker date="1537980273306" expanded="true" signature="142:274" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -68,19 +104,24 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/SCripts/Randomizer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SCripts/Memory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SCripts/CardScripts.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SCripts/FlippedCards.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/SCripts/Card.cs" />
         <option value="$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" />
+        <option value="$PROJECT_DIR$/Assets/SCripts/FlippedCards.cs" />
+        <option value="$PROJECT_DIR$/Assets/SCripts/Card.cs" />
+        <option value="$PROJECT_DIR$/Assets/SCripts/Memory.cs" />
         <option value="$PROJECT_DIR$/Assets/SCripts/Randomizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/SCripts/CardScripts.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -91,6 +132,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -103,11 +149,6 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,11 +186,12 @@
       <workItem from="1537916043259" duration="25000" />
       <workItem from="1537916186073" duration="2862000" />
       <workItem from="1537919375271" duration="2330000" />
+      <workItem from="1537978935102" duration="3446000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5217000" />
+    <option name="totallyTimeSpent" value="8663000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -161,21 +203,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="784" height="832" extended-state="0" />
+    <frame x="-10" y="0" width="980" height="1040" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32902297" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26243094" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26847827" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -186,82 +229,117 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
+  <component name="UnityProjectConfiguration" isUnityUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Randomizer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="450">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
-            <marker date="1537921436428" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537921436428" expanded="true" signature="120:291" ph="{...}" />
-            <marker date="1537921436428" expanded="true" signature="170:214" ph="{...}" />
-            <marker date="1537921436428" expanded="true" signature="246:289" ph="{...}" />
+            <marker date="1537982896361" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537982896361" expanded="true" signature="120:776" ph="{...}" />
+            <marker date="1537982896361" expanded="true" signature="393:774" ph="{...}" />
+            <marker date="1537982896361" expanded="true" signature="423:557" ph="{...}" />
+            <marker date="1537982896361" expanded="true" signature="606:771" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <marker date="1537981015553" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537981015553" expanded="true" signature="133:227" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding>
-            <marker date="1537921436032" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537921436032" expanded="true" signature="133:200" ph="{...}" />
+            <marker date="1537981015553" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537981015553" expanded="true" signature="133:227" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Memory.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="405">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
           <folding>
-            <marker date="1537921436428" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537921436428" expanded="true" signature="120:291" ph="{...}" />
-            <marker date="1537921436428" expanded="true" signature="170:214" ph="{...}" />
-            <marker date="1537921436428" expanded="true" signature="246:289" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <marker date="1537921436032" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537921436032" expanded="true" signature="133:200" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-          <folding>
-            <marker date="1537921436428" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537921436428" expanded="true" signature="120:291" ph="{...}" />
-            <marker date="1537921436428" expanded="true" signature="170:214" ph="{...}" />
-            <marker date="1537921436428" expanded="true" signature="246:289" ph="{...}" />
+            <marker date="1537981015570" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537981015570" expanded="true" signature="115:589" ph="{...}" />
+            <marker date="1537981015570" expanded="true" signature="177:214" ph="{...}" />
+            <marker date="1537981015570" expanded="true" signature="238:321" ph="{...}" />
+            <marker date="1537981015570" expanded="true" signature="277:318" ph="{...}" />
+            <marker date="1537981015570" expanded="true" signature="348:587" ph="{...}" />
+            <marker date="1537981015570" expanded="true" signature="407:495" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/Randomizer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
-            <marker date="1537921696884" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537921696884" expanded="true" signature="120:799" ph="{...}" />
-            <marker date="1537921696884" expanded="true" signature="393:797" ph="{...}" />
-            <marker date="1537921696884" expanded="true" signature="423:580" ph="{...}" />
-            <marker date="1537921696884" expanded="true" signature="629:794" ph="{...}" />
+            <marker date="1537982896361" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537982896361" expanded="true" signature="120:776" ph="{...}" />
+            <marker date="1537982896361" expanded="true" signature="393:774" ph="{...}" />
+            <marker date="1537982896361" expanded="true" signature="423:557" ph="{...}" />
+            <marker date="1537982896361" expanded="true" signature="606:771" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/FlippedCards.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding>
+            <marker date="1537980273306" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537980273306" expanded="true" signature="142:274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1537981015553" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537981015553" expanded="true" signature="133:227" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/CardScripts.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding>
+            <marker date="1537983324383" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537983324383" expanded="true" signature="120:946" ph="{...}" />
+            <marker date="1537983324383" expanded="true" signature="250:324" ph="{...}" />
+            <marker date="1537983324383" expanded="true" signature="353:816" ph="{...}" />
+            <marker date="1537983324383" expanded="true" signature="392:557" ph="{...}" />
+            <marker date="1537983324383" expanded="true" signature="598:763" ph="{...}" />
+            <marker date="1537983324383" expanded="true" signature="770:812" ph="{...}" />
+            <marker date="1537983324383" expanded="true" signature="844:944" ph="{...}" />
+            <marker date="1537983324383" expanded="true" signature="867:941" ph="{...}" />
           </folding>
         </state>
       </provider>
