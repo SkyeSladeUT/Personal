@@ -12,6 +12,15 @@
           <e p="FloatBool.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FloatInput.cs" t="Include" />
+          <e p="KryptoScripts" t="Include">
+            <e p="ButtonScript.cs" t="Include" />
+            <e p="Calculation.cs" t="Include" />
+            <e p="Card.cs" t="Include" />
+            <e p="CardScripts.cs" t="Include" />
+            <e p="FlippedCards.cs" t="Include" />
+            <e p="Krypto.cs" t="Include" />
+            <e p="Randomizer.cs" t="Include" />
+          </e>
           <e p="MovePattern.cs" t="Include" />
         </e>
       </e>

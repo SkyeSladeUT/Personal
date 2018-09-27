@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ef6855a-ca84-444e-a491-ca1ead165ee2" name="Default" comment="" />
+    <list default="true" id="9ef6855a-ca84-444e-a491-ca1ead165ee2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Speedy Fish/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Speedy Fish/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Speedy Fish/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Speedy Fish/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,33 +14,117 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FishMovement.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FishMovement.cs">
+      <file leaf-file-name="Randomizer.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Randomizer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="270">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
               <folding>
-                <marker date="1538004830672" expanded="true" signature="6:100" ph="..." />
-                <marker date="1538004830672" expanded="true" signature="192:642" ph="{...}" />
-                <marker date="1538004830672" expanded="true" signature="349:432" ph="{...}" />
-                <marker date="1538004830672" expanded="true" signature="457:640" ph="{...}" />
-                <marker date="1538004830672" expanded="true" signature="493:522" ph="{...}" />
-                <marker date="1538004830672" expanded="true" signature="560:594" ph="{...}" />
+                <marker date="1538017084471" expanded="false" signature="6:213" ph="..." />
+                <marker date="1538017084471" expanded="true" signature="255:2785" ph="{...}" />
+                <marker date="1538017084471" expanded="true" signature="638:1574" ph="{...}" />
+                <marker date="1538017084471" expanded="true" signature="783:817" ph="{...}" />
+                <marker date="1538017084471" expanded="true" signature="851:887" ph="{...}" />
+                <marker date="1538017084471" expanded="true" signature="1245:1571" ph="{...}" />
+                <marker date="1538017084471" expanded="true" signature="1598:2632" ph="{...}" />
+                <marker date="1538017084471" expanded="true" signature="1635:2553" ph="{...}" />
+                <marker date="1538017084471" expanded="true" signature="1775:2549" ph="{...}" />
+                <marker date="1538017084471" expanded="true" signature="2585:2626" ph="{...}" />
+                <marker date="1538017084471" expanded="true" signature="2659:2783" ph="{...}" />
+                <marker date="1538017084471" expanded="true" signature="2696:2780" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CameraMovement.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs">
+      <file leaf-file-name="Card.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Card.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="60">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding>
-                <marker date="1538005002525" expanded="false" signature="6:78" ph="..." />
-                <marker date="1538005002525" expanded="true" signature="124:358" ph="{...}" />
-                <marker date="1538005002525" expanded="true" signature="223:281" ph="{...}" />
-                <marker date="1538005002525" expanded="true" signature="306:356" ph="{...}" />
+                <marker date="1538007351873" expanded="false" signature="6:78" ph="..." />
+                <marker date="1538007351873" expanded="true" signature="133:162" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Krypto.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Krypto.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding>
+                <marker date="1538012091891" expanded="false" signature="6:119" ph="..." />
+                <marker date="1538012091891" expanded="true" signature="156:672" ph="{...}" />
+                <marker date="1538012091891" expanded="true" signature="261:384" ph="{...}" />
+                <marker date="1538012091891" expanded="true" signature="345:381" ph="{...}" />
+                <marker date="1538012091891" expanded="true" signature="408:665" ph="{...}" />
+                <marker date="1538012091891" expanded="true" signature="446:536" ph="{...}" />
+                <marker date="1538012091891" expanded="true" signature="494:532" ph="{...}" />
+                <marker date="1538012091891" expanded="true" signature="571:662" ph="{...}" />
+                <marker date="1538012091891" expanded="true" signature="619:658" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ButtonScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/ButtonScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+              <folding>
+                <marker date="1538009409583" expanded="false" signature="6:78" ph="..." />
+                <marker date="1538009409583" expanded="true" signature="121:360" ph="{...}" />
+                <marker date="1538009409583" expanded="true" signature="222:358" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculation.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Calculation.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <marker date="1538008530853" expanded="false" signature="6:78" ph="..." />
+                <marker date="1538008530853" expanded="true" signature="140:624" ph="{...}" />
+                <marker date="1538008530853" expanded="true" signature="212:622" ph="{...}" />
+                <marker date="1538008530853" expanded="true" signature="241:616" ph="{...}" />
+                <marker date="1538008530853" expanded="true" signature="461:531" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlippedCards.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/FlippedCards.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <marker date="1538016931649" expanded="false" signature="6:78" ph="..." />
+                <marker date="1538016931649" expanded="true" signature="142:356" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CardScripts.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/CardScripts.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <marker date="1538014463683" expanded="true" signature="6:100" ph="..." />
+                <marker date="1538014463683" expanded="true" signature="142:710" ph="{...}" />
+                <marker date="1538014463683" expanded="true" signature="268:333" ph="{...}" />
+                <marker date="1538014463683" expanded="true" signature="356:707" ph="{...}" />
+                <marker date="1538014463683" expanded="true" signature="394:529" ph="{...}" />
+                <marker date="1538014463683" expanded="true" signature="569:704" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -49,21 +136,36 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Randomizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Calculation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/FlippedCards.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FishMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Krypto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/ButtonScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/CardScripts.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Card.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/FishMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Randomizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Card.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Calculation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KryptoScripts/ButtonScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KryptoScripts/CardScripts.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Krypto.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KryptoScripts/FlippedCards.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Randomizer.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-8" />
+    <option name="width" value="1223" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -75,7 +177,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -88,6 +189,7 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,11 +226,14 @@
       <updated>1538003871673</updated>
       <workItem from="1538003874782" duration="13000" />
       <workItem from="1538003960687" duration="1412000" />
+      <workItem from="1538005631899" duration="315000" />
+      <workItem from="1538006161134" duration="9715000" />
+      <workItem from="1538016841389" duration="240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1425000" />
+    <option name="totallyTimeSpent" value="11695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -140,7 +245,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="784" height="832" extended-state="0" />
+    <frame x="-6" y="0" width="978" height="830" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -149,9 +255,9 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2569061" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11764706" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Unity" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -170,17 +276,105 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Randomizer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="1320">
+          <caret line="88" column="9" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
+          <folding>
+            <marker date="1538017084471" expanded="false" signature="6:213" ph="..." />
+            <marker date="1538017084471" expanded="true" signature="255:2785" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="638:1574" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="783:817" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="851:887" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="1245:1571" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="1598:2632" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="1635:2553" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="1775:2549" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="2585:2626" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="2659:2783" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="2696:2780" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Card.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="47" />
+        <state relative-caret-position="60">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <marker date="1538007351873" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538007351873" expanded="true" signature="133:162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Krypto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <marker date="1538012091891" expanded="false" signature="6:119" ph="..." />
+            <marker date="1538012091891" expanded="true" signature="156:672" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="261:384" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="345:381" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="408:665" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="446:536" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="494:532" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="571:662" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="619:658" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/ButtonScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <marker date="1538009409583" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538009409583" expanded="true" signature="121:360" ph="{...}" />
+            <marker date="1538009409583" expanded="true" signature="222:358" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Calculation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <marker date="1538008530853" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538008530853" expanded="true" signature="140:624" ph="{...}" />
+            <marker date="1538008530853" expanded="true" signature="212:622" ph="{...}" />
+            <marker date="1538008530853" expanded="true" signature="241:616" ph="{...}" />
+            <marker date="1538008530853" expanded="true" signature="461:531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/CardScripts.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1538014463683" expanded="true" signature="6:100" ph="..." />
+            <marker date="1538014463683" expanded="true" signature="142:710" ph="{...}" />
+            <marker date="1538014463683" expanded="true" signature="268:333" ph="{...}" />
+            <marker date="1538014463683" expanded="true" signature="356:707" ph="{...}" />
+            <marker date="1538014463683" expanded="true" signature="394:529" ph="{...}" />
+            <marker date="1538014463683" expanded="true" signature="569:704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/FlippedCards.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <marker date="1538016931649" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538016931649" expanded="true" signature="142:356" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -188,14 +382,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <marker date="1538004830672" expanded="true" signature="6:100" ph="..." />
-            <marker date="1538004830672" expanded="true" signature="192:642" ph="{...}" />
-            <marker date="1538004830672" expanded="true" signature="349:432" ph="{...}" />
-            <marker date="1538004830672" expanded="true" signature="457:640" ph="{...}" />
-            <marker date="1538004830672" expanded="true" signature="493:522" ph="{...}" />
-            <marker date="1538004830672" expanded="true" signature="560:594" ph="{...}" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FishMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -203,11 +403,125 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Randomizer.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CardScripts.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FishMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="29" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/CardScripts.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
-            <marker date="1538005002525" expanded="false" signature="6:78" ph="..." />
-            <marker date="1538005002525" expanded="true" signature="124:358" ph="{...}" />
-            <marker date="1538005002525" expanded="true" signature="223:281" ph="{...}" />
-            <marker date="1538005002525" expanded="true" signature="306:356" ph="{...}" />
+            <marker date="1538014463683" expanded="true" signature="6:100" ph="..." />
+            <marker date="1538014463683" expanded="true" signature="142:710" ph="{...}" />
+            <marker date="1538014463683" expanded="true" signature="268:333" ph="{...}" />
+            <marker date="1538014463683" expanded="true" signature="356:707" ph="{...}" />
+            <marker date="1538014463683" expanded="true" signature="394:529" ph="{...}" />
+            <marker date="1538014463683" expanded="true" signature="569:704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Calculation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <marker date="1538008530853" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538008530853" expanded="true" signature="140:624" ph="{...}" />
+            <marker date="1538008530853" expanded="true" signature="212:622" ph="{...}" />
+            <marker date="1538008530853" expanded="true" signature="241:616" ph="{...}" />
+            <marker date="1538008530853" expanded="true" signature="461:531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/ButtonScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <marker date="1538009409583" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538009409583" expanded="true" signature="121:360" ph="{...}" />
+            <marker date="1538009409583" expanded="true" signature="222:358" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Krypto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <marker date="1538012091891" expanded="false" signature="6:119" ph="..." />
+            <marker date="1538012091891" expanded="true" signature="156:672" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="261:384" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="345:381" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="408:665" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="446:536" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="494:532" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="571:662" ph="{...}" />
+            <marker date="1538012091891" expanded="true" signature="619:658" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Card.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <marker date="1538007351873" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538007351873" expanded="true" signature="133:162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/FlippedCards.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <marker date="1538016931649" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538016931649" expanded="true" signature="142:356" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/KryptoScripts/Randomizer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <marker date="1538017084471" expanded="false" signature="6:213" ph="..." />
+            <marker date="1538017084471" expanded="true" signature="255:2785" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="638:1574" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="783:817" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="851:887" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="1245:1571" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="1598:2632" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="1635:2553" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="1775:2549" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="2585:2626" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="2659:2783" ph="{...}" />
+            <marker date="1538017084471" expanded="true" signature="2696:2780" ph="{...}" />
           </folding>
         </state>
       </provider>
