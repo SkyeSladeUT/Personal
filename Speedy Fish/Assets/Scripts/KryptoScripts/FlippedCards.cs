@@ -12,5 +12,4 @@ public class FlippedCards : ScriptableObject {
 	public int SumNum;
 	public bool hasCalculated;
 	public bool isFinished;
-	public int Goal;
 }

@@ -19,6 +19,7 @@
             <e p="CardScripts.cs" t="Include" />
             <e p="FlippedCards.cs" t="Include" />
             <e p="Krypto.cs" t="Include" />
+            <e p="PLayer.cs" t="Include" />
             <e p="Randomizer.cs" t="Include" />
           </e>
           <e p="MovePattern.cs" t="Include" />

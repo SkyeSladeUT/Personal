@@ -10,28 +10,34 @@ public class CardScripts : MonoBehaviour
 	public Card card;
 	private bool isFlipped;
 	public Text num;
+	public Transform AnswerPosition;
+	private bool CanUse;
 
 	private void OnEnable()
 	{
+		CanUse = true;
 		card.cardNum = int.Parse(num.text);
 		isFlipped = false;
 	}
 
 	public void GetNum()
 	{
-		if (flippedCards.NumChosen == 0)
+		if (!isFlipped)
 		{
-			flippedCards.Card1 = gameObject;
-			flippedCards.Card1Num = card.cardNum;
-			flippedCards.NumChosen++;
-			isFlipped = true;
-		}
-		else if (flippedCards.NumChosen == 1)
-		{
-			flippedCards.Card2 = gameObject;
-			flippedCards.Card2Num = card.cardNum;
-			flippedCards.NumChosen++;
-			isFlipped = true;
+			if (flippedCards.NumChosen == 0)
+			{
+				flippedCards.Card1 = gameObject;
+				flippedCards.Card1Num = card.cardNum;
+				flippedCards.NumChosen++;
+				isFlipped = true;
+			}
+			else if (flippedCards.NumChosen == 1)
+			{
+				flippedCards.Card2 = gameObject;
+				flippedCards.Card2Num = card.cardNum;
+				flippedCards.NumChosen++;
+				isFlipped = true;
+			}
 		}
 	}
 

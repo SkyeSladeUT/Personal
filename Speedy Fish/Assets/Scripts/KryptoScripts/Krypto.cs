@@ -29,14 +29,6 @@ public class Krypto : MonoBehaviour
 				button.SetActive(true);
 			}
 		}
-
-		if (flippedCards.hasCalculated)
-		{
-			foreach (var button in CalculateButtons)
-			{
-				button.SetActive(false);
-			}
-		}
 	}
 
 

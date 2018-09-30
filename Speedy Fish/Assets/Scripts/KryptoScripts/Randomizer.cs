@@ -1,27 +1,41 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using Cinemachine;
+using JetBrains.Annotations;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
 using UnityEngine.UI;
 using Button = UnityEngine.Experimental.UIElements.Button;
 
 
 public class Randomizer : MonoBehaviour
 {
+	public PLayer player;
 	public FlippedCards flippedCards;
+	public GameObject StartOver;
+	public GameObject NewGame;
 	public List<GameObject> Cards;
-	private List<GameObject> RandomCards = new List<GameObject>();
+	public List<Text> CardText;
+	public Text GoalText;
 	public List<GameObject> positions;
 	public List<Text> texts;
-	public Transform MainAnswerPosition;
-	private GameObject AnswerCard;
 	public List<Transform> CardPositions;
+	public Text WinText;
+	public Text ScoreText;
+	
+	private List<GameObject> RandomCards = new List<GameObject>();
+	private int Goal;
 	private Vector3 MoveVector;
 	private int CurrentLayer;
 
+
 	private void Start()
 	{
+		ScoreText.text = "Score: " + player.score;
+		NewGame.SetActive(false);
+		StartOver.SetActive(false);
+		WinText.text = "";
 		flippedCards.isFinished = false;
 		flippedCards.NumChosen = 0;
 		flippedCards.SumNum = 0;
@@ -36,11 +50,9 @@ public class Randomizer : MonoBehaviour
 		}
 
 		var RandomMain = Random.Range(0, Cards.Count - 1);
-		AnswerCard = Cards[RandomMain];
-		AnswerCard.SetActive(true);
+		GoalText.text = CardText[RandomMain].text;
+		Goal = int.Parse(CardText[RandomMain].text);
 		Cards.Remove(Cards[RandomMain]);
-		MoveVector.Set(MainAnswerPosition.position.x, MainAnswerPosition.position.y, MainAnswerPosition.position.z);
-		AnswerCard.transform.position = MoveVector;
 		for (int i = 0; i < CardPositions.Count; i++)
 		{
 			var randomNum = Random.Range(0, Cards.Count - 1);
@@ -82,27 +94,52 @@ public class Randomizer : MonoBehaviour
 					case 4:
 						texts[3].text = flippedCards.SumNum.ToString();
 						positions[3].SetActive(true);
-						flippedCards.isFinished = true;
+						if (flippedCards.SumNum == Goal)
+						{
+							WinText.text = "Correct";
+							flippedCards.isFinished = true;
+							player.score += 10;
+							ScoreText.text = "Score: " + player.score;
+							NewGame.SetActive(true);
+						}
+						else
+						{
+							WinText.text = "Incorrect";
+							StartOver.SetActive(true);
+							NewGame.SetActive(true);
+						}
+
 						flippedCards.hasCalculated = false;
 						break;
 					default :
 						break;
 			}
 		}
-
-		if (flippedCards.isFinished)
-		{
-			StartCoroutine("StartAgain");
-		}
 		
 	}
 
-	IEnumerator StartAgain()
+	public void ReStart()
 	{
-		while (flippedCards.isFinished)
+		foreach (var card in positions)
 		{
-			yield return new WaitForSeconds(2);
-			SceneManager.LoadScene("Krypto");
+			card.SetActive(false);		
 		}
+
+		foreach (var card in RandomCards)
+		{
+			card.SetActive(true);
+		}
+
+		flippedCards.NumChosen = 0;
+		flippedCards.hasCalculated = false;
+		WinText.text = "";
+		StartOver.SetActive(false);
+		NewGame.SetActive(false);
+		CurrentLayer = 1;
+	}
+
+	public void StartAgain()
+	{
+		SceneManager.LoadScene("Krypto");
 	}
 }
