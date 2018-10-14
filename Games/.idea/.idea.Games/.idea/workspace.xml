@@ -4,9 +4,72 @@
     <list default="true" id="2279d131-0093-4a25-8b9f-45889adf0cef" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Games/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Games/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Games/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Games/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SCripts/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SCripts/Card.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Leter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Leter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/A.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/A.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/B.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/B.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/C.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/C.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/D.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/D.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/E.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/E.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/F.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/F.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/G.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/G.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/H.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/H.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/I.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/I.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/J.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/J.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/K.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/K.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/L.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/L.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/M.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/M.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/N.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/N.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/O.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/O.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/P.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/P.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/Q.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/Q.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/R.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/R.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/S.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/S.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/T.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/T.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/U.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/U.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/V.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/V.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/W.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/W.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/X.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/X.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/Y.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/Y.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/Z.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letters/Z.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Word.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Word.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,13 +80,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Card.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Card.cs">
+      <file leaf-file-name="FlippedCards.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1537981015553" expanded="false" signature="6:78" ph="..." />
-                <marker date="1537981015553" expanded="true" signature="133:227" ph="{...}" />
+                <marker date="1538435951448" expanded="false" signature="6:78" ph="..." />
+                <marker date="1538435951448" expanded="true" signature="142:296" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -32,83 +95,56 @@
       <file leaf-file-name="CardScripts.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="53" column="45" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
+            <state relative-caret-position="915">
+              <caret line="62" column="77" selection-start-line="62" selection-start-column="77" selection-end-line="62" selection-end-column="77" />
               <folding>
-                <marker date="1537994140947" expanded="true" signature="6:44" ph="..." />
-                <marker date="1537994140947" expanded="true" signature="86:1137" ph="{...}" />
-                <marker date="1537994140947" expanded="true" signature="219:296" ph="{...}" />
-                <marker date="1537994140947" expanded="true" signature="325:828" ph="{...}" />
-                <marker date="1537994140947" expanded="true" signature="370:825" ph="{...}" />
-                <marker date="1537994140947" expanded="true" signature="411:595" ph="{...}" />
-                <marker date="1537994140947" expanded="true" signature="637:821" ph="{...}" />
-                <marker date="1537994140947" expanded="true" signature="852:939" ph="{...}" />
-                <marker date="1537994140947" expanded="true" signature="891:933" ph="{...}" />
-                <marker date="1537994140947" expanded="true" signature="967:1135" ph="{...}" />
-                <marker date="1537994140947" expanded="true" signature="990:1132" ph="{...}" />
+                <marker date="1539477899368" expanded="false" signature="6:44" ph="..." />
+                <marker date="1539477899368" expanded="true" signature="86:1418" ph="{...}" />
+                <marker date="1539477899368" expanded="true" signature="219:296" ph="{...}" />
+                <marker date="1539477899368" expanded="true" signature="325:907" ph="{...}" />
+                <marker date="1539477899368" expanded="true" signature="370:825" ph="{...}" />
+                <marker date="1539477899368" expanded="true" signature="411:595" ph="{...}" />
+                <marker date="1539477899368" expanded="true" signature="637:821" ph="{...}" />
+                <marker date="1539477899368" expanded="true" signature="862:904" ph="{...}" />
+                <marker date="1539477899368" expanded="true" signature="910:1026" ph="/* private void LateUpdate() ... */" />
+                <marker date="1539477899368" expanded="true" signature="1054:1416" ph="{...}" />
+                <marker date="1539477899368" expanded="true" signature="1077:1413" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FlippedCards.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.cs">
+      <file leaf-file-name="Memory.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state relative-caret-position="225">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
               <folding>
-                <marker date="1537993972723" expanded="false" signature="6:78" ph="..." />
-                <marker date="1537993972723" expanded="true" signature="142:296" ph="{...}" />
+                <marker date="1539478724984" expanded="false" signature="6:87" ph="..." />
+                <marker date="1539478724984" expanded="true" signature="146:1543" ph="{...}" />
+                <marker date="1539478724984" expanded="true" signature="381:655" ph="{...}" />
+                <marker date="1539478724984" expanded="true" signature="679:853" ph="{...}" />
+                <marker date="1539478724984" expanded="true" signature="718:792" ph="{...}" />
+                <marker date="1539478724984" expanded="true" signature="814:849" ph="{...}" />
+                <marker date="1539478724984" expanded="true" signature="880:1541" ph="{...}" />
+                <marker date="1539478724984" expanded="true" signature="939:1251" ph="{...}" />
+                <marker date="1539478724984" expanded="true" signature="1119:1179" ph="{...}" />
+                <marker date="1539478724984" expanded="true" signature="1187:1247" ph="{...}" />
+                <marker date="1539478724984" expanded="true" signature="1258:1467" ph="{...}" />
+                <marker date="1539478724984" expanded="true" signature="1295:1375" ph="{...}" />
+                <marker date="1539478724984" expanded="true" signature="1383:1463" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Randomizer.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs">
+      <file leaf-file-name="Card.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Card.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1537988925357" expanded="false" signature="6:113" ph="..." />
-                <marker date="1537988925357" expanded="true" signature="155:812" ph="{...}" />
-                <marker date="1537988925357" expanded="true" signature="428:809" ph="{...}" />
-                <marker date="1537988925357" expanded="true" signature="458:592" ph="{...}" />
-                <marker date="1537988925357" expanded="true" signature="641:806" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Memory.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-              <folding>
-                <marker date="1537994662126" expanded="true" signature="6:87" ph="..." />
-                <marker date="1537994662126" expanded="true" signature="124:1125" ph="{...}" />
-                <marker date="1537994662126" expanded="true" signature="299:480" ph="{...}" />
-                <marker date="1537994662126" expanded="true" signature="504:678" ph="{...}" />
-                <marker date="1537994662126" expanded="true" signature="543:617" ph="{...}" />
-                <marker date="1537994662126" expanded="true" signature="639:674" ph="{...}" />
-                <marker date="1537994662126" expanded="true" signature="705:1123" ph="{...}" />
-                <marker date="1537994662126" expanded="true" signature="764:915" ph="{...}" />
-                <marker date="1537994662126" expanded="true" signature="922:1049" ph="{...}" />
-                <marker date="1537994662126" expanded="true" signature="959:998" ph="{...}" />
-                <marker date="1537994662126" expanded="true" signature="1006:1045" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Player.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-              <folding>
-                <marker date="1537994891358" expanded="false" signature="6:100" ph="..." />
-                <marker date="1537994891358" expanded="true" signature="157:235" ph="{...}" />
+                <marker date="1538435951389" expanded="false" signature="6:78" ph="..." />
+                <marker date="1538435951389" expanded="true" signature="133:227" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -120,15 +156,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Word.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Leter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Card.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Card.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -145,16 +177,16 @@
         <option value="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemoryStart.cs" />
         <option value="$PROJECT_DIR$/Assets/SCripts/MemoryGame/IndividualCards.cs" />
         <option value="$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.cs" />
+        <option value="$PROJECT_DIR$/Assets/SCripts/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs" />
         <option value="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" />
-        <option value="$PROJECT_DIR$/Assets/SCripts/Player.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1372" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -162,11 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -178,6 +205,11 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
       </pane>
     </panes>
   </component>
@@ -217,11 +249,13 @@
       <workItem from="1537916186073" duration="2862000" />
       <workItem from="1537919375271" duration="2330000" />
       <workItem from="1537978935102" duration="12403000" />
+      <workItem from="1539476534952" duration="42000" />
+      <workItem from="1539476591288" duration="2223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17620000" />
+    <option name="totallyTimeSpent" value="19885000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -233,7 +267,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-6" y="0" width="1097" height="830" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -242,7 +276,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10414658" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -264,135 +298,31 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Randomizer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/FlippedCards.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/CardScripts.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Memory.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Randomizer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Leter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <marker date="1537992267092" expanded="false" signature="6:102" ph="..." />
-            <marker date="1537992267092" expanded="true" signature="158:202" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding>
-            <marker date="1537992267075" expanded="true" signature="26:189" ph="{...}" />
-            <marker date="1537992267075" expanded="true" signature="54:186" ph="{...}" />
-            <marker date="1537992267075" expanded="true" signature="96:180" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Word.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <marker date="1537991311115" expanded="true" signature="6:131" ph="..." />
-            <marker date="1537991311115" expanded="true" signature="169:317" ph="{...}" />
-            <marker date="1537991311115" expanded="true" signature="247:315" ph="{...}" />
-            <marker date="1537991311115" expanded="true" signature="284:312" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemoryStart.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/IndividualCards.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
-          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state>
           <folding>
-            <marker date="1537993972723" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537993972723" expanded="true" signature="142:296" ph="{...}" />
+            <marker date="1538435951448" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538435951448" expanded="true" signature="142:296" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1537988925357" expanded="false" signature="6:113" ph="..." />
-            <marker date="1537988925357" expanded="true" signature="155:812" ph="{...}" />
-            <marker date="1537988925357" expanded="true" signature="428:809" ph="{...}" />
-            <marker date="1537988925357" expanded="true" signature="458:592" ph="{...}" />
-            <marker date="1537988925357" expanded="true" signature="641:806" ph="{...}" />
+            <marker date="1539477899368" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539477899368" expanded="true" signature="86:1418" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="219:296" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="325:907" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="370:825" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="411:595" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="637:821" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="862:904" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="910:1026" ph="/* private void LateUpdate() ... */" />
+            <marker date="1539477899368" expanded="true" signature="1054:1416" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="1077:1413" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -401,59 +331,121 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1537981015553" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537981015553" expanded="true" signature="133:227" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="45" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
-          <folding>
-            <marker date="1537994140947" expanded="true" signature="6:44" ph="..." />
-            <marker date="1537994140947" expanded="true" signature="86:1137" ph="{...}" />
-            <marker date="1537994140947" expanded="true" signature="219:296" ph="{...}" />
-            <marker date="1537994140947" expanded="true" signature="325:828" ph="{...}" />
-            <marker date="1537994140947" expanded="true" signature="370:825" ph="{...}" />
-            <marker date="1537994140947" expanded="true" signature="411:595" ph="{...}" />
-            <marker date="1537994140947" expanded="true" signature="637:821" ph="{...}" />
-            <marker date="1537994140947" expanded="true" signature="852:939" ph="{...}" />
-            <marker date="1537994140947" expanded="true" signature="891:933" ph="{...}" />
-            <marker date="1537994140947" expanded="true" signature="967:1135" ph="{...}" />
-            <marker date="1537994140947" expanded="true" signature="990:1132" ph="{...}" />
+            <marker date="1538435951389" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538435951389" expanded="true" signature="133:227" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state>
           <folding>
-            <marker date="1537994662126" expanded="true" signature="6:87" ph="..." />
-            <marker date="1537994662126" expanded="true" signature="124:1125" ph="{...}" />
-            <marker date="1537994662126" expanded="true" signature="299:480" ph="{...}" />
-            <marker date="1537994662126" expanded="true" signature="504:678" ph="{...}" />
-            <marker date="1537994662126" expanded="true" signature="543:617" ph="{...}" />
-            <marker date="1537994662126" expanded="true" signature="639:674" ph="{...}" />
-            <marker date="1537994662126" expanded="true" signature="705:1123" ph="{...}" />
-            <marker date="1537994662126" expanded="true" signature="764:915" ph="{...}" />
-            <marker date="1537994662126" expanded="true" signature="922:1049" ph="{...}" />
-            <marker date="1537994662126" expanded="true" signature="959:998" ph="{...}" />
-            <marker date="1537994662126" expanded="true" signature="1006:1045" ph="{...}" />
+            <marker date="1539478724984" expanded="false" signature="6:87" ph="..." />
+            <marker date="1539478724984" expanded="true" signature="146:1543" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="381:655" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="679:853" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="718:792" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="814:849" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="880:1541" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="939:1251" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="1119:1179" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="1187:1247" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="1258:1467" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="1295:1375" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="1383:1463" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state>
           <folding>
-            <marker date="1537994891358" expanded="false" signature="6:100" ph="..." />
-            <marker date="1537994891358" expanded="true" signature="157:235" ph="{...}" />
+            <marker date="1538435951448" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538435951448" expanded="true" signature="142:296" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Randomizer.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/FlippedCards.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/CardScripts.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Memory.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Randomizer.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Leter.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Letter.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Word.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemoryStart.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/IndividualCards.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Card.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1538435951389" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538435951389" expanded="true" signature="133:227" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1538435951448" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538435951448" expanded="true" signature="142:296" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="62" column="77" selection-start-line="62" selection-start-column="77" selection-end-line="62" selection-end-column="77" />
+          <folding>
+            <marker date="1539477899368" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539477899368" expanded="true" signature="86:1418" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="219:296" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="325:907" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="370:825" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="411:595" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="637:821" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="862:904" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="910:1026" ph="/* private void LateUpdate() ... */" />
+            <marker date="1539477899368" expanded="true" signature="1054:1416" ph="{...}" />
+            <marker date="1539477899368" expanded="true" signature="1077:1413" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <marker date="1539478724984" expanded="false" signature="6:87" ph="..." />
+            <marker date="1539478724984" expanded="true" signature="146:1543" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="381:655" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="679:853" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="718:792" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="814:849" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="880:1541" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="939:1251" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="1119:1179" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="1187:1247" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="1258:1467" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="1295:1375" ph="{...}" />
+            <marker date="1539478724984" expanded="true" signature="1383:1463" ph="{...}" />
           </folding>
         </state>
       </provider>

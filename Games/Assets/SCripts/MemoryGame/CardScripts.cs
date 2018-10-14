@@ -36,16 +36,21 @@ public class CardScripts : MonoBehaviour
 				isFlipped = true;
 			}
 		}
+
+		if (flippedCards.NumFlipped >= 2)
+		{
+			StartCoroutine("ChangeColor");
+		}
 	}
 
-	private void Update()
+	/*private void LateUpdate()
 	{
 		if (flippedCards.NumFlipped >= 2)
 		{
 			StartCoroutine("ChangeColor");
 		}
 		
-	}
+	}*/
 
 	IEnumerator ChangeColor()
 	{
@@ -53,6 +58,9 @@ public class CardScripts : MonoBehaviour
 		{
 			yield return new WaitForSeconds(.5f);
 			renderer.material = card.backColor;
+			flippedCards.Card1.GetComponent<Renderer>().material =
+				flippedCards.Card1.GetComponent<CardScripts>().card.backColor;
+			flippedCards.Card1.GetComponent<CardScripts>().isFlipped = false;
 			flippedCards.canFlip = true;
 			isFlipped = false;
 		}
