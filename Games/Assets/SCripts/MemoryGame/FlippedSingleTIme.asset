@@ -8,9 +8,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8d2aa49eb56023c46bfcc8cb78a3544a, type: 3}
-  m_Name: player1
+  m_Script: {fileID: 11500000, guid: e9afb4e74f4232d4a93116afba6a7288, type: 3}
+  m_Name: FlippedSingleTIme
   m_EditorClassIdentifier: 
-  PlayerName: 
-  score: 0
-  ScoreText: {fileID: 0}
+  Card1: {fileID: 0}
+  Card1name: 14
+  Card2: {fileID: 0}
+  Card2name: 14
+  NumFlipped: 0
+  canFlip: 1
