@@ -1,11 +1,11 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using UnityEngine;
-using UnityEngine.Experimental.UIElements;
 using UnityEngine.UI;
 
 public class MemorySingleTime : MonoBehaviour
 {
-	public Player player1; //player2;
+	public SinglePlayer player; //player2;
 	//private Player currentplayer;
 	//public Text Player1Score; //, Player2Score, CurrentPlayerText;
 	public FlippedCards flippedCards;
@@ -20,7 +20,7 @@ public class MemorySingleTime : MonoBehaviour
 		GameOver = false;
 		Time = 0;
 		//Player1Score.text = "0";
-		player1.score = 0;
+		player.score = 0;
 		numCards = 42;
 		button.SetActive(false);
 		flippedCards.canFlip = true;
@@ -52,7 +52,7 @@ public class MemorySingleTime : MonoBehaviour
 			Destroy(flippedCards.Card2);
 			flippedCards.canFlip = true;
 			numCards -= 2;
-			player1.score += 1;
+			player.score += 1;
 		}
 
 		flippedCards.NumFlipped = 0;
@@ -68,4 +68,13 @@ public class MemorySingleTime : MonoBehaviour
 			yield return new WaitForSeconds(1);
 		}
 	}
+
+	public void EndGame()
+	{
+		if (player.score < player.BestScore)
+		{
+			player.BestScore = player.score;
+		}
+	}
+	
 }

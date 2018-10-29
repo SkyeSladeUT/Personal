@@ -8,7 +8,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8d2aa49eb56023c46bfcc8cb78a3544a, type: 3}
-  m_Name: playerSingle
+  m_Script: {fileID: 11500000, guid: ab65667ccb782b44ba40d89f2ac53b16, type: 3}
+  m_Name: SingelPlayer
   m_EditorClassIdentifier: 
   score: 0
+  score: 0
+  BestScore: 0
+  BestTime: 0
+  Time: 0

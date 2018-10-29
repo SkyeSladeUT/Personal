@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class MemorySingleCount : MonoBehaviour
 {
-	public Player player1;
+	public SinglePlayer player1;
 	public FlippedCards flippedCards;
 	private int numCards;
 	public GameObject button;

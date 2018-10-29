@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MemoryTwoPlayer.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8cc3bd51e8f5bad41867633046d364cd
+  - enabled: 1
+    path: Assets/Scenes/MemorySingleCount.unity
+    guid: e7fd53e557fae344c9f01d7bad77ca32
+  - enabled: 1
+    path: Assets/Scenes/MemorySingleTimer.unity
+    guid: 36e6bb8627de6c54e9bec0ad6781a349
   m_configObjects: {}
