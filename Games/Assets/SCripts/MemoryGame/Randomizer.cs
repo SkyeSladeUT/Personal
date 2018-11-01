@@ -25,7 +25,7 @@ public class Randomizer : MonoBehaviour
 
 		for (int i = 0; i < CardPositions.Count; i++)
 		{
-			MoveVector.Set(CardPositions[i].position.x, CardPositions[i].position.y, CardPositions[i].position.z);
+			MoveVector.Set(CardPositions[i].position.x, CardPositions[i].position.y, 0);
 			RandomCards[i].transform.position = MoveVector;
 		}
 	}

@@ -40,6 +40,7 @@ public class MemorySingleTime : MonoBehaviour
 		{
 			button.SetActive(true);
 			GameOver = true;
+			EndGame();
 		}
 
 	}
@@ -69,11 +70,11 @@ public class MemorySingleTime : MonoBehaviour
 		}
 	}
 
-	public void EndGame()
+	private void EndGame()
 	{
-		if (player.score < player.BestScore)
+		if (Time < player.BestTime)
 		{
-			player.BestScore = player.score;
+			player.BestTime = Time;
 		}
 	}
 	

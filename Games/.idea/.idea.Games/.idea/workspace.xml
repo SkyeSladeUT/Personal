@@ -3,18 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="2279d131-0093-4a25-8b9f-45889adf0cef" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Games/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Games/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Games/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Games/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DontDestroy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DontDestroy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedSingleCount.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedSingleCount.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedSingleTIme.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedSingleTIme.asset.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/playerSingle.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/playerSingle.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/SingelPlayer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/SingelPlayer.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemorySingleCount.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MemorySingleCount.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemorySingleTimer.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MemorySingleTimer.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Speedy Fish/.idea/.idea.Speedy Fish/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Speedy Fish/.idea/.idea.Speedy Fish/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Speedy Fish/.idea/.idea.Speedy Fish/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Speedy Fish/.idea/.idea.Speedy Fish/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Speedy Fish/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Speedy Fish/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Speedy Fish/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Speedy Fish/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,25 +30,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Memory.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Memory.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
+            <state relative-caret-position="420">
               <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomAIMovement.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/SCripts/RandomAIMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
               <folding>
-                <marker date="1540840719165" expanded="false" signature="6:109" ph="..." />
-                <marker date="1540840719165" expanded="true" signature="146:1543" ph="{...}" />
-                <marker date="1540840719165" expanded="true" signature="381:655" ph="{...}" />
-                <marker date="1540840719165" expanded="true" signature="679:853" ph="{...}" />
-                <marker date="1540840719165" expanded="true" signature="718:792" ph="{...}" />
-                <marker date="1540840719165" expanded="true" signature="814:849" ph="{...}" />
-                <marker date="1540840719165" expanded="true" signature="880:1541" ph="{...}" />
-                <marker date="1540840719165" expanded="true" signature="939:1251" ph="{...}" />
-                <marker date="1540840719165" expanded="true" signature="1119:1179" ph="{...}" />
-                <marker date="1540840719165" expanded="true" signature="1187:1247" ph="{...}" />
-                <marker date="1540840719165" expanded="true" signature="1258:1467" ph="{...}" />
-                <marker date="1540840719165" expanded="true" signature="1295:1375" ph="{...}" />
-                <marker date="1540840719165" expanded="true" signature="1383:1463" ph="{...}" />
+                <marker date="1541110833727" expanded="true" signature="6:119" ph="..." />
+                <marker date="1541110833727" expanded="true" signature="166:796" ph="{...}" />
+                <marker date="1541110833727" expanded="true" signature="329:466" ph="{...}" />
+                <marker date="1541110833727" expanded="true" signature="493:794" ph="{...}" />
+                <marker date="1541110833727" expanded="true" signature="511:791" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Randomizer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="27" column="86" selection-start-line="27" selection-start-column="86" selection-end-line="27" selection-end-column="86" />
+              <folding>
+                <marker date="1541109823732" expanded="false" signature="6:113" ph="..." />
+                <marker date="1541109823732" expanded="true" signature="155:786" ph="{...}" />
+                <marker date="1541109823732" expanded="true" signature="428:783" ph="{...}" />
+                <marker date="1541109823732" expanded="true" signature="458:592" ph="{...}" />
+                <marker date="1541109823732" expanded="true" signature="641:780" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -52,11 +74,11 @@
       <file leaf-file-name="SinglePlayer.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="90">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
               <folding>
-                <marker date="1540844191221" expanded="false" signature="6:78" ph="..." />
-                <marker date="1540844191221" expanded="true" signature="131:218" ph="{...}" />
+                <marker date="1541105731427" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541105731427" expanded="true" signature="131:230" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -65,17 +87,19 @@
       <file leaf-file-name="MemorySingleCount.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="146">
+              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
               <folding>
-                <marker date="1540844191239" expanded="false" signature="6:109" ph="..." />
-                <marker date="1540844191239" expanded="true" signature="157:1133" ph="{...}" />
-                <marker date="1540844191239" expanded="true" signature="366:556" ph="{...}" />
-                <marker date="1540844191239" expanded="true" signature="580:774" ph="{...}" />
-                <marker date="1540844191239" expanded="true" signature="619:693" ph="{...}" />
-                <marker date="1540844191239" expanded="true" signature="715:770" ph="{...}" />
-                <marker date="1540844191239" expanded="true" signature="801:1131" ph="{...}" />
-                <marker date="1540844191239" expanded="true" signature="860:1005" ph="{...}" />
+                <marker date="1541105332448" expanded="false" signature="6:109" ph="..." />
+                <marker date="1541105332448" expanded="true" signature="157:1244" ph="{...}" />
+                <marker date="1541105332448" expanded="true" signature="365:554" ph="{...}" />
+                <marker date="1541105332448" expanded="true" signature="578:786" ph="{...}" />
+                <marker date="1541105332448" expanded="true" signature="617:691" ph="{...}" />
+                <marker date="1541105332448" expanded="true" signature="713:782" ph="{...}" />
+                <marker date="1541105332448" expanded="true" signature="813:1142" ph="{...}" />
+                <marker date="1541105332448" expanded="true" signature="872:1016" ph="{...}" />
+                <marker date="1541105332448" expanded="true" signature="1168:1242" ph="{...}" />
+                <marker date="1541105332448" expanded="true" signature="1202:1239" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -84,36 +108,45 @@
       <file leaf-file-name="MemorySingleTime.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="512">
+              <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
               <folding>
-                <marker date="1540843732106" expanded="true" signature="6:80" ph="..." />
-                <marker date="1540843732106" expanded="true" signature="127:1445" ph="{...}" />
-                <marker date="1540843732106" expanded="true" signature="171:268" ph="/* private Player currentplayer; ... */" />
-                <marker date="1540843732106" expanded="true" signature="443:663" ph="{...}" />
-                <marker date="1540843732106" expanded="true" signature="687:881" ph="{...}" />
-                <marker date="1540843732106" expanded="true" signature="726:800" ph="{...}" />
-                <marker date="1540843732106" expanded="true" signature="822:877" ph="{...}" />
-                <marker date="1540843732106" expanded="true" signature="908:1186" ph="{...}" />
-                <marker date="1540843732106" expanded="true" signature="967:1111" ph="{...}" />
-                <marker date="1540843732106" expanded="true" signature="1208:1328" ph="{...}" />
-                <marker date="1540843732106" expanded="true" signature="1231:1325" ph="{...}" />
-                <marker date="1540843732106" expanded="true" signature="1352:1441" ph="{...}" />
-                <marker date="1540843732106" expanded="true" signature="1394:1438" ph="{...}" />
+                <marker date="1541105731267" expanded="false" signature="6:80" ph="..." />
+                <marker date="1541105731267" expanded="true" signature="127:1442" ph="{...}" />
+                <marker date="1541105731267" expanded="true" signature="171:268" ph="/* private Player currentplayer; ... */" />
+                <marker date="1541105731267" expanded="true" signature="443:663" ph="{...}" />
+                <marker date="1541105731267" expanded="true" signature="687:895" ph="{...}" />
+                <marker date="1541105731267" expanded="true" signature="726:800" ph="{...}" />
+                <marker date="1541105731267" expanded="true" signature="822:891" ph="{...}" />
+                <marker date="1541105731267" expanded="true" signature="922:1200" ph="{...}" />
+                <marker date="1541105731267" expanded="true" signature="981:1125" ph="{...}" />
+                <marker date="1541105731267" expanded="true" signature="1222:1342" ph="{...}" />
+                <marker date="1541105731267" expanded="true" signature="1245:1339" ph="{...}" />
+                <marker date="1541105731267" expanded="true" signature="1367:1438" ph="{...}" />
+                <marker date="1541105731267" expanded="true" signature="1400:1435" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DontDestroy.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/DontDestroy.cs">
+      <file leaf-file-name="MemorySingleMovingTime.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleMovingTime.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            <state relative-caret-position="527">
+              <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
               <folding>
-                <marker date="1540843875111" expanded="false" signature="6:78" ph="..." />
-                <marker date="1540843875111" expanded="true" signature="121:183" ph="{...}" />
-                <marker date="1540843875111" expanded="true" signature="137:181" ph="{...}" />
+                <marker date="1541105731387" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541105731387" expanded="true" signature="154:1676" ph="{...}" />
+                <marker date="1541105731387" expanded="true" signature="384:629" ph="{...}" />
+                <marker date="1541105731387" expanded="true" signature="656:951" ph="{...}" />
+                <marker date="1541105731387" expanded="true" signature="704:808" ph="{...}" />
+                <marker date="1541105731387" expanded="true" signature="836:944" ph="{...}" />
+                <marker date="1541105731387" expanded="true" signature="981:1340" ph="{...}" />
+                <marker date="1541105731387" expanded="true" signature="1049:1250" ph="{...}" />
+                <marker date="1541105731387" expanded="true" signature="1365:1536" ph="{...}" />
+                <marker date="1541105731387" expanded="true" signature="1397:1530" ph="{...}" />
+                <marker date="1541105731387" expanded="true" signature="1564:1674" ph="{...}" />
+                <marker date="1541105731387" expanded="true" signature="1606:1668" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -121,31 +154,14 @@
       </file>
       <file leaf-file-name="SceneChange.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/SCripts/SceneChange.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1540840719179" expanded="false" signature="6:113" ph="..." />
-                <marker date="1540840719179" expanded="true" signature="156:616" ph="{...}" />
-                <marker date="1540840719179" expanded="true" signature="183:251" ph="{...}" />
-                <marker date="1540840719179" expanded="true" signature="272:312" ph="{...}" />
-                <marker date="1540840719179" expanded="true" signature="334:375" ph="{...}" />
-                <marker date="1540840719179" expanded="true" signature="401:452" ph="{...}" />
-                <marker date="1540840719179" expanded="true" signature="480:533" ph="{...}" />
-                <marker date="1540840719179" expanded="true" signature="561:614" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="Player.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="120">
               <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-              <folding>
-                <marker date="1537994891358" expanded="false" signature="6:100" ph="..." />
-                <marker date="1537994891358" expanded="true" signature="157:235" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -156,13 +172,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/DontDestroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SCripts/RandomAIMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/SceneChange.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleMovingTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SCripts/SceneChange.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -191,16 +209,19 @@
         <option value="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" />
         <option value="$PROJECT_DIR$/Assets/Menus.cs" />
         <option value="$PROJECT_DIR$/Assets/DontDestroy.cs" />
-        <option value="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs" />
         <option value="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs" />
         <option value="$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleMovingTime.cs" />
+        <option value="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs" />
+        <option value="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/SCripts/RandomAIMovement.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="146" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="145" />
     <option name="y" value="75" />
-    <option name="width" value="1374" />
+    <option name="width" value="1375" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -209,7 +230,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -222,10 +246,7 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,11 +290,12 @@
       <workItem from="1539904245423" duration="3583000" />
       <workItem from="1540050564430" duration="220000" />
       <workItem from="1540841231038" duration="2540000" />
+      <workItem from="1541104337750" duration="3418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26228000" />
+    <option name="totallyTimeSpent" value="29646000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -285,8 +307,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="116" y="60" width="1100" height="832" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -295,7 +316,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07675906" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.077884614" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -310,6 +331,29 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Unity" order="13" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.077884614" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Unit Tests" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32815966" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="UnityProjectConfiguration" isUnityUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
@@ -319,23 +363,66 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <marker date="1541105332448" expanded="false" signature="6:109" ph="..." />
+            <marker date="1541105332448" expanded="true" signature="157:1244" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="365:554" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="578:786" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="617:691" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="713:782" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="813:1142" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="872:1016" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="1168:1242" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="1202:1239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <marker date="1541105731267" expanded="false" signature="6:80" ph="..." />
+            <marker date="1541105731267" expanded="true" signature="127:1442" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="171:268" ph="/* private Player currentplayer; ... */" />
+            <marker date="1541105731267" expanded="true" signature="443:663" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="687:895" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="726:800" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="822:891" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="922:1200" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="981:1125" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="1222:1342" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="1245:1339" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="1367:1438" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="1400:1435" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/SceneChange.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <marker date="1540840719165" expanded="false" signature="6:109" ph="..." />
-            <marker date="1540840719165" expanded="true" signature="146:1543" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="381:655" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="679:853" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="718:792" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="814:849" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="880:1541" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="939:1251" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="1119:1179" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="1187:1247" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="1258:1467" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="1295:1375" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="1383:1463" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -386,120 +473,122 @@
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemorySinglePlayer/MemorySingleTime.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemorySinglePlayer/CardScriptsSingleTime.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemorySinglePlayer/MemorySingleCount.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Menus.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Menus.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/SceneChange.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1540840719179" expanded="false" signature="6:113" ph="..." />
-            <marker date="1540840719179" expanded="true" signature="156:616" ph="{...}" />
-            <marker date="1540840719179" expanded="true" signature="183:251" ph="{...}" />
-            <marker date="1540840719179" expanded="true" signature="272:312" ph="{...}" />
-            <marker date="1540840719179" expanded="true" signature="334:375" ph="{...}" />
-            <marker date="1540840719179" expanded="true" signature="401:452" ph="{...}" />
-            <marker date="1540840719179" expanded="true" signature="480:533" ph="{...}" />
-            <marker date="1540840719179" expanded="true" signature="561:614" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/DontDestroy.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding>
-            <marker date="1540843875111" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540843875111" expanded="true" signature="121:183" ph="{...}" />
-            <marker date="1540843875111" expanded="true" signature="137:181" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DontDestroy.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="120">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding>
-            <marker date="1537994891358" expanded="false" signature="6:100" ph="..." />
-            <marker date="1537994891358" expanded="true" signature="157:235" ph="{...}" />
+            <marker date="1541105731427" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541105731427" expanded="true" signature="131:230" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="512">
+          <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
           <folding>
-            <marker date="1540843732106" expanded="true" signature="6:80" ph="..." />
-            <marker date="1540843732106" expanded="true" signature="127:1445" ph="{...}" />
-            <marker date="1540843732106" expanded="true" signature="171:268" ph="/* private Player currentplayer; ... */" />
-            <marker date="1540843732106" expanded="true" signature="443:663" ph="{...}" />
-            <marker date="1540843732106" expanded="true" signature="687:881" ph="{...}" />
-            <marker date="1540843732106" expanded="true" signature="726:800" ph="{...}" />
-            <marker date="1540843732106" expanded="true" signature="822:877" ph="{...}" />
-            <marker date="1540843732106" expanded="true" signature="908:1186" ph="{...}" />
-            <marker date="1540843732106" expanded="true" signature="967:1111" ph="{...}" />
-            <marker date="1540843732106" expanded="true" signature="1208:1328" ph="{...}" />
-            <marker date="1540843732106" expanded="true" signature="1231:1325" ph="{...}" />
-            <marker date="1540843732106" expanded="true" signature="1352:1441" ph="{...}" />
-            <marker date="1540843732106" expanded="true" signature="1394:1438" ph="{...}" />
+            <marker date="1541105731267" expanded="false" signature="6:80" ph="..." />
+            <marker date="1541105731267" expanded="true" signature="127:1442" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="171:268" ph="/* private Player currentplayer; ... */" />
+            <marker date="1541105731267" expanded="true" signature="443:663" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="687:895" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="726:800" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="822:891" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="922:1200" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="981:1125" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="1222:1342" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="1245:1339" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="1367:1438" ph="{...}" />
+            <marker date="1541105731267" expanded="true" signature="1400:1435" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="146">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
           <folding>
-            <marker date="1540844191239" expanded="false" signature="6:109" ph="..." />
-            <marker date="1540844191239" expanded="true" signature="157:1133" ph="{...}" />
-            <marker date="1540844191239" expanded="true" signature="366:556" ph="{...}" />
-            <marker date="1540844191239" expanded="true" signature="580:774" ph="{...}" />
-            <marker date="1540844191239" expanded="true" signature="619:693" ph="{...}" />
-            <marker date="1540844191239" expanded="true" signature="715:770" ph="{...}" />
-            <marker date="1540844191239" expanded="true" signature="801:1131" ph="{...}" />
-            <marker date="1540844191239" expanded="true" signature="860:1005" ph="{...}" />
+            <marker date="1541105332448" expanded="false" signature="6:109" ph="..." />
+            <marker date="1541105332448" expanded="true" signature="157:1244" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="365:554" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="578:786" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="617:691" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="713:782" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="813:1142" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="872:1016" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="1168:1242" ph="{...}" />
+            <marker date="1541105332448" expanded="true" signature="1202:1239" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleMovingTime.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="527">
+          <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
           <folding>
-            <marker date="1540844191221" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540844191221" expanded="true" signature="131:218" ph="{...}" />
+            <marker date="1541105731387" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541105731387" expanded="true" signature="154:1676" ph="{...}" />
+            <marker date="1541105731387" expanded="true" signature="384:629" ph="{...}" />
+            <marker date="1541105731387" expanded="true" signature="656:951" ph="{...}" />
+            <marker date="1541105731387" expanded="true" signature="704:808" ph="{...}" />
+            <marker date="1541105731387" expanded="true" signature="836:944" ph="{...}" />
+            <marker date="1541105731387" expanded="true" signature="981:1340" ph="{...}" />
+            <marker date="1541105731387" expanded="true" signature="1049:1250" ph="{...}" />
+            <marker date="1541105731387" expanded="true" signature="1365:1536" ph="{...}" />
+            <marker date="1541105731387" expanded="true" signature="1397:1530" ph="{...}" />
+            <marker date="1541105731387" expanded="true" signature="1564:1674" ph="{...}" />
+            <marker date="1541105731387" expanded="true" signature="1606:1668" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        <state relative-caret-position="360">
+          <caret line="27" column="86" selection-start-line="27" selection-start-column="86" selection-end-line="27" selection-end-column="86" />
           <folding>
-            <marker date="1540840719165" expanded="false" signature="6:109" ph="..." />
-            <marker date="1540840719165" expanded="true" signature="146:1543" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="381:655" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="679:853" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="718:792" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="814:849" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="880:1541" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="939:1251" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="1119:1179" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="1187:1247" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="1258:1467" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="1295:1375" ph="{...}" />
-            <marker date="1540840719165" expanded="true" signature="1383:1463" ph="{...}" />
+            <marker date="1541109823732" expanded="false" signature="6:113" ph="..." />
+            <marker date="1541109823732" expanded="true" signature="155:786" ph="{...}" />
+            <marker date="1541109823732" expanded="true" signature="428:783" ph="{...}" />
+            <marker date="1541109823732" expanded="true" signature="458:592" ph="{...}" />
+            <marker date="1541109823732" expanded="true" signature="641:780" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/RandomAIMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+          <folding>
+            <marker date="1541110833727" expanded="true" signature="6:119" ph="..." />
+            <marker date="1541110833727" expanded="true" signature="166:796" ph="{...}" />
+            <marker date="1541110833727" expanded="true" signature="329:466" ph="{...}" />
+            <marker date="1541110833727" expanded="true" signature="493:794" ph="{...}" />
+            <marker date="1541110833727" expanded="true" signature="511:791" ph="{...}" />
           </folding>
         </state>
       </provider>

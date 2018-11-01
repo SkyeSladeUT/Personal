@@ -365,7 +365,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 367b383e090fa70469ae5a10a2faa637, type: 2}
 --- !u!65 &25528244
 BoxCollider:
@@ -464,7 +464,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 08a75f2e47f3b004d9cc3e3f66c29df4, type: 2}
 --- !u!65 &35041744
 BoxCollider:
@@ -563,7 +563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 367b383e090fa70469ae5a10a2faa637, type: 2}
 --- !u!65 &37619891
 BoxCollider:
@@ -662,7 +662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 08a75f2e47f3b004d9cc3e3f66c29df4, type: 2}
 --- !u!65 &41915337
 BoxCollider:
@@ -835,7 +835,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: a260ac75f03edd14eaaaa3c0d16b237b, type: 2}
 --- !u!65 &53934505
 BoxCollider:
@@ -934,7 +934,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: a260ac75f03edd14eaaaa3c0d16b237b, type: 2}
 --- !u!65 &58156959
 BoxCollider:
@@ -1033,7 +1033,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 6755958746ce6b04db9b8d4e6fab57c7, type: 2}
 --- !u!65 &64013060
 BoxCollider:
@@ -1393,7 +1393,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 11400000, guid: 9a3e3b19696b28947a266e688ff72a1a, type: 2}
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   button: {fileID: 740135307}
   TimeText: {fileID: 804428078}
 --- !u!114 &238943199
@@ -1549,7 +1549,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 83d9f29fdf46a05479971f0b89778336, type: 2}
 --- !u!65 &264610413
 BoxCollider:
@@ -1648,7 +1648,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 0755f61d22e34c64292be8e543100a09, type: 2}
 --- !u!65 &270316325
 BoxCollider:
@@ -1747,7 +1747,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: c231b79c27c1c714d9a59ddec3dcbb29, type: 2}
 --- !u!65 &278696294
 BoxCollider:
@@ -1846,7 +1846,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 380c8ccf161558f4ca87a382b561ab87, type: 2}
 --- !u!65 &296119264
 BoxCollider:
@@ -2019,7 +2019,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 56bccefcc0a84c247ae283c28034e1c8, type: 2}
 --- !u!65 &325341552
 BoxCollider:
@@ -2118,7 +2118,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 0c8795e34bc9e024a8bb444bc9e4c8c5, type: 2}
 --- !u!65 &331026252
 BoxCollider:
@@ -2587,7 +2587,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 3106cdfcad272f441b01a1f02a5f7c58, type: 2}
 --- !u!65 &476516758
 BoxCollider:
@@ -2760,7 +2760,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 56bccefcc0a84c247ae283c28034e1c8, type: 2}
 --- !u!65 &491517744
 BoxCollider:
@@ -3006,7 +3006,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: ea2fc3785d7a8584fbd51958166c9076, type: 2}
 --- !u!65 &549830072
 BoxCollider:
@@ -3105,7 +3105,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 6755958746ce6b04db9b8d4e6fab57c7, type: 2}
 --- !u!65 &556070886
 BoxCollider:
@@ -3204,7 +3204,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: f2396454abd65cb449934bfc8ecc25b5, type: 2}
 --- !u!65 &572796932
 BoxCollider:
@@ -3303,7 +3303,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: bfe11bf1d132e8440bc93f99e480e72a, type: 2}
 --- !u!65 &672355118
 BoxCollider:
@@ -3828,7 +3828,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: bf8f902c67ed0704c9b0c8562421cd09, type: 2}
 --- !u!65 &826229415
 BoxCollider:
@@ -4075,7 +4075,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 380c8ccf161558f4ca87a382b561ab87, type: 2}
 --- !u!65 &867326035
 BoxCollider:
@@ -5306,7 +5306,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 3106cdfcad272f441b01a1f02a5f7c58, type: 2}
 --- !u!65 &1269263599
 BoxCollider:
@@ -5479,7 +5479,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 9c0d0e856d60fc641ad99353a64b4fb8, type: 2}
 --- !u!65 &1293806741
 BoxCollider:
@@ -5800,7 +5800,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: f2396454abd65cb449934bfc8ecc25b5, type: 2}
 --- !u!65 &1364379599
 BoxCollider:
@@ -5899,7 +5899,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 0755f61d22e34c64292be8e543100a09, type: 2}
 --- !u!65 &1378665688
 BoxCollider:
@@ -6146,7 +6146,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 0c8795e34bc9e024a8bb444bc9e4c8c5, type: 2}
 --- !u!65 &1410389592
 BoxCollider:
@@ -6245,7 +6245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: ea2fc3785d7a8584fbd51958166c9076, type: 2}
 --- !u!65 &1411791326
 BoxCollider:
@@ -6418,7 +6418,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: d1e43d0fbf517eb4cb89e0df15c2facc, type: 2}
 --- !u!65 &1530532505
 BoxCollider:
@@ -6517,7 +6517,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 7c295bb507476be4c85154eead8e13c9, type: 2}
 --- !u!65 &1587121237
 BoxCollider:
@@ -6690,7 +6690,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: bf8f902c67ed0704c9b0c8562421cd09, type: 2}
 --- !u!65 &1652224760
 BoxCollider:
@@ -6863,7 +6863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: bfe11bf1d132e8440bc93f99e480e72a, type: 2}
 --- !u!65 &1668423410
 BoxCollider:
@@ -7110,7 +7110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: c231b79c27c1c714d9a59ddec3dcbb29, type: 2}
 --- !u!65 &1710009186
 BoxCollider:
@@ -7283,7 +7283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 83d9f29fdf46a05479971f0b89778336, type: 2}
 --- !u!65 &1769355403
 BoxCollider:
@@ -7456,7 +7456,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 9c0d0e856d60fc641ad99353a64b4fb8, type: 2}
 --- !u!65 &1825332668
 BoxCollider:
@@ -7625,7 +7625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: e92f3e3f338cb8c4090bb01762e792a5, type: 2}
 --- !u!65 &1875348023
 BoxCollider:
@@ -7724,7 +7724,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: dcf0faeaa0342924587b19bfb0d386c2, type: 2}
 --- !u!65 &1979617869
 BoxCollider:
@@ -7823,7 +7823,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: f148454662efece4f94a18a9e130450b, type: 2}
 --- !u!65 &2073468099
 BoxCollider:
@@ -7922,7 +7922,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: 7c295bb507476be4c85154eead8e13c9, type: 2}
 --- !u!65 &2095470218
 BoxCollider:
@@ -8021,7 +8021,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: f148454662efece4f94a18a9e130450b, type: 2}
 --- !u!65 &2106324929
 BoxCollider:
@@ -8120,7 +8120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: e92f3e3f338cb8c4090bb01762e792a5, type: 2}
 --- !u!65 &2108580562
 BoxCollider:
@@ -8219,7 +8219,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: dcf0faeaa0342924587b19bfb0d386c2, type: 2}
 --- !u!65 &2119925956
 BoxCollider:
@@ -8392,7 +8392,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58547cf8ee795cd4e8541a0cfb483c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flippedCards: {fileID: 11400000, guid: b39bf1d4232cbcb4b8ab60219d0cc246, type: 2}
+  flippedCards: {fileID: 11400000, guid: 40ea7799424030d42a37dc2835b4eb90, type: 2}
   card: {fileID: 11400000, guid: d1e43d0fbf517eb4cb89e0df15c2facc, type: 2}
 --- !u!65 &2146791285
 BoxCollider:

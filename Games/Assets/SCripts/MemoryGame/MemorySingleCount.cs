@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class MemorySingleCount : MonoBehaviour
 {
-	public SinglePlayer player1;
+	public SinglePlayer player;
 	public FlippedCards flippedCards;
 	private int numCards;
 	public GameObject button;
@@ -18,7 +18,7 @@ public class MemorySingleCount : MonoBehaviour
 		GameOver = false;
 		Count = 0;
 		CountText.text = "0";
-		player1.score = 0;
+		player.score = 0;
 		numCards = 42;
 		button.SetActive(false);
 		flippedCards.canFlip = true;
@@ -37,6 +37,7 @@ public class MemorySingleCount : MonoBehaviour
 		{
 			button.SetActive(true);
 			GameOver = true;
+			EndGame();
 		}
 
 	}
@@ -49,12 +50,20 @@ public class MemorySingleCount : MonoBehaviour
 			Destroy(flippedCards.Card2);
 			flippedCards.canFlip = true;
 			numCards -= 2;
-			player1.score += 1;
+			player.score += 1;
 		}
 
 		Count += 2;
 		CountText.text = Count.ToString();
 		flippedCards.NumFlipped = 0;
 		yield return new WaitForSeconds(.5f);
+	}
+	
+	private void EndGame()
+	{
+		if (Count < player.BestTime)
+		{
+			player.BestScore = Count;
+		}
 	}
 }

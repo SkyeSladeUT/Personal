@@ -12,7 +12,6 @@ MonoBehaviour:
   m_Name: SingelPlayer
   m_EditorClassIdentifier: 
   score: 0
-  score: 0
-  BestScore: 0
-  BestTime: 0
-  Time: 0
+  BestScore: 1000
+  BestTime: 1000
+  BestTimeMoving: 1000
