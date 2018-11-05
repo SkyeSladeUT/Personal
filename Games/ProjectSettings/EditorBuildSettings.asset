@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MemorySingleTimer.unity
     guid: 36e6bb8627de6c54e9bec0ad6781a349
+  - enabled: 1
+    path: Assets/Scenes/MemorySingleMoving.unity
+    guid: d91309450fc50344293438d26918a659
   m_configObjects: {}

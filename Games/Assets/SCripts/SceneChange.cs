@@ -34,4 +34,9 @@ public class SceneChange : MonoBehaviour {
 	{
 		SceneManager.LoadScene("MemorySingleTimer");
 	}
+
+	public void SingleMoving()
+	{
+		SceneManager.LoadScene("MemorySingleMoving");
+	}
 }
