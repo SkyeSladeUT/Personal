@@ -4,27 +4,298 @@
     <list default="true" id="2279d131-0093-4a25-8b9f-45889adf0cef" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Games/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Games/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Games/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Games/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile0.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile10.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile10.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile11.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile11.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile12.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile12.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile13.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile13.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile14.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile14.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile15.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile15.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile3.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile4.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile5.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile6.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile6.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile7.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile7.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile8.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile8.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile9.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile9.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SCripts/SceneChange.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SCripts/SceneChange.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemorySingleMoving.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MemorySingleMoving.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Cube.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Cube.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Editor/NavMeshComponentsExamplesEditor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Editor/NavMeshComponentsExamplesEditor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Editor/NavMeshPrefabInstanceEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Editor/NavMeshPrefabInstanceEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/brightgreen.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/brightgreen.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/brown.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/brown.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/crosshair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/crosshair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/floor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/floor.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/grey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/grey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/modify_crosshair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/modify_crosshair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/red.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/red.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/yellow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Materials/yellow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/NavMeshComponentsExamples.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/NavMeshComponentsExamples.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/BanyanTree.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/BanyanTree.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/BanyanTree.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/BanyanTree.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile0.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile0.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile10.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile10.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile11.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile11.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile12.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile12.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile13.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile13.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile14.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile14.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile15.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile15.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile6.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile6.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile7.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile7.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile8.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile8.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile9.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/DungeonTiles/Tile9.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/GroundTile.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/GroundTile.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/Materials/BanyanBark.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/Materials/BanyanBark.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/Materials/BanyanBranches.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/Materials/BanyanBranches.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/Plank.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Prefabs/Plank.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/1_multiple_agent_sizes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/1_multiple_agent_sizes.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/1_multiple_agent_sizes.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/1_multiple_agent_sizes/NavMesh-Geometry 1.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/1_multiple_agent_sizes/NavMesh-Geometry 1.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/1_multiple_agent_sizes/NavMesh-Geometry.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/1_multiple_agent_sizes/NavMesh-Geometry.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/2_drop_plank.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/2_drop_plank.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/3_free_orientation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/3_free_orientation.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/3_free_orientation.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/3_free_orientation/NavMesh.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/3_free_orientation/NavMesh.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/4_sliding_window_infinite.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/4_sliding_window_infinite.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/5_sliding_window_terrain.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/5_sliding_window_terrain.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/6_modify_mesh.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/6_modify_mesh.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/7_dungeon.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/7_dungeon.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/7b_dungeon_tile_prefabs.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scenes/7b_dungeon_tile_prefabs.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/AgentLinkMover.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/AgentLinkMover.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/ClickToMove.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/ClickToMove.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/DestroyOnTrigger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/DestroyOnTrigger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/DungeonManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/DungeonManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/EnableIffSleeping.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/EnableIffSleeping.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/FreeCam.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/FreeCam.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/LocalNavMeshBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/LocalNavMeshBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/MeshTool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/MeshTool.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/NavMeshPrefabInstance.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/NavMeshPrefabInstance.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/NavMeshSourceTag.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/NavMeshSourceTag.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/Oscillator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/Oscillator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/RandomInstancing.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/RandomInstancing.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/RandomWalk.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/RandomWalk.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/SpawnPrefabOnKeyDown.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Scripts/SpawnPrefabOnKeyDown.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Terrains.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Terrains/Islands.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Terrains/Islands.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Terrains/LightmapWithFog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Examples/Terrains/LightmapWithFog.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Black.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Black.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card10.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card10.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card11.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card11.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card12.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card12.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card13.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card13.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card14.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card14.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card15.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card15.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card16.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card16.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card17.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card17.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card18.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card18.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card19.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card19.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card20.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card20.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card21.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card21.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card7.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card7.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card8.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card8.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card9.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/Card9.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/back.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materaials/back.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card1.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card1.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card10.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card10.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card11.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card11.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card12.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card12.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card13.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card13.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card14.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card14.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card15.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card15.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card16.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card16.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card17.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card17.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card18.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card18.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card19.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card19.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card2.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card2.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card20.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card20.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card21.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card21.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card3.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card3.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card4.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card4.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card5.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card5.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card6.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card6.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card7.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card7.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card8.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card8.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card9.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/CardScriptableObjects/Card9.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Card.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Card.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/FlippedCards.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleMovingTime.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleMovingTime.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/SingelPlayer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/SingelPlayer.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/player1.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/player1.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/player2.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/MemoryGame/player2.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/Player.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RandomAIMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/RandomAIMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/SceneChange.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/SceneChange.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemorySingleCount.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemorySingleCount.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemorySingleMoving.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemorySingleMoving.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemorySingleMoving.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemorySingleMoving/NavMesh-Plane.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemorySingleMoving/NavMesh-Plane.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemorySingleTimer.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemorySingleTimer.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemoryTwoPlayer.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MemoryTwoPlayer.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/NavMeshComponentsPlaymodeTests.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/NavMeshComponentsPlaymodeTests.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/NavMeshSurfaceAgentTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/NavMeshSurfaceAgentTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/NavMeshSurfaceLinkTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/NavMeshSurfaceLinkTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/NavMeshSurfaceModifierTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/NavMeshSurfaceModifierTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/NavMeshSurfaceModifierVolumeTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/NavMeshSurfaceModifierVolumeTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/NavMeshSurfaceTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/NavMeshSurfaceTests.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maya/Dragon/scenes/Dragon03.ma" beforeDir="false" afterPath="$PROJECT_DIR$/../Maya/Dragon/scenes/Dragon03.ma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maya/HippoGriff/scenes/.mayaSwatches/HippoGriffUV.ma.swatches" beforeDir="false" afterPath="$PROJECT_DIR$/../Maya/HippoGriff/scenes/.mayaSwatches/HippoGriffUV.ma.swatches" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,117 +306,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Memory.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SceneChange.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/SCripts/SceneChange.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="39" column="53" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
-              <folding>
-                <marker date="1541447491059" expanded="false" signature="6:113" ph="..." />
-                <marker date="1541447491059" expanded="true" signature="156:699" ph="{...}" />
-                <marker date="1541447491059" expanded="true" signature="183:251" ph="{...}" />
-                <marker date="1541447491059" expanded="true" signature="272:312" ph="{...}" />
-                <marker date="1541447491059" expanded="true" signature="334:375" ph="{...}" />
-                <marker date="1541447491059" expanded="true" signature="401:452" ph="{...}" />
-                <marker date="1541447491059" expanded="true" signature="480:533" ph="{...}" />
-                <marker date="1541447491059" expanded="true" signature="561:614" ph="{...}" />
-                <marker date="1541447491059" expanded="true" signature="643:697" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Randomizer.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="27" column="86" selection-start-line="27" selection-start-column="86" selection-end-line="27" selection-end-column="86" />
-              <folding>
-                <marker date="1541437458777" expanded="false" signature="6:113" ph="..." />
-                <marker date="1541437458777" expanded="true" signature="155:786" ph="{...}" />
-                <marker date="1541437458777" expanded="true" signature="428:783" ph="{...}" />
-                <marker date="1541437458777" expanded="true" signature="458:592" ph="{...}" />
-                <marker date="1541437458777" expanded="true" signature="641:780" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SinglePlayer.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-              <folding>
-                <marker date="1541437458781" expanded="false" signature="6:78" ph="..." />
-                <marker date="1541437458781" expanded="true" signature="131:230" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MemorySingleCount.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-              <folding>
-                <marker date="1541437458775" expanded="false" signature="6:109" ph="..." />
-                <marker date="1541437458775" expanded="true" signature="157:1244" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="365:554" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="578:786" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="617:691" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="713:782" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="813:1142" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="872:1016" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="1168:1242" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="1202:1239" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MemorySingleTime.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="77" column="9" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
-              <folding>
-                <marker date="1541437458775" expanded="false" signature="6:80" ph="..." />
-                <marker date="1541437458775" expanded="true" signature="127:1442" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="171:268" ph="/* private Player currentplayer; ... */" />
-                <marker date="1541437458775" expanded="true" signature="443:663" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="687:895" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="726:800" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="822:891" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="922:1200" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="981:1125" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="1222:1342" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="1245:1339" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="1367:1438" ph="{...}" />
-                <marker date="1541437458775" expanded="true" signature="1400:1435" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Player.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs">
+      <file leaf-file-name="CharacterMovement.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/CharacterMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
-                <marker date="1537994891358" expanded="false" signature="6:100" ph="..." />
-                <marker date="1537994891358" expanded="true" signature="157:235" ph="{...}" />
+                <marker date="1541887689557" expanded="false" signature="6:66" ph="..." />
+                <marker date="1541887689557" expanded="true" signature="162:1834" ph="{...}" />
+                <marker date="1541887689557" expanded="true" signature="372:505" ph="{...}" />
+                <marker date="1541887689557" expanded="true" signature="533:1284" ph="{...}" />
+                <marker date="1541887689557" expanded="true" signature="567:1225" ph="{...}" />
+                <marker date="1541887689557" expanded="true" signature="654:894" ph="{...}" />
+                <marker date="1541887689557" expanded="true" signature="976:1215" ph="{...}" />
+                <marker date="1541887689557" expanded="true" signature="1321:1558" ph="{...}" />
+                <marker date="1541887689557" expanded="true" signature="1381:1517" ph="{...}" />
+                <marker date="1541887689557" expanded="true" signature="1595:1831" ph="{...}" />
+                <marker date="1541887689557" expanded="true" signature="1655:1790" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoolInput.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/BoolInput.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <marker date="1541888941342" expanded="true" signature="100:263" ph="{...}" />
+                <marker date="1541888941342" expanded="true" signature="188:259" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sliding.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Runner/Sliding.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <marker date="1541889341528" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541889341528" expanded="true" signature="116:715" ph="{...}" />
+                <marker date="1541889341528" expanded="true" signature="197:282" ph="{...}" />
+                <marker date="1541889341528" expanded="true" signature="243:279" ph="{...}" />
+                <marker date="1541889341528" expanded="true" signature="304:713" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FishMovement.cs" pinned="false" current-in-tab="false">
+        <entry file="file://E:/School/Fall2018/2670Fall2018/HyperCasualGame/Assets/Scripts/FishScripts/MovementScripts/FishMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="8" selection-start-line="8" selection-end-line="92" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CameraScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Runner/CameraScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+              <folding>
+                <marker date="1541884832682" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541884832682" expanded="true" signature="121:570" ph="{...}" />
+                <marker date="1541884832682" expanded="true" signature="243:568" ph="{...}" />
+                <marker date="1541884832682" expanded="true" signature="261:565" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -153,17 +383,20 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>offset</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/SceneChange.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/School/Fall2018/2670Fall2018/HyperCasualGame/Assets/Scripts/FishScripts/MovementScripts/FishMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Runner/Sliding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Runner/CameraScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/BoolInput.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -198,14 +431,18 @@
         <option value="$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs" />
         <option value="$PROJECT_DIR$/Assets/SCripts/RandomAIMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/SCripts/SceneChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Runner/CameraScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Runner/CharacterController/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/MovePattern.cs" />
+        <option value="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/Sliding.cs" />
+        <option value="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/BoolInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Runner/Sliding.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="145" />
-    <option name="y" value="75" />
-    <option name="width" value="1375" />
-    <option name="height" value="1040" />
+    <option name="width" value="1318" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -275,11 +512,14 @@
       <workItem from="1540841231038" duration="2540000" />
       <workItem from="1541104337750" duration="3418000" />
       <workItem from="1541447441739" duration="647000" />
+      <workItem from="1541883528493" duration="1303000" />
+      <workItem from="1541885012884" duration="2482000" />
+      <workItem from="1541887610388" duration="1762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30293000" />
+    <option name="totallyTimeSpent" value="35840000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -291,7 +531,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="145" y="75" width="1375" height="1040" extended-state="0" />
+    <frame x="0" y="0" width="1054" height="830" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -300,7 +540,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07756654" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10865191" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -321,12 +561,12 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Unity" order="13" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.077884614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="9" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -334,9 +574,9 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32815966" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="UnityProjectConfiguration" isUnityUI="true" />
@@ -345,166 +585,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="86" selection-start-line="27" selection-start-column="86" selection-end-line="27" selection-end-column="86" />
-          <folding>
-            <marker date="1541437458777" expanded="false" signature="6:113" ph="..." />
-            <marker date="1541437458777" expanded="true" signature="155:786" ph="{...}" />
-            <marker date="1541437458777" expanded="true" signature="428:783" ph="{...}" />
-            <marker date="1541437458777" expanded="true" signature="458:592" ph="{...}" />
-            <marker date="1541437458777" expanded="true" signature="641:780" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <marker date="1541437458781" expanded="false" signature="6:78" ph="..." />
-            <marker date="1541437458781" expanded="true" signature="131:230" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-          <folding>
-            <marker date="1541437458775" expanded="false" signature="6:109" ph="..." />
-            <marker date="1541437458775" expanded="true" signature="157:1244" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="365:554" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="578:786" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="617:691" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="713:782" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="813:1142" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="872:1016" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1168:1242" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1202:1239" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="76" column="9" lean-forward="true" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
-          <folding>
-            <marker date="1541437458775" expanded="false" signature="6:80" ph="..." />
-            <marker date="1541437458775" expanded="true" signature="127:1442" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="171:268" ph="/* private Player currentplayer; ... */" />
-            <marker date="1541437458775" expanded="true" signature="443:663" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="687:895" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="726:800" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="822:891" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="922:1200" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="981:1125" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1222:1342" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1245:1339" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1367:1438" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1400:1435" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <marker date="1537994891358" expanded="false" signature="6:100" ph="..." />
-            <marker date="1537994891358" expanded="true" signature="157:235" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <marker date="1541437458775" expanded="false" signature="6:109" ph="..." />
-            <marker date="1541437458775" expanded="true" signature="157:1244" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="365:554" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="578:786" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="617:691" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="713:782" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="813:1142" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="872:1016" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1168:1242" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1202:1239" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <marker date="1541437458775" expanded="false" signature="6:80" ph="..." />
-            <marker date="1541437458775" expanded="true" signature="127:1442" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="171:268" ph="/* private Player currentplayer; ... */" />
-            <marker date="1541437458775" expanded="true" signature="443:663" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="687:895" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="726:800" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="822:891" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="922:1200" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="981:1125" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1222:1342" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1245:1339" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1367:1438" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1400:1435" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="62" column="77" selection-start-line="62" selection-start-column="77" selection-end-line="62" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/Randomizer.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" />
@@ -521,13 +608,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/RomrellsWordGame/Word.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemoryStart.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/IndividualCards.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="62" column="77" selection-start-line="62" selection-start-column="77" selection-end-line="62" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemorySinglePlayer/CardScripts1.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame2Player/Card.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame2Player/Randomizer.cs" />
@@ -539,106 +620,90 @@
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemorySinglePlayer/MemorySingleCount.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Menus.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/DontDestroy.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleMovingTime.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/RandomAIMovement.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SCripts/SceneChange.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/MovePattern.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/CameraScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding>
+            <marker date="1541884832682" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541884832682" expanded="true" signature="121:570" ph="{...}" />
+            <marker date="1541884832682" expanded="true" signature="243:568" ph="{...}" />
+            <marker date="1541884832682" expanded="true" signature="261:565" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/School/Fall2018/2670Fall2018/HyperCasualGame/Assets/Scripts/FishScripts/MovementScripts/FishMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="8" selection-start-line="8" selection-end-line="92" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/Sliding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/CharacterMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
-            <marker date="1537994891358" expanded="false" signature="6:100" ph="..." />
-            <marker date="1537994891358" expanded="true" signature="157:235" ph="{...}" />
+            <marker date="1541887689557" expanded="false" signature="6:66" ph="..." />
+            <marker date="1541887689557" expanded="true" signature="162:1834" ph="{...}" />
+            <marker date="1541887689557" expanded="true" signature="372:505" ph="{...}" />
+            <marker date="1541887689557" expanded="true" signature="533:1284" ph="{...}" />
+            <marker date="1541887689557" expanded="true" signature="567:1225" ph="{...}" />
+            <marker date="1541887689557" expanded="true" signature="654:894" ph="{...}" />
+            <marker date="1541887689557" expanded="true" signature="976:1215" ph="{...}" />
+            <marker date="1541887689557" expanded="true" signature="1321:1558" ph="{...}" />
+            <marker date="1541887689557" expanded="true" signature="1381:1517" ph="{...}" />
+            <marker date="1541887689557" expanded="true" signature="1595:1831" ph="{...}" />
+            <marker date="1541887689557" expanded="true" signature="1655:1790" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/BoolInput.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/SinglePlayer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <marker date="1541437458781" expanded="false" signature="6:78" ph="..." />
-            <marker date="1541437458781" expanded="true" signature="131:230" ph="{...}" />
+            <marker date="1541888941342" expanded="true" signature="100:263" ph="{...}" />
+            <marker date="1541888941342" expanded="true" signature="188:259" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/Sliding.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="77" column="9" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+        <state relative-caret-position="435">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
-            <marker date="1541437458775" expanded="false" signature="6:80" ph="..." />
-            <marker date="1541437458775" expanded="true" signature="127:1442" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="171:268" ph="/* private Player currentplayer; ... */" />
-            <marker date="1541437458775" expanded="true" signature="443:663" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="687:895" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="726:800" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="822:891" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="922:1200" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="981:1125" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1222:1342" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1245:1339" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1367:1438" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1400:1435" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-          <folding>
-            <marker date="1541437458775" expanded="false" signature="6:109" ph="..." />
-            <marker date="1541437458775" expanded="true" signature="157:1244" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="365:554" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="578:786" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="617:691" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="713:782" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="813:1142" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="872:1016" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1168:1242" ph="{...}" />
-            <marker date="1541437458775" expanded="true" signature="1202:1239" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleMovingTime.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="27" column="86" selection-start-line="27" selection-start-column="86" selection-end-line="27" selection-end-column="86" />
-          <folding>
-            <marker date="1541437458777" expanded="false" signature="6:113" ph="..." />
-            <marker date="1541437458777" expanded="true" signature="155:786" ph="{...}" />
-            <marker date="1541437458777" expanded="true" signature="428:783" ph="{...}" />
-            <marker date="1541437458777" expanded="true" signature="458:592" ph="{...}" />
-            <marker date="1541437458777" expanded="true" signature="641:780" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/RandomAIMovement.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/SceneChange.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="39" column="53" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
-          <folding>
-            <marker date="1541447491059" expanded="false" signature="6:113" ph="..." />
-            <marker date="1541447491059" expanded="true" signature="156:699" ph="{...}" />
-            <marker date="1541447491059" expanded="true" signature="183:251" ph="{...}" />
-            <marker date="1541447491059" expanded="true" signature="272:312" ph="{...}" />
-            <marker date="1541447491059" expanded="true" signature="334:375" ph="{...}" />
-            <marker date="1541447491059" expanded="true" signature="401:452" ph="{...}" />
-            <marker date="1541447491059" expanded="true" signature="480:533" ph="{...}" />
-            <marker date="1541447491059" expanded="true" signature="561:614" ph="{...}" />
-            <marker date="1541447491059" expanded="true" signature="643:697" ph="{...}" />
+            <marker date="1541889341528" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541889341528" expanded="true" signature="116:715" ph="{...}" />
+            <marker date="1541889341528" expanded="true" signature="197:282" ph="{...}" />
+            <marker date="1541889341528" expanded="true" signature="243:279" ph="{...}" />
+            <marker date="1541889341528" expanded="true" signature="304:713" ph="{...}" />
           </folding>
         </state>
       </provider>
