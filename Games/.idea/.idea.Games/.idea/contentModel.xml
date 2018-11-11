@@ -69,15 +69,16 @@
         <e p="Runner" t="Include">
           <e p="CameraScript.cs" t="Include" />
           <e p="CharacterController" t="Include">
+            <e p="BoolInput.cs" t="Include" />
             <e p="CharacterMovement.cs" t="Include" />
-            <e p="Scriptable object" t="Include">
-              <e p="BoolInput.cs" t="Include" />
-              <e p="FloatBool.cs" t="Include" />
-              <e p="FloatData.cs" t="Include" />
-              <e p="FloatInput.cs" t="Include" />
-              <e p="MovePattern.cs" t="Include" />
-            </e>
+            <e p="FloatBool.cs" t="Include" />
+            <e p="FloatData.cs" t="Include" />
+            <e p="FloatInput.cs" t="Include" />
+            <e p="MovePattern.cs" t="Include" />
           </e>
+          <e p="NameID.cs" t="Include" />
+          <e p="ObjectID.cs" t="Include" />
+          <e p="ObstacleGeneration.cs" t="Include" />
           <e p="Sliding.cs" t="Include" />
         </e>
       </e>
