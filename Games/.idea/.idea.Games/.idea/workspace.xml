@@ -4,30 +4,37 @@
     <list default="true" id="2279d131-0093-4a25-8b9f-45889adf0cef" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Games/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Games/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Games/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Games/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Constant.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Constant.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Gravity.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Gravity.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Jump.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Jump.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/PlatformMove.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/PlatformMove.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Runner.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Runner.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/BoolInput.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/BoolInput.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/FloatBool.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/FloatBool.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/FloatData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/FloatData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/FloatInput.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/FloatInput.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/MovePattern.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/MovePattern.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Zero.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/Zero.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CameraScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CameraScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/BoolInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/BoolInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/CharacterMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/CharacterMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/FloatBool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/FloatBool.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/FloatData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/FloatData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/FloatInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/FloatInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/MovePattern.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/CharacterController/MovePattern.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/NameID.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/NameID.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/ObjectID.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/ObjectID.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/ObstacleGeneration.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/ObstacleGeneration.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/LongBar.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/LongBar.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/MediumBar.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/MediumBar.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallBar.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallBar.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Runner/Runner.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Runner.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/Scriptable Objects/Constant.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Scriptable Objects/Constant.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/Scriptable Objects/Gravity.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Scriptable Objects/Gravity.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/Scriptable Objects/Jump.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Scriptable Objects/Jump.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/Sliding.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/Sliding.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,59 +45,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CharacterMovement.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/CharacterMovement.cs">
+      <file leaf-file-name="DestroyObject.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Runner/SCripts/DestroyObject.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="90">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding>
-                <marker date="1541887689557" expanded="false" signature="6:66" ph="..." />
-                <marker date="1541887689557" expanded="true" signature="162:1834" ph="{...}" />
-                <marker date="1541887689557" expanded="true" signature="372:505" ph="{...}" />
-                <marker date="1541887689557" expanded="true" signature="533:1284" ph="{...}" />
-                <marker date="1541887689557" expanded="true" signature="567:1225" ph="{...}" />
-                <marker date="1541887689557" expanded="true" signature="654:894" ph="{...}" />
-                <marker date="1541887689557" expanded="true" signature="976:1215" ph="{...}" />
-                <marker date="1541887689557" expanded="true" signature="1321:1558" ph="{...}" />
-                <marker date="1541887689557" expanded="true" signature="1381:1517" ph="{...}" />
-                <marker date="1541887689557" expanded="true" signature="1595:1831" ph="{...}" />
-                <marker date="1541887689557" expanded="true" signature="1655:1790" ph="{...}" />
+                <marker date="1541974648418" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541974648418" expanded="true" signature="123:182" ph="{...}" />
+                <marker date="1541974648418" expanded="true" signature="151:180" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sliding.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Runner/Sliding.cs">
+      <file leaf-file-name="IncreaseSpeed.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Runner/SCripts/IncreaseSpeed.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="195">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
               <folding>
-                <marker date="1541889341528" expanded="false" signature="6:78" ph="..." />
-                <marker date="1541889341528" expanded="true" signature="116:715" ph="{...}" />
-                <marker date="1541889341528" expanded="true" signature="197:282" ph="{...}" />
-                <marker date="1541889341528" expanded="true" signature="243:279" ph="{...}" />
-                <marker date="1541889341528" expanded="true" signature="304:713" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObstacleGeneration.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Runner/ObstacleGeneration.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1240">
-              <caret line="99" column="67" selection-start-line="99" selection-start-column="67" selection-end-line="99" selection-end-column="67" />
-              <folding>
-                <marker date="1541953548594" expanded="false" signature="6:125" ph="..." />
-                <marker date="1541953548594" expanded="true" signature="174:2500" ph="{...}" />
-                <marker date="1541953548594" expanded="true" signature="334:447" ph="{...}" />
-                <marker date="1541953548594" expanded="true" signature="481:2498" ph="{...}" />
-                <marker date="1541953548594" expanded="true" signature="499:2495" ph="{...}" />
-                <marker date="1541953548594" expanded="true" signature="801:2342" ph="{...}" />
-                <marker date="1541953548594" expanded="true" signature="832:888" ph="/* Can slide under or over ... */" />
-                <marker date="1541953548594" expanded="true" signature="1371:1418" ph="/* Only Jump over ... */" />
-                <marker date="1541953548594" expanded="true" signature="1856:1901" ph="/* must slide under ... */" />
+                <marker date="1541974835101" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541974835101" expanded="true" signature="122:526" ph="{...}" />
+                <marker date="1541974835101" expanded="true" signature="246:524" ph="{...}" />
+                <marker date="1541974835101" expanded="true" signature="264:521" ph="{...}" />
+                <marker date="1541974835101" expanded="true" signature="338:387" ph="{...}" />
+                <marker date="1541974835101" expanded="true" signature="416:452" ph="{...}" />
+                <marker date="1541974835101" expanded="true" signature="481:517" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -101,21 +82,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" selection-start-line="8" selection-end-line="92" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CameraScript.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Runner/CameraScript.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-              <folding>
-                <marker date="1541884832682" expanded="false" signature="6:78" ph="..." />
-                <marker date="1541884832682" expanded="true" signature="121:570" ph="{...}" />
-                <marker date="1541884832682" expanded="true" signature="243:568" ph="{...}" />
-                <marker date="1541884832682" expanded="true" signature="261:565" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -131,12 +97,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/School/Fall2018/2670Fall2018/HyperCasualGame/Assets/Scripts/FishScripts/MovementScripts/FishMovement.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Runner/Sliding.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Runner/ObstacleGeneration.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Runner/CameraScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Runner/NameID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Runner/SCripts/DestroyObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Runner/SCripts/IncreaseSpeed.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -172,18 +135,23 @@
         <option value="$PROJECT_DIR$/Assets/SCripts/RandomAIMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/SCripts/SceneChange.cs" />
         <option value="$PROJECT_DIR$/Assets/Runner/CameraScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Runner/CharacterController/CharacterMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/MovePattern.cs" />
         <option value="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/Sliding.cs" />
         <option value="$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/BoolInput.cs" />
         <option value="$PROJECT_DIR$/Assets/Runner/Sliding.cs" />
+        <option value="$PROJECT_DIR$/Assets/Runner/CharacterController/Sliding.cs" />
+        <option value="$PROJECT_DIR$/Assets/Runner/IncreaseSpeed.cs" />
+        <option value="$PROJECT_DIR$/Assets/Runner/CollisionScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Runner/CharacterController/CharacterMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Runner/ObstacleGeneration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Runner/SCripts/DestroyObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Runner/SCripts/IncreaseSpeed.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1319" />
-    <option name="height" value="1039" />
+    <option name="width" value="1208" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -191,10 +159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -208,6 +172,10 @@
         <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,11 +225,13 @@
       <workItem from="1541885012884" duration="2482000" />
       <workItem from="1541887610388" duration="1762000" />
       <workItem from="1541951559031" duration="1894000" />
+      <workItem from="1541967290527" duration="147000" />
+      <workItem from="1541967451264" duration="7271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37734000" />
+    <option name="totallyTimeSpent" value="45152000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,21 +243,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1055" height="831" extended-state="0" />
+    <frame x="0" y="0" width="966" height="830" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32815966" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.110552765" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.119205296" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -327,11 +297,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleCount.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/MemorySingleTime.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Player.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/CardScripts.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Memory.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/Randomizer.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs" />
@@ -370,23 +335,11 @@
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryGame/Randomizer.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/RandomAIMovement.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/SceneChange.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/MovePattern.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/MovePattern.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Runner/CameraScript.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <marker date="1541884832682" expanded="false" signature="6:78" ph="..." />
-            <marker date="1541884832682" expanded="true" signature="121:570" ph="{...}" />
-            <marker date="1541884832682" expanded="true" signature="243:568" ph="{...}" />
-            <marker date="1541884832682" expanded="true" signature="261:565" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -398,61 +351,67 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/Sliding.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/BoolInput.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/Sliding.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/Sliding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/IncreaseSpeed.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/CollisionScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/CharacterMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <marker date="1541887689557" expanded="false" signature="6:66" ph="..." />
-            <marker date="1541887689557" expanded="true" signature="162:1834" ph="{...}" />
-            <marker date="1541887689557" expanded="true" signature="372:505" ph="{...}" />
-            <marker date="1541887689557" expanded="true" signature="533:1284" ph="{...}" />
-            <marker date="1541887689557" expanded="true" signature="567:1225" ph="{...}" />
-            <marker date="1541887689557" expanded="true" signature="654:894" ph="{...}" />
-            <marker date="1541887689557" expanded="true" signature="976:1215" ph="{...}" />
-            <marker date="1541887689557" expanded="true" signature="1321:1558" ph="{...}" />
-            <marker date="1541887689557" expanded="true" signature="1381:1517" ph="{...}" />
-            <marker date="1541887689557" expanded="true" signature="1595:1831" ph="{...}" />
-            <marker date="1541887689557" expanded="true" signature="1655:1790" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Runner/CharacterController/Scriptable object/BoolInput.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Runner/Sliding.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <marker date="1541889341528" expanded="false" signature="6:78" ph="..." />
-            <marker date="1541889341528" expanded="true" signature="116:715" ph="{...}" />
-            <marker date="1541889341528" expanded="true" signature="197:282" ph="{...}" />
-            <marker date="1541889341528" expanded="true" signature="243:279" ph="{...}" />
-            <marker date="1541889341528" expanded="true" signature="304:713" ph="{...}" />
-          </folding>
+        <state relative-caret-position="465">
+          <caret line="60" column="62" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Runner/ObstacleGeneration.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1240">
-          <caret line="99" column="67" selection-start-line="99" selection-start-column="67" selection-end-line="99" selection-end-column="67" />
+        <state relative-caret-position="195">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/SCripts/DestroyObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
-            <marker date="1541953548594" expanded="false" signature="6:125" ph="..." />
-            <marker date="1541953548594" expanded="true" signature="174:2500" ph="{...}" />
-            <marker date="1541953548594" expanded="true" signature="334:447" ph="{...}" />
-            <marker date="1541953548594" expanded="true" signature="481:2498" ph="{...}" />
-            <marker date="1541953548594" expanded="true" signature="499:2495" ph="{...}" />
-            <marker date="1541953548594" expanded="true" signature="801:2342" ph="{...}" />
-            <marker date="1541953548594" expanded="true" signature="832:888" ph="/* Can slide under or over ... */" />
-            <marker date="1541953548594" expanded="true" signature="1371:1418" ph="/* Only Jump over ... */" />
-            <marker date="1541953548594" expanded="true" signature="1856:1901" ph="/* must slide under ... */" />
+            <marker date="1541974648418" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541974648418" expanded="true" signature="123:182" ph="{...}" />
+            <marker date="1541974648418" expanded="true" signature="151:180" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/SCripts/IncreaseSpeed.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <marker date="1541974835101" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541974835101" expanded="true" signature="122:526" ph="{...}" />
+            <marker date="1541974835101" expanded="true" signature="246:524" ph="{...}" />
+            <marker date="1541974835101" expanded="true" signature="264:521" ph="{...}" />
+            <marker date="1541974835101" expanded="true" signature="338:387" ph="{...}" />
+            <marker date="1541974835101" expanded="true" signature="416:452" ph="{...}" />
+            <marker date="1541974835101" expanded="true" signature="481:517" ph="{...}" />
           </folding>
         </state>
       </provider>

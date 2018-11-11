@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Animations;
 using UnityEngine;
 
 public class Sliding : MonoBehaviour
@@ -7,12 +8,18 @@ public class Sliding : MonoBehaviour
 
 	private Vector3 position;
 	private Vector3 rotation;
+	private Animator anim;
+
+	private void Start()
+	{
+		anim = GetComponent<Animator>();
+	}
 
 	private void Update()
 	{
 		if (Input.GetKeyDown(KeyCode.DownArrow))
 		{
-			StartCoroutine(Slide());
+			anim.SetTrigger("Slide");
 		}
 	}
 

@@ -25,7 +25,7 @@ public class CharacterMovement : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.RightArrow) && HorizontalLayer < 1)
             {
                 NewPosition = transform.position;
-                NewPosition.x += 2;
+                NewPosition.x += 3f;
                 CanMoveHorizontal = false;
                 HorizontalLayer += 1;
                 StartCoroutine(MoveRight());
@@ -33,7 +33,7 @@ public class CharacterMovement : MonoBehaviour
             else if (Input.GetKeyDown(KeyCode.LeftArrow) && HorizontalLayer > -1)
             {
                 NewPosition = transform.position;
-                NewPosition.x -= 2;
+                NewPosition.x -= 3;
                 CanMoveHorizontal = false;
                 HorizontalLayer -= 1;
                 StartCoroutine(MoveLeft());
@@ -47,7 +47,7 @@ public class CharacterMovement : MonoBehaviour
     {
         while (transform.position.x <= NewPosition.x)
         {
-            transform.Translate(Vector3.right*Time.deltaTime*5);
+            transform.Translate(Vector3.right*Time.deltaTime*10);
             yield return new WaitForFixedUpdate();
         }
 
@@ -58,7 +58,7 @@ public class CharacterMovement : MonoBehaviour
     {
         while (transform.position.x >= NewPosition.x)
         {
-            transform.Translate(Vector3.left*Time.deltaTime*5);
+            transform.Translate(Vector3.left*Time.deltaTime*10);
             yield return new WaitForFixedUpdate();
         }
 
