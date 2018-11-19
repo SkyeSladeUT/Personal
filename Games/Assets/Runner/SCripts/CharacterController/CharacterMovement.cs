@@ -13,6 +13,7 @@ public class CharacterMovement : MonoBehaviour
 
     private void Start()
     {
+        movePattern.MoveZ.value = 20;
         CanMoveHorizontal = true;
         HorizontalLayer = 0;
         controller = GetComponent<CharacterController>();
