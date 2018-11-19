@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2279d131-0093-4a25-8b9f-45889adf0cef" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Games/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Games/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Games/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Games/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/LongBar.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/LongBar.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/LongHole.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/LongHole.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/LongWall.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/LongWall.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/MediumBar.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/MediumBar.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/MediumHole.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/MediumHole.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/MediumRock.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/MediumRock.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallBar.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallBar.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallBarEnclosed.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallBarEnclosed.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallHole.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallHole.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallHoleEnclosed.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallHoleEnclosed.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallRock.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallRock.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallRockEnclosed.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/SmallRockEnclosed.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Prefabs/Wall.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Prefabs/Wall.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Runner/Runner.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Runner.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/SCripts/CharacterController/CharacterMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/SCripts/CharacterController/CharacterMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/SCripts/IncreaseSpeed.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/SCripts/IncreaseSpeed.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Scriptable Objects/Constant.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Scriptable Objects/Constant.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Runner/Scriptable Objects/Gravity.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/Scriptable Objects/Gravity.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Runner/SCripts/CharacterController/Sliding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Runner/SCripts/CharacterController/Sliding.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,7 +32,7 @@
       <file leaf-file-name="IncreaseSpeed.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Runner/SCripts/IncreaseSpeed.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="270">
               <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
             </state>
           </provider>
@@ -61,19 +43,49 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+              <folding>
+                <marker date="1542650850419" expanded="false" signature="6:66" ph="..." />
+                <marker date="1542650850419" expanded="true" signature="162:1875" ph="{...}" />
+                <marker date="1542650850419" expanded="true" signature="372:543" ph="{...}" />
+                <marker date="1542650850419" expanded="true" signature="571:1323" ph="{...}" />
+                <marker date="1542650850419" expanded="true" signature="605:1264" ph="{...}" />
+                <marker date="1542650850419" expanded="true" signature="692:933" ph="{...}" />
+                <marker date="1542650850419" expanded="true" signature="1015:1254" ph="{...}" />
+                <marker date="1542650850419" expanded="true" signature="1360:1598" ph="{...}" />
+                <marker date="1542650850419" expanded="true" signature="1420:1557" ph="{...}" />
+                <marker date="1542650850419" expanded="true" signature="1635:1872" ph="{...}" />
+                <marker date="1542650850419" expanded="true" signature="1695:1831" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ObstacleDestruction.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sliding.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Runner/SCripts/CharacterController/Sliding.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+              <folding>
+                <marker date="1542660130517" expanded="false" signature="6:108" ph="..." />
+                <marker date="1542660130517" expanded="true" signature="146:470" ph="{...}" />
+                <marker date="1542660130517" expanded="true" signature="280:321" ph="{...}" />
+                <marker date="1542660130517" expanded="true" signature="345:467" ph="{...}" />
+                <marker date="1542660130517" expanded="true" signature="391:464" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObstacleDestruction.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ObstacleDestruction.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            <state relative-caret-position="150">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding>
-                <marker date="1542652905498" expanded="false" signature="6:78" ph="..." />
-                <marker date="1542652905498" expanded="true" signature="129:265" ph="{...}" />
-                <marker date="1542652905498" expanded="true" signature="177:263" ph="{...}" />
+                <marker date="1542652918707" expanded="false" signature="6:78" ph="..." />
+                <marker date="1542652918707" expanded="true" signature="129:276" ph="{...}" />
+                <marker date="1542652918707" expanded="true" signature="177:274" ph="{...}" />
+                <marker date="1542652918707" expanded="true" signature="216:271" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -99,9 +111,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://E:/School/Fall2018/2670Fall2018/HyperCasualGame/Assets/Scripts/FishScripts/MovementScripts/FishMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/School/Fall2018/2670Fall2018/HyperCasualGame/Assets/Scripts/FishScripts/MovementScripts/FishMovement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ObstacleDestruction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Runner/SCripts/CharacterController/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Runner/SCripts/CharacterController/Sliding.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Runner/SCripts/DestroyObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Runner/SCripts/IncreaseSpeed.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -152,10 +165,11 @@
         <option value="$PROJECT_DIR$/Assets/Runner/SCripts/CharacterController/CharacterMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Runner/SCripts/IncreaseSpeed.cs" />
         <option value="$PROJECT_DIR$/Assets/ObstacleDestruction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Runner/SCripts/CharacterController/Sliding.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="width" value="1210" />
     <option name="height" value="1040" />
   </component>
@@ -234,12 +248,14 @@
       <workItem from="1541967290527" duration="147000" />
       <workItem from="1541967451264" duration="7271000" />
       <workItem from="1542650574205" duration="903000" />
-      <workItem from="1542651513693" duration="1366000" />
+      <workItem from="1542651513693" duration="1654000" />
+      <workItem from="1542659139994" duration="746000" />
+      <workItem from="1542660123815" duration="123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47421000" />
+    <option name="totallyTimeSpent" value="48578000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -252,7 +268,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="968" height="832" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -261,7 +276,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12334802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1277533" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -306,7 +321,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/Card.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SCripts/MemoryCard.cs" />
@@ -371,28 +385,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Runner/SCripts/CharacterController/CharacterMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Runner/SCripts/IncreaseSpeed.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="270">
           <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ObstacleDestruction.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        <state relative-caret-position="150">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
-            <marker date="1542652905498" expanded="false" signature="6:78" ph="..." />
-            <marker date="1542652905498" expanded="true" signature="129:265" ph="{...}" />
-            <marker date="1542652905498" expanded="true" signature="177:263" ph="{...}" />
+            <marker date="1542652918707" expanded="false" signature="6:78" ph="..." />
+            <marker date="1542652918707" expanded="true" signature="129:276" ph="{...}" />
+            <marker date="1542652918707" expanded="true" signature="177:274" ph="{...}" />
+            <marker date="1542652918707" expanded="true" signature="216:271" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/SCripts/CharacterController/CharacterMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <marker date="1542650850419" expanded="false" signature="6:66" ph="..." />
+            <marker date="1542650850419" expanded="true" signature="162:1875" ph="{...}" />
+            <marker date="1542650850419" expanded="true" signature="372:543" ph="{...}" />
+            <marker date="1542650850419" expanded="true" signature="571:1323" ph="{...}" />
+            <marker date="1542650850419" expanded="true" signature="605:1264" ph="{...}" />
+            <marker date="1542650850419" expanded="true" signature="692:933" ph="{...}" />
+            <marker date="1542650850419" expanded="true" signature="1015:1254" ph="{...}" />
+            <marker date="1542650850419" expanded="true" signature="1360:1598" ph="{...}" />
+            <marker date="1542650850419" expanded="true" signature="1420:1557" ph="{...}" />
+            <marker date="1542650850419" expanded="true" signature="1635:1872" ph="{...}" />
+            <marker date="1542650850419" expanded="true" signature="1695:1831" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Runner/SCripts/CharacterController/Sliding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <marker date="1542660130517" expanded="false" signature="6:108" ph="..." />
+            <marker date="1542660130517" expanded="true" signature="146:470" ph="{...}" />
+            <marker date="1542660130517" expanded="true" signature="280:321" ph="{...}" />
+            <marker date="1542660130517" expanded="true" signature="345:467" ph="{...}" />
+            <marker date="1542660130517" expanded="true" signature="391:464" ph="{...}" />
           </folding>
         </state>
       </provider>
