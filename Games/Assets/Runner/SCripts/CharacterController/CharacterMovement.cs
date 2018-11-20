@@ -40,7 +40,7 @@ public class CharacterMovement : MonoBehaviour
                 StartCoroutine(MoveLeft());
             }
         }
-
+        
         movePattern.Invoke(controller, transform); 
     }
 

@@ -23,6 +23,10 @@ public class Sliding : MonoBehaviour
 			anim.SetTrigger("Slide");
 			PenguinAnim.SetTrigger("Slide");
 		}
+		if(Input.GetKeyDown(KeyCode.UpArrow))
+		{
+			PenguinAnim.SetTrigger("Jump");
+		}
 	}
 
 }
