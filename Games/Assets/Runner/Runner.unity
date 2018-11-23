@@ -450,16 +450,16 @@ MonoBehaviour:
   Obstacles:
   - {fileID: 1082106033934318, guid: 6b65ff93e019eed4083343a75826d270, type: 2}
   - {fileID: 1023081029049922, guid: f616205838c48c2408ad906f5380c183, type: 2}
-  - {fileID: 1606795543919506, guid: 2fff63cf8ca45df41a3725e1b850ab25, type: 2}
+  - {fileID: 1384851786121278, guid: 286e65144f69c63498ae7ee34a57e61d, type: 2}
   - {fileID: 1513660495677824, guid: 5d26c49d897d66e48a291173b5e1ef23, type: 2}
   - {fileID: 1908142158355702, guid: f0aed97e2f6df004c8392358dd0ecad4, type: 2}
-  - {fileID: 1873897043248926, guid: 38a65735c8de93140850e4a75d0c8dcf, type: 2}
+  - {fileID: 1325522898389514, guid: 76fcda3104eb716479f6ef489d2a230f, type: 2}
   - {fileID: 1703654578851852, guid: 2c51f52f5efedde4c8f5b33f5fc4bddc, type: 2}
   - {fileID: 1860828220698512, guid: 31e6c58574f538e4291ff6fcf687348c, type: 2}
   - {fileID: 1392116640838112, guid: 158db146bf663a94a8c7dfdc367c2687, type: 2}
   - {fileID: 1133433701697984, guid: 46b84bf93c86457439f02ae1a627fc00, type: 2}
-  - {fileID: 1929672606612986, guid: d745b3fb36301d948bca0ae928f8907c, type: 2}
-  - {fileID: 1121387771952124, guid: ba63babb96a85eb4da515d6fdb8b1bd2, type: 2}
+  - {fileID: 1330066649996806, guid: 1ff50e88272d1ed488ce8a96eb506eea, type: 2}
+  - {fileID: 1330066649996806, guid: 397eeb916b08d6b45a0e6d8854f15c29, type: 2}
   TimeMin: {fileID: 11400000, guid: fbdfb21493e7b3a43b662d8356613bb2, type: 2}
   TimeMax: {fileID: 11400000, guid: b609d5ec8f6b98044ac4e3d19d32c7fa, type: 2}
   Offset: {fileID: 11400000, guid: bdd5352ddf3503e48a91549fdce21bf2, type: 2}
