@@ -449,15 +449,15 @@ MonoBehaviour:
   Wall: {fileID: 1982051859826458, guid: 3383999d5fac8cb4db0c03e593ec6e60, type: 2}
   Obstacles:
   - {fileID: 1082106033934318, guid: 6b65ff93e019eed4083343a75826d270, type: 2}
-  - {fileID: 1023081029049922, guid: f616205838c48c2408ad906f5380c183, type: 2}
+  - {fileID: 1220412479503098, guid: eb424946294bb684387ea1ab065daf17, type: 2}
   - {fileID: 1384851786121278, guid: 286e65144f69c63498ae7ee34a57e61d, type: 2}
   - {fileID: 1513660495677824, guid: 5d26c49d897d66e48a291173b5e1ef23, type: 2}
-  - {fileID: 1908142158355702, guid: f0aed97e2f6df004c8392358dd0ecad4, type: 2}
+  - {fileID: 1919663977147722, guid: fbff436b9698da945aa05db68ccffd3a, type: 2}
   - {fileID: 1325522898389514, guid: 76fcda3104eb716479f6ef489d2a230f, type: 2}
   - {fileID: 1703654578851852, guid: 2c51f52f5efedde4c8f5b33f5fc4bddc, type: 2}
   - {fileID: 1860828220698512, guid: 31e6c58574f538e4291ff6fcf687348c, type: 2}
-  - {fileID: 1392116640838112, guid: 158db146bf663a94a8c7dfdc367c2687, type: 2}
-  - {fileID: 1133433701697984, guid: 46b84bf93c86457439f02ae1a627fc00, type: 2}
+  - {fileID: 1086606870038768, guid: 3f2a403cee166cc4cb9205cb1e625823, type: 2}
+  - {fileID: 1157789689188884, guid: fb9be0a47a3ff2f4fb8a2c61e744d350, type: 2}
   - {fileID: 1330066649996806, guid: 1ff50e88272d1ed488ce8a96eb506eea, type: 2}
   - {fileID: 1330066649996806, guid: 397eeb916b08d6b45a0e6d8854f15c29, type: 2}
   TimeMin: {fileID: 11400000, guid: fbdfb21493e7b3a43b662d8356613bb2, type: 2}
