@@ -79,6 +79,7 @@
               <e p="MovePattern.cs" t="Include" />
               <e p="Sliding.cs" t="Include" />
             </e>
+            <e p="CoinGeneration.cs" t="Include" />
             <e p="CollisionScript.cs" t="Include" />
             <e p="DestroyObject.cs" t="Include" />
             <e p="IncreaseSpeed.cs" t="Include" />
@@ -86,6 +87,7 @@
             <e p="NameID.cs" t="Include" />
             <e p="ObjectID.cs" t="Include" />
             <e p="ObstacleGeneration.cs" t="Include" />
+            <e p="Runner.cs" t="Include" />
             <e p="Timer.cs" t="Include" />
           </e>
         </e>

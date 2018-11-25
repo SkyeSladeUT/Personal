@@ -75,7 +75,7 @@ public class ObstacleGeneration : MonoBehaviour
 				case "SmallBar":
 					//across 1/3rd of map
 					RandomX = Random.Range(0, 3);
-					position.x = (RandomX - 1) * 2.5f;
+					position.x = (RandomX - 1) * 3f;
 					break;
 				case "LongRock":
 					//Only Jump over
@@ -93,7 +93,7 @@ public class ObstacleGeneration : MonoBehaviour
 				case "SmallRock":
 					//across 1/3rd of screen
 					RandomX = Random.Range(0, 3);
-					position.x = (RandomX-1) * 2.5f;
+					position.x = (RandomX-1) * 3f;
 					break;
 				case "SmallRockEnclosed":
 					RandomX = Random.Range(0, 3);
@@ -139,7 +139,7 @@ public class ObstacleGeneration : MonoBehaviour
 				case "SmallHole":
 					//across 1/3rd of screen
 					RandomX = Random.Range(0, 3);
-					position.x = (RandomX-1)*2.5f;
+					position.x = (RandomX-1)*3f;
 					break;
 				case "SmallHoleEnclosed":
 					RandomX = Random.Range(0, 3);

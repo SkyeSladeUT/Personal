@@ -8,7 +8,6 @@ public class ObstacleDestruction : MonoBehaviour {
 	{
 		if (other.CompareTag("Obstacle"))
 		{
-			print("hit");
 			Destroy(other.gameObject);
 		}
 	}

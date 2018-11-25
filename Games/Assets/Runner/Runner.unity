@@ -413,6 +413,7 @@ GameObject:
   - component: {fileID: 421725665}
   - component: {fileID: 421725664}
   - component: {fileID: 421725663}
+  - component: {fileID: 421725666}
   m_Layer: 0
   m_Name: GameManager (1)
   m_TagString: Untagged
@@ -476,6 +477,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &421725666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 421725662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 435cffec2ef702c4f8bf61f7a56432cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Coin: {fileID: 1235279181021622, guid: 15d838925f5005d488827b9fba5673a2, type: 2}
+  Offset: 50
+  Player: {fileID: 386866412}
 --- !u!1 &472144101
 GameObject:
   m_ObjectHideFlags: 0
@@ -772,6 +787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3389c720a83ae44cacd96623f64d0a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 11400000, guid: 387e3bc6e72eea244ae3c19b75f14795, type: 2}
 --- !u!54 &692012544
 Rigidbody:
   m_ObjectHideFlags: 0
