@@ -66,8 +66,9 @@
             <e p="NavMeshSurfaceTests.cs" t="Include" />
           </e>
         </e>
-        <e p="ObstacleDestruction.cs" t="Include" />
         <e p="Runner" t="Include">
+          <e p="Move.cs" t="Include" />
+          <e p="ObstacleDestruction.cs" t="Include" />
           <e p="SCripts" t="Include">
             <e p="CameraScript.cs" t="Include" />
             <e p="CharacterController" t="Include">
@@ -90,6 +91,7 @@
             <e p="Runner.cs" t="Include" />
             <e p="Timer.cs" t="Include" />
           </e>
+          <e p="TriggerEvent.cs" t="Include" />
         </e>
       </e>
       <e p="Games.sln" t="IncludeFlat" />
