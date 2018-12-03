@@ -39,4 +39,9 @@ public class SceneChange : MonoBehaviour {
 	{
 		SceneManager.LoadScene("MemorySingleMoving");
 	}
+
+	public void Scores()
+	{
+		SceneManager.LoadScene("Scores");
+	}
 }

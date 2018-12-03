@@ -69,7 +69,7 @@ public class MemorySingleMovingTime : MonoBehaviour {
 
     private void EndGame()
     {
-        if (Time < player.BestTime)
+        if (Time < player.BestTimeMoving)
         {
             player.BestTimeMoving = Time;
         }

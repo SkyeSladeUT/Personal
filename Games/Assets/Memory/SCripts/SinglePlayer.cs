@@ -4,8 +4,8 @@ using UnityEngine;
 [CreateAssetMenu]
 public class SinglePlayer : Player
 {
-	public int BestScore = 1000;
-	public int BestTime = 1000;
-	public int BestTimeMoving = 1000;
+	public int BestScore;
+	public int BestTime;
+	public int BestTimeMoving;
 
 }
