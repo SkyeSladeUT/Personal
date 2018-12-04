@@ -61,7 +61,7 @@ public class MemorySingleCount : MonoBehaviour
 	
 	private void EndGame()
 	{
-		if (Count < player.BestTime)
+		if (Count < player.BestScore)
 		{
 			player.BestScore = Count;
 		}
