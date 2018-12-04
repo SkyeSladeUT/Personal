@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 7b961a48ab3a06745ab21834c0af2485
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: oakForest2Main
+    100002: oakForest2Main1
+    100004: oakForest2Main2
+    100006: oakForest2Main3
+    100008: oakForest3Main
+    100010: oakForest3Main1
+    100012: oakForest3Main2
+    100014: oakForest3Main3
+    100016: oakForest3Main4
+    100018: oakForest3Main5
+    100020: //RootNode
+    400000: oakForest2Main
+    400002: oakForest2Main1
+    400004: oakForest2Main2
+    400006: oakForest2Main3
+    400008: oakForest3Main
+    400010: oakForest3Main1
+    400012: oakForest3Main2
+    400014: oakForest3Main3
+    400016: oakForest3Main4
+    400018: oakForest3Main5
+    400020: //RootNode
+    2100000: BackGroundTress
+    2300000: oakForest2Main
+    2300002: oakForest2Main1
+    2300004: oakForest2Main2
+    2300006: oakForest2Main3
+    2300008: oakForest3Main
+    2300010: oakForest3Main1
+    2300012: oakForest3Main2
+    2300014: oakForest3Main3
+    2300016: oakForest3Main4
+    2300018: oakForest3Main5
+    3300000: oakForest2Main
+    3300002: oakForest2Main1
+    3300004: oakForest2Main2
+    3300006: oakForest2Main3
+    3300008: oakForest3Main
+    3300010: oakForest3Main1
+    3300012: oakForest3Main2
+    3300014: oakForest3Main3
+    3300016: oakForest3Main4
+    3300018: oakForest3Main5
+    4300000: oakForest3Main1
+    4300002: oakForest2Main1
+    4300004: oakForest3Main2
+    4300006: oakForest3Main3
+    4300008: oakForest2Main2
+    4300010: oakForest3Main4
+    4300012: oakForest2Main3
+    4300014: oakForest3Main5
+    4300016: oakForest2Main
+    4300018: oakForest3Main
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackGroundTress
+    second: {fileID: 2100000, guid: 8e26105d79fe18040af7de6e2177b364, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
