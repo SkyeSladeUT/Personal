@@ -368,6 +368,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: BackGroundTress
+    second: {fileID: 2100000, guid: 8e26105d79fe18040af7de6e2177b364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Bark
     second: {fileID: 2100000, guid: 648562a16a69b9e4581a079a458aaebb, type: 2}
   - first:
