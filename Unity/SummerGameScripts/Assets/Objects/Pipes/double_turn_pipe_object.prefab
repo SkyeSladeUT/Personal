@@ -163,8 +163,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 268494185235693342}
-  - component: {fileID: 573842600874217331}
-  - component: {fileID: 2636681608527772825}
   m_Layer: 0
   m_Name: double_turn_pipe
   m_TagString: Untagged
@@ -188,28 +186,3 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
---- !u!65 &573842600874217331
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 268494185235784510}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2.053111, y: 1.0274844, z: 2.0429616}
-  m_Center: {x: -0.005417824, y: -0.000000059604645, z: 0.006553769}
---- !u!114 &2636681608527772825
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 268494185235784510}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 681dac6629520a1479359b593a5ff1fe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
