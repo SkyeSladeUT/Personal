@@ -1,5 +1,93 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2649726471772543929
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4533959931352580682}
+  - component: {fileID: 1706236858120448638}
+  m_Layer: 11
+  m_Name: PipeOpening (2)
+  m_TagString: PipOpen
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4533959931352580682
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2649726471772543929}
+  m_LocalRotation: {x: -0.70710677, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 1}
+  m_LocalScale: {x: 0.75, y: 0.1, z: 0.75}
+  m_Children: []
+  m_Father: {fileID: 3870828464274549342}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!65 &1706236858120448638
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2649726471772543929}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0.00000023841856, y: -0.00000023841856, z: -3.5527137e-15}
+--- !u!1 &3446917036185661264
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 596070353556971970}
+  - component: {fileID: 1509999167282727391}
+  m_Layer: 11
+  m_Name: PipeOpening (3)
+  m_TagString: PipOpen
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &596070353556971970
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3446917036185661264}
+  m_LocalRotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+  m_LocalPosition: {x: 1, y: 0, z: 0}
+  m_LocalScale: {x: 0.75, y: 0.1, z: 0.75}
+  m_Children: []
+  m_Father: {fileID: 3870828464274549342}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -90, y: 90, z: 0}
+--- !u!65 &1509999167282727391
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3446917036185661264}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0.00000023841856, y: -0.00000023841856, z: -3.5527137e-15}
 --- !u!1 &3870828462959405613
 GameObject:
   m_ObjectHideFlags: 0
@@ -11,7 +99,7 @@ GameObject:
   - component: {fileID: 3870828462959405614}
   - component: {fileID: 3870828462959405608}
   - component: {fileID: 3870828462959405615}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: double_turn_pipe_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -86,7 +174,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3621249469780970894}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: double_turn_pipe_object
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -120,7 +208,7 @@ GameObject:
   - component: {fileID: 3870828463667021997}
   - component: {fileID: 3870828463667021999}
   - component: {fileID: 3870828463667021998}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: double_turn_pipe_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -218,6 +306,10 @@ Transform:
   m_LocalScale: {x: 0.925, y: 1, z: 0.925}
   m_Children:
   - {fileID: 3621249469780970894}
+  - {fileID: 1714806752540473486}
+  - {fileID: 4533959931352580682}
+  - {fileID: 596070353556971970}
+  - {fileID: 3979236986867165849}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 90.00001, y: 0, z: 0}
@@ -232,7 +324,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 2.053111, y: 1.0274844, z: 2.0429616}
+  m_Size: {x: 1.8, y: 1, z: 1.8}
   m_Center: {x: -0.005417824, y: -0.000000059604645, z: 0.006553769}
 --- !u!114 &3870828464274549343
 MonoBehaviour:
@@ -274,3 +366,91 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a53abe43ea3c4349993e8de3303d422, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &7770117101364843863
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1714806752540473486}
+  - component: {fileID: 3209336455025644267}
+  m_Layer: 11
+  m_Name: PipeOpening (1)
+  m_TagString: PipOpen
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1714806752540473486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7770117101364843863}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: -0, z: -1}
+  m_LocalScale: {x: 0.75000006, y: 0.1, z: 0.7500004}
+  m_Children: []
+  m_Father: {fileID: 3870828464274549342}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!65 &3209336455025644267
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7770117101364843863}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0.00000023841856, y: -0.00000023841856, z: -3.5527137e-15}
+--- !u!1 &8562390953484329917
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3979236986867165849}
+  - component: {fileID: 874038484744536364}
+  m_Layer: 11
+  m_Name: PipeOpening (4)
+  m_TagString: PipOpen
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3979236986867165849
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8562390953484329917}
+  m_LocalRotation: {x: -0.50000006, y: 0.50000006, z: 0.5, w: 0.5}
+  m_LocalPosition: {x: -1, y: 0, z: 0}
+  m_LocalScale: {x: 0.7500003, y: 0.1, z: 0.7500001}
+  m_Children: []
+  m_Father: {fileID: 3870828464274549342}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: -90, y: 90, z: 0}
+--- !u!65 &874038484744536364
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8562390953484329917}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0.00000023841856, y: -0.00000023841856, z: -3.5527137e-15}

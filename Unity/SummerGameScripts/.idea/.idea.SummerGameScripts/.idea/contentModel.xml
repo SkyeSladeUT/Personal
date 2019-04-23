@@ -9,6 +9,10 @@
           <e p="DeacvtivateSnapAreas.cs" t="Include" />
           <e p="DragAndRotate.cs" t="Include" />
           <e p="EventsScript.cs" t="Include" />
+          <e p="Pipe_Trigger_Event.cs" t="Include" />
+          <e p="PipeEntrance.cs" t="Include" />
+          <e p="PipeObject.cs" t="Include" />
+          <e p="PipePuzzleScript.cs" t="Include" />
           <e p="Slide_Tiles_Puzzle" t="Include">
             <e p="Set_Tile_Text.cs" t="Include" />
             <e p="Slide_Directions.cs" t="Include" />
