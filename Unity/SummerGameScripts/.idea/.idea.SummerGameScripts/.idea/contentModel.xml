@@ -6,13 +6,19 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="DeacvtivateSnapAreas.cs" t="Include" />
           <e p="DragAndRotate.cs" t="Include" />
           <e p="EventsScript.cs" t="Include" />
-          <e p="Pipe_Trigger_Event.cs" t="Include" />
-          <e p="PipeEntrance.cs" t="Include" />
-          <e p="PipeObject.cs" t="Include" />
-          <e p="PipePuzzleScript.cs" t="Include" />
+          <e p="Pipe_Puzzle" t="Include">
+            <e p="DeacvtivateSnapAreas.cs" t="Include" />
+            <e p="Double_Pipe_Object.cs" t="Include" />
+            <e p="Pipe_End_Objects.cs" t="Include" />
+            <e p="Pipe_Trigger_Event.cs" t="Include" />
+            <e p="PipeEntrance.cs" t="Include" />
+            <e p="PipeListData.cs" t="Include" />
+            <e p="PipeObject.cs" t="Include" />
+            <e p="PipePuzzleScript.cs" t="Include" />
+            <e p="Single_Pipe_Object.cs" t="Include" />
+          </e>
           <e p="Slide_Tiles_Puzzle" t="Include">
             <e p="Set_Tile_Text.cs" t="Include" />
             <e p="Slide_Directions.cs" t="Include" />

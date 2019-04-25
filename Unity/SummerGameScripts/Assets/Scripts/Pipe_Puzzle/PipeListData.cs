@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 [CreateAssetMenu]
-public class PipeObject : ScriptableObject
+public class PipeListData : ScriptableObject
 {
-    public PipeEntrance A, B;
-    public int pipeNum;
+    public List<Single_Pipe_Object> Pipes;
 }

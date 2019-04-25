@@ -5,13 +5,12 @@ using UnityEngine;
 public class PipeEntrance : ScriptableObject
 {
    public bool isConnected;
-   public int pipeConnectionNum, pipeNum;
-   
+   public int pipeConnectionNum, pipenum;
 
    public void unConnect()
    {
       isConnected = false;
-      pipeConnectionNum = 0;
+      pipeConnectionNum = -1;
    }
 
    public void Connect(int pipeNum)
