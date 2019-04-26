@@ -15,10 +15,9 @@ public class Double_Pipe_Object : PipeObject
       
    }
    
-   public override void IsConnectedTo(ref int Connection)
+   public override int IsConnectedTo( int Connection)
    {
-        
-      Connection = -1;
+      return -1;
    }
    
    public int ConnectedOne()

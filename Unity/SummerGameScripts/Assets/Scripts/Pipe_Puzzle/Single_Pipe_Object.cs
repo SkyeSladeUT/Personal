@@ -32,7 +32,7 @@ public class Single_Pipe_Object : PipeObject
         B.pipenum = num;
     }
 
-    public override void IsConnectedTo(ref int Connection)
+    public override int IsConnectedTo(int Connection)
     {
         if (IsConnected())
         {
@@ -44,7 +44,11 @@ public class Single_Pipe_Object : PipeObject
             {
                 Connection = A.pipeConnectionNum;
             }
+
+            return Connection;
         }
+
+        return -1;
     }
     
     

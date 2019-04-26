@@ -8,7 +8,7 @@ public abstract class PipeObject : ScriptableObject
     public int pipeNum;
     protected PipeEntrance A, B;
     public abstract void AssignPipeNum(int num);
-    public abstract void IsConnectedTo(ref int connect);
+    public abstract int IsConnectedTo(int connect);
     public abstract bool IsConnected();
 
     public PipeEntrance ReturnA()

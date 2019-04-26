@@ -6,6 +6,7 @@ public class PipePuzzleScript : MonoBehaviour
     public PipeEntrance Begin;
     private bool FlowsThroughAll;
     private int _currPipe;
+    private int _prevPipe, temp;
     public int NumOfPipes;
     private int Num;
 
@@ -30,20 +31,24 @@ public class PipePuzzleScript : MonoBehaviour
             Debug.Log("Begin Connected");
             FlowsThroughAll = true;
             _currPipe = Begin.pipeConnectionNum;
-            Debug.Log(_currPipe);
+            _prevPipe = Begin.pipenum;
+            //Debug.Log(_currPipe);
         }
         else
         {
             FlowsThroughAll = false;
         }
-        Num = 10;
+        Num = Pipes.Pipes.Count + 2;
         while (FlowsThroughAll && _currPipe > 0 && Num > 0)
         {
-           Debug.Log(_currPipe);
+           Debug.Log("Num Times: " + Num);
+           Debug.Log("Curr: " + _currPipe);
            if(Pipes.Pipes[_currPipe-1].IsConnected())
            {
               Debug.Log("Is Connected");
-              Pipes.Pipes[_currPipe - 1].IsConnectedTo(ref _currPipe);
+               temp = _currPipe;
+              _currPipe = Pipes.Pipes[_currPipe - 1].IsConnectedTo(_prevPipe);
+              _prevPipe = temp;
            }
            else
            {
