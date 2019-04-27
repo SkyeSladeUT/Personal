@@ -6,63 +6,27 @@ using UnityEngine.UI;
 public class CharacterMovement : MonoBehaviour
 {
 
-    public MovePattern movePattern;
-    //public MovePattern Frozen;
-    //private MovePattern Current;
-    private CharacterController controller;
-    //public Transform SpawnPoint;
-    //private int countdown = 3;
-    //public Text CountDownText;
-    //public GameObject Bullet;
-   // private Vector3 BulletPosition;
-   // private Transform BulletTransform;
-
-
+    private MovePattern _current;
+    public MovePattern Walk, Run;
+    private CharacterController _controller;
+    public KeyCodeData Sprint;
 
     private void Start()
     {
-        controller = GetComponent<CharacterController>();
-        //Current = movePattern;
-        //CountDownText.text = "";
-        //StartCoroutine("CountDown");
+        _controller = GetComponent<CharacterController>();
+        _current = Walk;
     }
 
-    private void Update() {
-        //Current.Invoke(controller, transform);
-        movePattern.Invoke(controller, transform);
-        
-
+    private void FixedUpdate()
+    {
+        if (Sprint.KeyDown())
+            _current = Run;
+        else if (Sprint.KeyUp())
+            _current = Walk;
+        _current.Invoke(_controller, transform);
     }
 
-    /*private void OnTriggerEnter(Collider other)
-    {
-        if (other.CompareTag("Enemy"))
-        {
-            transform.position = SpawnPoint.position;
-        }
-    }*/
-
-    /*IEnumerator CountDown()
-    {
-        while (countdown >= 0)
-        {
-            if(countdown > 0 )
-            {
-                CountDownText.text = countdown.ToString();
-                countdown--;
-            }
-            else if(countdown == 0)
-            {
-                CountDownText.text = "GO";
-                Current = movePattern;
-                yield return new WaitForSeconds(2);
-                CountDownText.text = "";
-                countdown--;
-            }
-
-            yield return new WaitForSeconds(1.0f);
-        }
-    }*/
+    
 
 
 

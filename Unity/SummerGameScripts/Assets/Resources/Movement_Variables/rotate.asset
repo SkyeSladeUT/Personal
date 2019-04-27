@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ba057170adbde34f803e2558ebf6b24, type: 3}
   m_Name: rotate
   m_EditorClassIdentifier: 
-  value: 1.5
+  value: 3
   InputType: Horizontal

@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6547faa2bb530da4f9394b263a37ad24, type: 3}
-  m_Name: MainCharacterWalk
+  m_Name: MainCharacterRun
   m_EditorClassIdentifier: 
   MoveX: {fileID: 11400000, guid: 335606fd04689d74e8e5186d0a20fc3d, type: 2}
   MoveY: {fileID: 11400000, guid: 335606fd04689d74e8e5186d0a20fc3d, type: 2}
-  MoveZ: {fileID: 11400000, guid: 73191083ff0cc1246a2950aa39515251, type: 2}
+  MoveZ: {fileID: 11400000, guid: 2727e4b96f1d6ed46a17c0352dfef76d, type: 2}
   Jump: {fileID: 11400000, guid: 335606fd04689d74e8e5186d0a20fc3d, type: 2}
   Gravity: {fileID: 11400000, guid: b4903a1e482224142b47b3ad8b831c56, type: 2}
   RotX: {fileID: 11400000, guid: 335606fd04689d74e8e5186d0a20fc3d, type: 2}

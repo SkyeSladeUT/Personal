@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d183136a-9d8b-4f4a-944d-74955dadf713" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Maya/SummerGameObjects/Pipes.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SummerGameScripts/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SummerGameScripts/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SummerGameScripts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SummerGameScripts/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pipes_Puzzle.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Pipes_Puzzle.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/BeginEntrance.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/BeginEntrance.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/Double_Pipe_Object.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/Double_Pipe_Object.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/EndEntrance.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/EndEntrance.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/PipeEntrance.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/PipeEntrance.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/PipeListData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/PipeListData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/Pipes.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/Pipes.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/Single_Pipe_Object.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/Single_Pipe_Object.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/CharacterAnimation/character_prototype_animator.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/CharacterAnimation/character_prototype_animator.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Black.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Black.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/PrototypeMaterials/Pink.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/PrototypeMaterials/Pink.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Movement_Variables/MainCharacterWalk.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Movement_Variables/MainCharacterWalk.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Movement_Variables/foward_keys.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Movement_Variables/foward_keys.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Movement_Variables/rotate.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Movement_Variables/rotate.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestScripts.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestScripts.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/CharacterMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/CharacterMovement.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -76,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnimationScript.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AnimationScript.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/AnimationScript.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
@@ -90,6 +86,21 @@
                 <marker date="1556336297825" expanded="true" signature="413:524" ph="{...}" />
                 <marker date="1556336297825" expanded="true" signature="541:652" ph="{...}" />
                 <marker date="1556336297825" expanded="true" signature="675:809" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharacterMovement.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/CharacterMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding>
+                <marker date="1556402935604" expanded="false" signature="6:66" ph="..." />
+                <marker date="1556402935604" expanded="true" signature="162:655" ph="{...}" />
+                <marker date="1556402935604" expanded="true" signature="335:431" ph="{...}" />
+                <marker date="1556402935604" expanded="true" signature="463:644" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -145,6 +156,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/Single_Pipe_Object.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataObjects/FloatInput.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Slide_Tiles_Puzzle/Set_Tile_Text.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataObjects/KeyCodeData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pipe_Puzzle/Pipe_End_Objects.cs" root0="FORCE_HIGHLIGHTING" />
@@ -197,6 +209,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/DataObjects/FloatInputAxis.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/CameraFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/AnimationScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/CharacterMovement.cs" />
       </list>
     </option>
   </component>
@@ -229,11 +242,11 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,11 +299,12 @@
       <workItem from="1556243376619" duration="2291000" />
       <workItem from="1556298961937" duration="3467000" />
       <workItem from="1556335423417" duration="1186000" />
+      <workItem from="1556401810652" duration="1424000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56062000" />
+    <option name="totallyTimeSpent" value="57486000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -311,7 +325,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3735955" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38108614" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
