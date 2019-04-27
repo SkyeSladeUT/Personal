@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: Prototypes.ma
-//Last modified: Fri, Apr 26, 2019 09:09:53 PM
+//Last modified: Fri, Apr 26, 2019 09:44:27 PM
 //Codeset: 1252
 requires maya "2018";
 requires -nodeType "gameFbxExporter" "gameFbxExporter" "1.0";
@@ -2930,7 +2930,7 @@ createNode script -n "uiConfigurationScriptNode";
 	setAttr ".st" 3;
 createNode script -n "sceneConfigurationScriptNode";
 	rename -uid "87A7286E-4AC1-0AF3-714F-73B835D95935";
-	setAttr ".b" -type "string" "playbackOptions -min 210 -max 240 -ast 1 -aet 271 ";
+	setAttr ".b" -type "string" "playbackOptions -min 1 -max 215 -ast 1 -aet 271 ";
 	setAttr ".st" 6;
 createNode groupId -n "groupId45";
 	rename -uid "DE3C9698-457F-29D9-B6AB-938186C32B7D";
@@ -4604,15 +4604,19 @@ createNode gameFbxExporter -n "gameExporterPreset1";
 	rename -uid "50BC2BDE-4873-8209-A4F8-B7921B5B9325";
 	setAttr ".pn" -type "string" "Model Default";
 	setAttr ".ils" yes;
+	setAttr ".esi" 2;
 	setAttr ".ebm" yes;
 	setAttr ".inc" yes;
 	setAttr ".fv" -type "string" "FBX201800";
+	setAttr ".exp" -type "string" "E:/Personal/Maya/SummerGameObjects/FBX";
+	setAttr ".exf" -type "string" "prototype_character_animated";
 createNode gameFbxExporter -n "gameExporterPreset2";
 	rename -uid "7AC33E19-4A1F-A7F8-65ED-D58E06BC7978";
 	setAttr ".pn" -type "string" "Anim Default";
 	setAttr ".ils" yes;
 	setAttr ".ilu" yes;
 	setAttr ".eti" 2;
+	setAttr ".esi" 2;
 	setAttr -s 5 ".ac";
 	setAttr ".ac[0].acn" -type "string" "Run";
 	setAttr ".ac[0].acs" 1;
@@ -4633,7 +4637,7 @@ createNode gameFbxExporter -n "gameExporterPreset2";
 	setAttr ".ebm" yes;
 	setAttr ".fv" -type "string" "FBX201800";
 	setAttr ".exp" -type "string" "E:/Personal/Maya/SummerGameObjects/FBX";
-	setAttr ".exf" -type "string" "protoype_character";
+	setAttr ".exf" -type "string" "protoype_character_animated";
 createNode gameFbxExporter -n "gameExporterPreset3";
 	rename -uid "3A697C9B-45BC-35C5-A8D4-25A8810F1084";
 	setAttr ".pn" -type "string" "TE Anim Default";
