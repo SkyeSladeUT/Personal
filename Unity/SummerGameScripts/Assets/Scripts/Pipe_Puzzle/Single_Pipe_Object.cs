@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using UnityEngine;
-[CreateAssetMenu]
+[CreateAssetMenu(menuName = "Pipe/Pipe_Object", fileName = "Pipe_Object")]
 public class Single_Pipe_Object : PipeObject
 {
     //private PipeEntrance A, B;

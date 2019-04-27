@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-[CreateAssetMenu]
+[CreateAssetMenu(menuName = "Pipe/Entrance", fileName = "Pipe_Entrance")]
 public class PipeEntrance : ScriptableObject
 {
    public bool isConnected;
