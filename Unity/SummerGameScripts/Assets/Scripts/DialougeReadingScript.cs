@@ -14,9 +14,9 @@ public class DialougeReadingScript : MonoBehaviour
   private string _line;
   private List<string> _characterspara;
   private List<string> _paragraph;
-  private List<List<string>> _dialouge, charaConveration;
+  private List<List<string>> _dialouge, _charaConversation;
   private List<List<List<string>>> _conversation;
-  private bool ignore;
+  private bool _ignore;
   
   // _endlinechar - the character to show the end of a line of dialouge
   // _endconvchar - shows end of conversation
@@ -24,33 +24,34 @@ public class DialougeReadingScript : MonoBehaviour
     //probably a number
   //_characterchar - shows the line which will tell which character is speaking
   //_startchar - shows the beginning of a conversation
-  private char _endlinechar, _endconvchar, _endcharlines, _boolchar, _characterchar, _startchar, _endscriptchar, _ignorechar;
+  //private char _endlinechar, _endconvchar, _endcharlines, _boolchar, _characterchar, _startchar, _endscriptchar, 
+  private char _ignorechar;
   
   private void Start()
   {
     _characterspara = new List<string>();
     _convNum = 0;
     _dialouge = new List<List<string>>();
-    charaConveration = new List<List<string>>();
+    _charaConversation = new List<List<string>>();
     _conversation = new List<List<List<string>>>();
-    _endcharlines = '<';
     _line = "";
-    ignore = false;
+    _ignore = false;
     _script = Script.text;
     _ignorechar = '/';
+   /* _endcharlines = '<';
     _endscriptchar = '%';
     _startchar = '~';
     _endlinechar = '*';
     _endconvchar = '>';
     _boolchar = '#';
-    _characterchar = '@';
+    _characterchar = '@';*/
 
     foreach (char c in _script)
     {
       //print(c);
       if(c == _ignorechar)
-        ignore = !ignore;
-      if (!ignore)
+        _ignore = !_ignore;
+      if (!_ignore)
       {
         switch (c)
         {
@@ -58,7 +59,7 @@ public class DialougeReadingScript : MonoBehaviour
             break;
           case '%':
             //end script
-            ignore = true;
+            _ignore = true;
             PrintList();
             return;
           case '~':
@@ -81,7 +82,7 @@ public class DialougeReadingScript : MonoBehaviour
           case '>':
             //end conversation
             print("Conversation end");
-            charaConveration.Add(_characterspara);
+            _charaConversation.Add(_characterspara);
             _characterspara = new List<string>();
             _paragraph.Add(_line);
             _line = "";
@@ -110,14 +111,13 @@ public class DialougeReadingScript : MonoBehaviour
   {
     for (int i = 0; i < _conversation.Count; i++)
     {
-      for (int j = 0; j < _dialouge.Count; j++)
+      for (int j = 0; j < _conversation[i].Count; j++)
       {
-        print(charaConveration[i][j]);
-        for (int k = 0; k < _paragraph.Count; k++)
+        print(_charaConversation[i][j]);
+        for (int k = 0; k < _conversation[i][j].Count; k++)
         {
           print(_conversation[i][j][k]);
-        }
-        
+        }   
       }
     }
   }
