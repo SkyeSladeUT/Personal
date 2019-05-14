@@ -1,9 +1,0 @@
-0#
-Carl@
-~Hi I'm Carl!*
-Would you like to be my friend?<
-
-George@
-~Hi Carl*
-No I would not.>
-%
