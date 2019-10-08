@@ -1,10 +1,10 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Dash : MonoBehaviour
 {
-    float _doubleTapTime = .3f;
+    float _doubleTapTime = .15f;
     private bool doubleTapD, doubleTapW, running;
     private string moveDirection;
     private float time, startTime;
@@ -31,51 +31,54 @@ public class Dash : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.D) && moveDirection != "D" )
             {
+                Debug.Log("D");
                 moveDirection = "D";
                 time = 0;
             }
             else if (Input.GetKeyDown(KeyCode.W) && moveDirection != "W")
             {
+                Debug.Log("W");
                 moveDirection = "W";
                 time = 0;
             }
             else if (Input.GetKeyDown(KeyCode.S) && moveDirection != "S")
             {
+                Debug.Log("S");
                 moveDirection = "S";
                 time = 0;
             }
             else if (Input.GetKeyDown(KeyCode.A) && moveDirection != "A")
             {
+                Debug.Log("A");
                 moveDirection = "A";
                 time = 0;
             }
             
             else if (Input.GetKeyDown(KeyCode.D) && moveDirection == "D")
             {
+                Debug.Log("Dash D");
                 StartCoroutine(DashAct("D"));
             }
             
-
-            
             else if (Input.GetKeyDown(KeyCode.W) && moveDirection == "W")
             {
+                Debug.Log("Dash W");
                 StartCoroutine(DashAct("W"));
             }
             
-
-            
             else if (Input.GetKeyDown(KeyCode.S) && moveDirection == "S")
             {
+                Debug.Log("Dash S");
                     StartCoroutine(DashAct("S"));
             }
-
-
             
             else if (Input.GetKeyDown(KeyCode.A) && moveDirection == "A")
             {
+                Debug.Log("Dash A");
                     StartCoroutine(DashAct("A"));
             }
-            yield return new WaitForFixedUpdate();
+            //yield return new WaitForFixedUpdate();
+            yield return new WaitUntil(()=>Input.anyKey);
         }
     }
 
@@ -85,10 +88,13 @@ public class Dash : MonoBehaviour
         {
             Debug.Log("Dash");
             rb.velocity = (transform.forward * DashSpeed);
-            time = 0;
-            moveDirection = "";
+            //time = 0;
+           // moveDirection = "";
             yield return new WaitForSeconds(dashDuration);
             rb.velocity = Vector3.zero;
+            yield return new WaitForSeconds(.3f);
+            time = 0;
+            moveDirection = "";
         }
     }
 
@@ -96,8 +102,8 @@ public class Dash : MonoBehaviour
     {
         while (running)
         {
-            yield return new WaitForSeconds(.1f);
-            time += .1f;
+            yield return new WaitForSeconds(.01f);
+            time += .01f;
             if (time > _doubleTapTime)
             {
                 time = 0;

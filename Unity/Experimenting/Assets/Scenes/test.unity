@@ -530,7 +530,7 @@ PrefabInstance:
     - target: {fileID: 6807276967738376601, guid: d7b2a4e8879948444835fe0e21dcdc83,
         type: 3}
       propertyPath: DashSpeed
-      value: 10
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 6807276967738376601, guid: d7b2a4e8879948444835fe0e21dcdc83,
         type: 3}
@@ -540,7 +540,7 @@ PrefabInstance:
     - target: {fileID: 6807276967738376601, guid: d7b2a4e8879948444835fe0e21dcdc83,
         type: 3}
       propertyPath: dashDuration
-      value: 0.3
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 969958320, guid: d7b2a4e8879948444835fe0e21dcdc83, type: 3}
       propertyPath: hearts.Array.size
