@@ -16,6 +16,9 @@ public class dialogue_script_condensed : MonoBehaviour
     public UnityEvent OnInteract, OnFinish, OnChoiceSelection;
     private float textScrollSpeed;
     private string _choiceCharacter = "*";
+    private string _actionCharacter = "^";
+    public List<UnityEvent> dialogueActions;
+    private int _actionIndex;
     
     private void Start()
     {
@@ -64,26 +67,39 @@ public class dialogue_script_condensed : MonoBehaviour
         for (int i = 0; i < NPC.dialogue.lines.Count; i++)
         {
             _text_to_display = "";
+            //Choice Selection
             if (NPC.dialogue.lines[i] == _choiceCharacter)
             {
                 OnChoiceSelection.Invoke();
                 Dialouge_Object.SetActive(false);
                 yield break;
             }
-            textScrollSpeed = .001f;
-            for (int j = 0; j < NPC.dialogue.lines[i].Length; j++)
+
+            else if (NPC.dialogue.lines[i].Contains(_actionCharacter))
             {
-                _text_to_display += NPC.dialogue.lines[i][j];
-                Dialouge_Text.text = _text_to_display;
-                yield return new WaitForSeconds(textScrollSpeed);
-                if (Input.GetKeyDown(interact_key))
-                {
-                    Dialouge_Text.text = NPC.dialogue.lines[i];
-                    break;
-                }
+                Debug.Log("Action: ");
+                
+                _actionIndex = int.Parse(NPC.dialogue.lines[i].Split('^')[1]);
+                dialogueActions[_actionIndex].Invoke();
             }
-            yield return new WaitForSeconds(.01f);
-            yield return new WaitUntil(() => Input.GetKeyDown(interact_key));
+            else
+            {
+                textScrollSpeed = .001f;
+                for (int j = 0; j < NPC.dialogue.lines[i].Length; j++)
+                {
+                    _text_to_display += NPC.dialogue.lines[i][j];
+                    Dialouge_Text.text = _text_to_display;
+                    yield return new WaitForSeconds(textScrollSpeed);
+                    if (Input.GetKeyDown(interact_key))
+                    {
+                        Dialouge_Text.text = NPC.dialogue.lines[i];
+                        break;
+                    }
+                }
+
+                yield return new WaitForSeconds(.01f);
+                yield return new WaitUntil(() => Input.GetKeyDown(interact_key));
+            }
         }
         
         Dialouge_Object.SetActive(false);

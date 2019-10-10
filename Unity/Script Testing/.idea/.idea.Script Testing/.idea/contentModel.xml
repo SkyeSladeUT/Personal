@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Owner\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Script Testing.748103424.00" t="ExcludeRecursive" />
-    <e p="E:\School\Personal_Work\Personal\Unity\Script Testing" t="IncludeRecursive">
+    <e p="C:\Users\10802160\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\10802160\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Script Testing.1756597509.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10802160\Documents\Repos\Personal\Unity\Script Testing" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Scripts" t="Include">
+        <e p="DialogueObjects" t="Include">
           <e p="Dialogue_Scripts" t="Include">
             <e p="choice_dialogue.cs" t="Include" />
             <e p="choice_lines.cs" t="Include" />
@@ -15,16 +16,9 @@
             <e p="IfElseEvents.cs" t="Include" />
             <e p="NPCObject.cs" t="Include" />
           </e>
-          <e p="Movement_Scripts" t="Include">
-            <e p="Basic_Character_Movement.cs" t="Include" />
-            <e p="Character_Movement_JoystickConf.cs" t="Include" />
-            <e p="CharacterMovement.cs" t="Include" />
-            <e p="Joystick_Basic_Movement.cs" t="Include" />
-            <e p="Joystick_Move_Pattern.cs" t="Include" />
-            <e p="MovePattern.cs" t="Include" />
-          </e>
           <e p="Scriptable_Objects" t="Include">
             <e p="BoolData.cs" t="Include" />
+            <e p="DebugObject.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="FloatInput.cs" t="Include" />
             <e p="FloatInputAxis.cs" t="Include" />
@@ -33,14 +27,25 @@
             <e p="UnityKeyCodeObject.cs" t="Include" />
           </e>
         </e>
+        <e p="Scripts" t="Include">
+          <e p="Movement_Scripts" t="Include">
+            <e p="Basic_Character_Movement.cs" t="Include" />
+            <e p="Character_Movement_JoystickConf.cs" t="Include" />
+            <e p="CharacterMovement.cs" t="Include" />
+            <e p="Joystick_Basic_Movement.cs" t="Include" />
+            <e p="Joystick_Move_Pattern.cs" t="Include" />
+            <e p="MovePattern.cs" t="Include" />
+          </e>
+          <e p="Save_Game" t="Include">
+            <e p="CreateSave.cs" t="Include" />
+            <e p="SaveScene.cs" t="Include" />
+          </e>
+        </e>
       </e>
-      <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="Script Testing.sln" t="IncludeFlat" />
-      <e p="Temp" t="ExcludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-      </e>
+      <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
   </component>
 </project>

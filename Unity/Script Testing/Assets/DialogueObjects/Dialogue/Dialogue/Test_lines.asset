@@ -15,11 +15,13 @@ MonoBehaviour:
   name: Villager
   lines:
   - Testing Testing 1 2 3...
+  - ^0
   - 'Multiple line comments.
 
     Testing to see if it works.
 
     press Enter to continue'
+  - ^1
   - One really long sentence... to see if the wrapping looks okay... don't know what
     to write but it needs to be long enough that it fills the box...
   - '*'
