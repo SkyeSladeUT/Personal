@@ -16,6 +16,11 @@
             <e p="NPCObject.cs" t="Include" />
           </e>
         </e>
+        <e p="MiscScripts" t="Include">
+          <e p="Scene_Load.cs" t="Include" />
+          <e p="StartEvents.cs" t="Include" />
+          <e p="TriggerEvents.cs" t="Include" />
+        </e>
         <e p="Movement" t="Include">
           <e p="Movement_Scripts" t="Include">
             <e p="Basic_Character_Movement.cs" t="Include" />
@@ -29,25 +34,27 @@
         <e p="Saving" t="Include">
           <e p="Scripts" t="Include">
             <e p="GameControl.cs" t="Include" />
+            <e p="Initialize_Objects.cs" t="Include" />
             <e p="ObjectSave.cs" t="Include" />
+            <e p="SaveScript.cs" t="Include" />
             <e p="SceneSaveManager.cs" t="Include" />
             <e p="SceneSaveObjects.cs" t="Include" />
+            <e p="Scriptable_Object_Saver.cs" t="Include" />
             <e p="ScriptableObjectHolder.cs" t="Include" />
           </e>
         </e>
-        <e p="Scene_Load.cs" t="Include" />
         <e p="Scriptable_Objects" t="Include">
           <e p="BoolData.cs" t="Include" />
           <e p="DebugObject.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FloatInput.cs" t="Include" />
           <e p="FloatInputAxis.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="KeyCodeData.cs" t="Include" />
           <e p="KeyCodeDataKeys.cs" t="Include" />
+          <e p="StringData.cs" t="Include" />
           <e p="UnityKeyCodeObject.cs" t="Include" />
         </e>
-        <e p="StartEvents.cs" t="Include" />
-        <e p="TriggerEvents.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />

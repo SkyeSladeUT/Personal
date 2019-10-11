@@ -9,10 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8963f2c754eaa2f43acb9945f53575d8, type: 3}
-  m_Name: Scene_01
+  m_Script: {fileID: 11500000, guid: 4617c43b2abc9db4a9b1eef6918b8f22, type: 3}
+  m_Name: Save_Data_01
   m_EditorClassIdentifier: 
-  objsToSave: []
-  destinations: []
-  active: 
-  objnames: []
+  Data:
+  - {fileID: 11400000, guid: a7e96de7768dbd8418faa6d903cf7b98, type: 2}
+  - {fileID: 11400000, guid: 6b238fc3af1179942b326c0373dcd918, type: 2}

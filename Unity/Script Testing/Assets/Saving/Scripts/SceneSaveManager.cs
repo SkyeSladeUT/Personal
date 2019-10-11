@@ -11,13 +11,13 @@ public class SceneSaveManager : MonoBehaviour
         //It probably wont work correctly
         //Just set objects inactive instead
     public SceneSaveObjects objs;
-    public ObjectSave[] _objs;
-    public GameObject[] _objects;
+    private ObjectSave[] _objs;
+    private GameObject[] _objects;
 
     private void Start()
     {
         _objs = FindObjectsOfType<ObjectSave>();
-        Debug.Log(_objs.Length);
+        //Debug.Log(_objs.Length);
         _objects = new GameObject[_objs.Length];
         if (objs.objnames == null)
         {
@@ -26,7 +26,7 @@ public class SceneSaveManager : MonoBehaviour
         }
         else if (objs.objnames.Length == 0)
         {
-            Debug.Log("Empty");
+            //Debug.Log("Empty");
             Initialize();
         }
         else
@@ -59,14 +59,14 @@ public class SceneSaveManager : MonoBehaviour
             _objects[i] = GameObject.Find(objs.objnames[i]);
             if (_objects[i] == null)
             {
-                Debug.Log("null");
+                //Debug.Log("null");
                 objs.active[i] = false;
             }
             else
             {
-                Debug.Log(_objects[i].transform.position);
+                //Debug.Log(_objects[i].transform.position);
                 objs.destinations[i] = _objects[i].transform.position;
-                Debug.Log(_objects[i].activeSelf);
+                //Debug.Log(_objects[i].activeSelf);
                 objs.active[i] = _objects[i].activeSelf;
             }
         }
@@ -75,8 +75,8 @@ public class SceneSaveManager : MonoBehaviour
 
     public void Load()
     {
-        Debug.Log("Load");
-        Debug.Log(objs.objnames.Length);
+        //Debug.Log("Load");
+        //Debug.Log(objs.objnames.Length);
         for (int i = 0; i < objs.objnames.Length; i++)
         {
             _objects[i] = GameObject.Find(objs.objnames[i]);

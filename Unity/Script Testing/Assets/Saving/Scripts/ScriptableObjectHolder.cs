@@ -5,4 +5,5 @@ using UnityEngine;
 public class ScriptableObjectHolder : MonoBehaviour
 {
     public List<ScriptableObject> objs;
+    
 }
