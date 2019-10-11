@@ -1,25 +1,247 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c9dd06a-ceb8-4497-a40c-21d87c099300" name="Default" comment="" />
+    <list default="true" id="3c9dd06a-ceb8-4497-a40c-21d87c099300" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Basic_Colors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Basic_Colors/Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Basic_Colors/Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Debugging.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Debugging/0.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Debugging/0.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Debugging/1.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Debugging/1.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/FinishEvent.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/FinishEvent.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/HasItem.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/HasItem.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/StartConv.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/StartConv.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_Choice_01_Text.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_Choice_01_Text.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_Choice_02_Text.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_Choice_02_Text.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_Choices.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_Choices.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_Does_Not_have_item.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_Does_Not_have_item.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_Has_Item.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_Has_Item.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_NPC.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_NPC.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_lines.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/Dialogue/Test_lines.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/KeyCodes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/KeyCodes/Horizontal.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/KeyCodes/Horizontal.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/KeyCodes/Interact.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/KeyCodes/Interact.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/KeyCodes/Vertical.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue/KeyCodes/Vertical.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/Choice_Selection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/Choice_Selection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/IfElseEvents.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/IfElseEvents.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/NPCObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/NPCObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/choice_dialogue.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/choice_dialogue.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/choice_lines.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/choice_lines.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/dialogue_lines.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/dialogue_lines.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/dialogue_script_condensed.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Dialogue_Scripts/dialogue_script_condensed.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/BoolData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/BoolData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/DebugObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/DebugObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/FloatData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/FloatData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/FloatInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/FloatInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/FloatInputAxis.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/FloatInputAxis.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/KeyCodeData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/KeyCodeData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/KeyCodeDataKeys.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/KeyCodeDataKeys.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/UnityKeyCodeObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DialogueObjects/Scriptable_Objects/UnityKeyCodeObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/Basic_Gravity.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/Basic_Gravity.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/Basic_Move_Speed.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/Basic_Move_Speed.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/Basic_Rotate_Speed.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/Basic_Rotate_Speed.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/Basic_Walk.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/Basic_Walk.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/First_person_Movement.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/First_person_Movement/Basic_Walk_02.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/First_person_Movement/Basic_Walk_02.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/First_person_Movement/Move_Z.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/First_person_Movement/Move_Z.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/First_person_Movement/Move_Z_Rotate.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/First_person_Movement/Move_Z_Rotate.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/First_person_Movement/Rotate_Y.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/First_person_Movement/Rotate_Y.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/First_person_Movement/Zero.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Character_movement/First_person_Movement/Zero.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/Original/Test_Saving.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/Original/Test_Saving.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/Original/Test_Saving.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/Original/Test_Saving.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/Save_01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/Basic_Character_Movement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/Basic_Character_Movement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/CharacterMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/CharacterMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/Character_Movement_JoystickConf.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/Character_Movement_JoystickConf.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/Joystick_Basic_Movement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/Joystick_Basic_Movement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/Joystick_Move_Pattern.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/Joystick_Move_Pattern.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/MovePattern.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/MovePattern.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save_Game.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save_Game/CreateSave.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save_Game/CreateSave.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save_Game/SaveScene.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Save_Game/SaveScene.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SceneSaveObjects.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveObjects.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectSave.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ObjectSave.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scene_Load.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scene_Load.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SceneSaveManager.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+              <folding>
+                <marker date="1570768215460" expanded="false" signature="6:111" ph="..." />
+                <marker date="1570768215460" expanded="true" signature="264:2511" ph="{...}" />
+                <marker date="1570768215460" expanded="true" signature="271:412" ph="/* DO NOT DESTROY ANY OF THE GAMEOBJECTS FOR THIS SCRIPT ... */" />
+                <marker date="1570768215460" expanded="true" signature="537:976" ph="{...}" />
+                <marker date="1570768215460" expanded="true" signature="709:786" ph="{...}" />
+                <marker date="1570768215460" expanded="true" signature="830:908" ph="{...}" />
+                <marker date="1570768215460" expanded="true" signature="921:961" ph="{...}" />
+                <marker date="1570768215460" expanded="true" signature="1006:1414" ph="{...}" />
+                <marker date="1570768215460" expanded="true" signature="1209:1392" ph="{...}" />
+                <marker date="1570768215460" expanded="true" signature="1438:2077" ph="{...}" />
+                <marker date="1570768215460" expanded="true" signature="1567:2071" ph="{...}" />
+                <marker date="1570768215460" expanded="true" signature="1675:1778" ph="{...}" />
+                <marker date="1570768215460" expanded="true" signature="1795:2061" ph="{...}" />
+                <marker date="1570768215460" expanded="true" signature="2102:2509" ph="{...}" />
+                <marker date="1570768215460" expanded="true" signature="2231:2503" ph="{...}" />
+                <marker date="1570768215460" expanded="true" signature="2339:2493" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameControl.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/GameControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScriptableObjectHolder.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ScriptableObjectHolder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartEvents.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/StartEvents.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TriggerEvents.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>partic</find>
+      <find>serialize</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/MovePattern.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Save_Game/CreateSave.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/Joystick_Basic_Movement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/Joystick_Move_Pattern.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/Basic_Character_Movement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Save_Game/SaveScene.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement_Scripts/Character_Movement_JoystickConf.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StartEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ObjectSave.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scene_Load.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveObjects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/GameControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ScriptableObjectHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -47,10 +269,50 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable_Objects/DebugObject.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Save_Game/CreateSave.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Save_Game/SaveScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Plugins/OpenUnityTools/unityserializer-ng/Serialization/UnitySerializationExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scene_Load.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/SaveScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/ObjectSave.cs" />
+        <option value="$PROJECT_DIR$/Assets/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/StartEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/DontDestroyObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/GameControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/ScriptableObjectHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs" />
       </list>
     </option>
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="width" value="1310" />
+    <option name="height" value="1040" />
+  </component>
   <component name="ProjectId" id="1S1DmCqs09d8X2lDVRNtc4vld8V" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Script Testing" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -70,7 +332,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+  <component name="RunManager" selected="Attach Unity.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -79,12 +341,12 @@
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
-      <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <option name="userSelectedPid" value="false" />
-      <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Attach Unity.Attach to Unity Editor" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -98,8 +360,48 @@
       <updated>1570574521732</updated>
       <workItem from="1570574525477" duration="19650000" />
       <workItem from="1570722369678" duration="7622000" />
+      <workItem from="1570751557455" duration="6126000" />
+      <workItem from="1570758758331" duration="8177000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14303000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1048" height="832" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506073" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -111,14 +413,21 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
     <state x="130" y="161" key="SettingsEditor" />
@@ -130,14 +439,7 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Scripts/Dialogue_Scripts/choice_dialogue.cs</url>
           <line>52</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Dialogue_Scripts/choice_dialogue.cs" initialLine="52">
-            <startOffsets>
-              <option value="1363" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1399" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Dialogue_Scripts/choice_dialogue.cs" initialLine="52" />
         </line-breakpoint>
         <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
@@ -145,5 +447,160 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/CreateSave.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveScene.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Plugins/OpenUnityTools/unityserializer-ng/Serialization/UnitySerializationExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14220">
+          <caret line="2725" column="41" selection-start-line="2725" selection-start-column="41" selection-end-line="2725" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/UnitySerializerExamples/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Plugins/OpenUnityTools/unityserializer-ng/Serialization/UnitySerializationExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14220">
+          <caret line="2725" column="41" selection-start-line="2725" selection-start-column="41" selection-end-line="2725" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Plugins/OpenUnityTools/unityserializer-ng/Serialization/StoreInformation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Plugins/OpenUnityTools/unityserializer-ng/Serialization/Rooms/Room.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Plugins/OpenUnityTools/unityserializer-ng/Serialization/Rooms/RoomDataSaveGameStorage.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Plugins/OpenUnityTools/unityserializer-ng/Serialization/Rooms/RoomManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Plugins/OpenUnityTools/unityserializer-ng/Serialization/LevelSerializer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="1354" column="29" selection-start-line="1354" selection-start-column="29" selection-end-line="1354" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/UnitySerializerExamples/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveScene.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/CreateSave.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveObjects.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/StartEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/DontDestroyObj.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ScriptableObjectHolder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/GameControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scene_Load.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ObjectSave.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveObjects.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <folding>
+            <marker date="1570768215460" expanded="false" signature="6:111" ph="..." />
+            <marker date="1570768215460" expanded="true" signature="264:2511" ph="{...}" />
+            <marker date="1570768215460" expanded="true" signature="271:412" ph="/* DO NOT DESTROY ANY OF THE GAMEOBJECTS FOR THIS SCRIPT ... */" />
+            <marker date="1570768215460" expanded="true" signature="537:976" ph="{...}" />
+            <marker date="1570768215460" expanded="true" signature="709:786" ph="{...}" />
+            <marker date="1570768215460" expanded="true" signature="830:908" ph="{...}" />
+            <marker date="1570768215460" expanded="true" signature="921:961" ph="{...}" />
+            <marker date="1570768215460" expanded="true" signature="1006:1414" ph="{...}" />
+            <marker date="1570768215460" expanded="true" signature="1209:1392" ph="{...}" />
+            <marker date="1570768215460" expanded="true" signature="1438:2077" ph="{...}" />
+            <marker date="1570768215460" expanded="true" signature="1567:2071" ph="{...}" />
+            <marker date="1570768215460" expanded="true" signature="1675:1778" ph="{...}" />
+            <marker date="1570768215460" expanded="true" signature="1795:2061" ph="{...}" />
+            <marker date="1570768215460" expanded="true" signature="2102:2509" ph="{...}" />
+            <marker date="1570768215460" expanded="true" signature="2231:2503" ph="{...}" />
+            <marker date="1570768215460" expanded="true" signature="2339:2493" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

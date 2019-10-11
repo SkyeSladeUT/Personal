@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Saving/Original/Test_Saving.unity
+    guid: dc36c0851915914449afb479fcae932e
+  - enabled: 1
+    path: Assets/Saving/Original/Scene_02.unity
+    guid: 768487ccbb1ec9943b8b6964f80bc801
   m_configObjects: {}
