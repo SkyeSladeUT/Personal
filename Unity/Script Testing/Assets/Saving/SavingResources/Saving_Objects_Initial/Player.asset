@@ -9,7 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0033b4da8bc5a63459347efa6a138b5f, type: 3}
-  m_Name: TestFloat
+  m_Script: {fileID: 11500000, guid: 5a6b6a50ea71a5d4fa3f72f9bc191fee, type: 3}
+  m_Name: Player
   m_EditorClassIdentifier: 
-  value: 0
+  loadPos: {x: 1.053215, y: 1.33, z: 0.2417221}
+  currentSceneName: Scene_01

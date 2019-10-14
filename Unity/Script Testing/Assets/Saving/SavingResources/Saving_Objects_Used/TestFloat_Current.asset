@@ -9,10 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9c06daac862563f46bbd589d1d464080, type: 3}
-  m_Name: Save_Manager
+  m_Script: {fileID: 11500000, guid: 0033b4da8bc5a63459347efa6a138b5f, type: 3}
+  m_Name: TestFloat_Current
   m_EditorClassIdentifier: 
-  original: {fileID: 0}
-  current: {fileID: 0}
-  saves: []
-  currentSave: {fileID: 0}
+  value: 10

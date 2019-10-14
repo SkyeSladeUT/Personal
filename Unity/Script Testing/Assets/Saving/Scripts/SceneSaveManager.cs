@@ -17,7 +17,6 @@ public class SceneSaveManager : MonoBehaviour
     private void Start()
     {
         _objs = FindObjectsOfType<ObjectSave>();
-        //Debug.Log(_objs.Length);
         _objects = new GameObject[_objs.Length];
         if (objs.objnames == null)
         {
@@ -26,7 +25,7 @@ public class SceneSaveManager : MonoBehaviour
         }
         else if (objs.objnames.Length == 0)
         {
-            //Debug.Log("Empty");
+            Debug.Log("Empty");
             Initialize();
         }
         else
@@ -38,12 +37,13 @@ public class SceneSaveManager : MonoBehaviour
 
     public void Initialize()
     {
+        Debug.Log("Initialize_Scene");
         objs.active = new bool[_objs.Length];
         objs.destinations = new Vector3[_objs.Length];
         objs.objnames = new string[_objs.Length];
         for(int i = 0; i < _objs.Length; i++)
         {
-            Debug.Log(_objs[i].gameObject.name + " " + i);
+            //Debug.Log(_objs[i].gameObject.name + " " + i);
             objs.objnames[i] = _objs[i].gameObject.name;
             _objects[i] = _objs[i].gameObject;
         }
@@ -52,8 +52,8 @@ public class SceneSaveManager : MonoBehaviour
 
     public void Save()
     {
-        Debug.Log("Save");
-        Debug.Log(objs.objnames.Length);
+        Debug.Log("Save_Scene");
+        //Debug.Log(objs.objnames.Length);
         for (int i = 0; i < objs.objnames.Length; i++)
         {
             _objects[i] = GameObject.Find(objs.objnames[i]);
@@ -75,7 +75,7 @@ public class SceneSaveManager : MonoBehaviour
 
     public void Load()
     {
-        //Debug.Log("Load");
+        Debug.Log("Load_Scene");
         //Debug.Log(objs.objnames.Length);
         for (int i = 0; i < objs.objnames.Length; i++)
         {

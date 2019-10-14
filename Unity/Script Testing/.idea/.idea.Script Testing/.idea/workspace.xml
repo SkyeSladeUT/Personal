@@ -7,22 +7,46 @@
     <list default="true" id="3c9dd06a-ceb8-4497-a40c-21d87c099300" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/Original.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/Original/Scene_02.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/Original/Scene_02.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/Original/Test_Saving.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/Original/Test_Saving.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/Resources/Scene_01.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/Resources/Scene_01.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiscScripts/Scene_Load.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MiscScripts/Scene_Load.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MiscScripts/StartEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MiscScripts/StartEvents.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_01/Scene_01_Saving.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_01/Scene_01_Saving.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_01/TestFloat.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_01/TestFloat.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_02/Scene_01_Saving.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_02/Scene_01_Saving.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_02/TestFloat.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_02/TestFloat.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_03/Scene_01_Saving.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_03/Scene_01_Saving.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_03/TestFloat.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_03/TestFloat.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_01.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_01.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_01.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_01.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_02.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_02.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_02.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_02.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_03.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_03.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_03.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_03.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_initial.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_initial.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Manager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Manager.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Saving_Objects_Used/Scene_01_Saving.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Saving_Objects_Used/Scene_01_Saving.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Saving_Objects_Used/TestFloat.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Saving_Objects_Used/TestFloat.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/Scenes/Scene_01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/Scenes/Scene_01.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/Scenes/Scene_02.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/Scenes/Scene_02.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/Scripts/Initialize_Objects.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/Scripts/Initialize_Objects.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/Scripts/ScriptableObjectHolder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/Scripts/ScriptableObjectHolder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene_Load.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene_Load.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StartEvents.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StartEvents.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TriggerEvents.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TriggerEvents.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/UnitySerializerExamples/Getting Started Guide.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/UnitySerializerExamples/Getting Started Guide.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/UnitySerializerExamples/Room Management in Unity Serializer.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Saving/UnitySerializerExamples/Room Management in Unity Serializer.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scriptable_Objects/IntData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scriptable_Objects/IntData.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,20 +58,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SceneSaveObjects.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveObjects.cs">
+      <file leaf-file-name="SaveScript.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="240">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <folding>
+                <marker date="1570906025999" expanded="false" signature="6:168" ph="..." />
+                <marker date="1570906025999" expanded="true" signature="209:4670" ph="{...}" />
+                <marker date="1570906025999" expanded="true" signature="634:2920" ph="{...}" />
+                <marker date="1570906025999" expanded="true" signature="723:2914" ph="{...}" />
+                <marker date="1570906025999" expanded="true" signature="819:2904" ph="{...}" />
+                <marker date="1570906025999" expanded="true" signature="1399:1637" ph="{...}" />
+                <marker date="1570906025999" expanded="true" signature="2948:3435" ph="{...}" />
+                <marker date="1570906025999" expanded="true" signature="3114:3429" ph="{...}" />
+                <marker date="1570906025999" expanded="true" signature="3182:3275" ph="{...}" />
+                <marker date="1570906025999" expanded="true" signature="3459:4104" ph="{...}" />
+                <marker date="1570906025999" expanded="true" signature="3567:4032" ph="{...}" />
+                <marker date="1570906025999" expanded="true" signature="3635:3729" ph="{...}" />
+                <marker date="1570906025999" expanded="true" signature="3831:4022" ph="{...}" />
+                <marker date="1570906025999" expanded="true" signature="4133:4668" ph="{...}" />
+                <marker date="1570906025999" expanded="true" signature="4223:4661" ph="/* SetDataValues(current, saves[currentSave.value]); ... */" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ObjectSave.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ObjectSave.cs">
+      <file leaf-file-name="Player_Object.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Player_Object.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+            <state relative-caret-position="225">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WaitEvent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/WaitEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scene_Load.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MiscScripts/Scene_Load.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -55,85 +114,45 @@
       <file leaf-file-name="SceneSaveManager.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+            <state relative-caret-position="174">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Scriptable_Object_Saver.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Scriptable_Object_Saver.cs">
+      <file leaf-file-name="SetTransforms.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SetTransforms.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            <state>
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SaveScript.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs">
+      <file leaf-file-name="Set_Player_Pos.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Set_Player_Pos.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntData.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scriptable_Objects/IntData.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="195">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="GameControl.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/GameControl.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="ScriptableObjectHolder.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ScriptableObjectHolder.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="Initialize_Objects.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Initialize_Objects.cs">
+      <file leaf-file-name="Vector3Data.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Vector3Data.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
-              <folding>
-                <marker date="1570836941382" expanded="false" signature="6:71" ph="..." />
-                <marker date="1570836941382" expanded="true" signature="120:2974" ph="{...}" />
-                <marker date="1570836941382" expanded="true" signature="380:1080" ph="{...}" />
-                <marker date="1570836941382" expanded="true" signature="628:697" ph="{...}" />
-                <marker date="1570836941382" expanded="true" signature="823:1074" ph="{...}" />
-                <marker date="1570836941382" expanded="true" signature="1117:2127" ph="{...}" />
-                <marker date="1570836941382" expanded="true" signature="1239:2121" ph="{...}" />
-                <marker date="1570836941382" expanded="true" signature="1582:2098" ph="{...}" />
-                <marker date="1570836941382" expanded="true" signature="2160:2847" ph="{...}" />
-                <marker date="1570836941382" expanded="true" signature="2408:2477" ph="{...}" />
-                <marker date="1570836941382" expanded="true" signature="2610:2759" ph="{...}" />
-                <marker date="1570836941382" expanded="true" signature="2877:2965" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringData.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scriptable_Objects/StringData.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="60">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -151,14 +170,21 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Initialize_Objects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/WaitEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ObjectSave.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scriptable_Objects/StringData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MiscScripts/Scene_Load.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SetTransforms.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Set_Player_Pos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MiscScripts/StartEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Scriptable_Object_Saver.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29D15D32-74A8-45E0-BDA1-665455A698E2/0a/cf4d4c6e/AssetDatabase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveObjects.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/GameControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ScriptableObjectHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Player_Object.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scriptable_Objects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -202,16 +228,24 @@
         <option value="$PROJECT_DIR$/Assets/Saving/Scripts/ScriptableObjectHolder.cs" />
         <option value="$PROJECT_DIR$/Assets/Saving/Scripts/Scriptable_Object_Saver.cs" />
         <option value="$PROJECT_DIR$/Assets/Scriptable_Objects/IntData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Saving/Scripts/Initialize_Objects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scriptable_Object_Saving.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/Vector3Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/Player_Object.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/WaitEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/MiscScripts/Scene_Load.cs" />
+        <option value="$PROJECT_DIR$/Assets/MiscScripts/StartEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/Set_Player_Pos.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/SetTransforms.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-10" />
-    <option name="width" value="1358" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1242" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectId" id="1S1DmCqs09d8X2lDVRNtc4vld8V" />
   <component name="ProjectView">
@@ -219,6 +253,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -231,11 +270,6 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,12 +321,13 @@
       <workItem from="1570722369678" duration="7622000" />
       <workItem from="1570751557455" duration="6126000" />
       <workItem from="1570758758331" duration="8177000" />
-      <workItem from="1570828559125" duration="8367000" />
+      <workItem from="1570828559125" duration="23351000" />
+      <workItem from="1570895206511" duration="10271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22670000" />
+    <option name="totallyTimeSpent" value="47925000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -304,8 +339,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1086" height="832" extended-state="1" />
-    <editor active="true" />
+    <frame x="-6" y="0" width="993" height="830" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -314,7 +348,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25048733" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27867097" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -376,6 +410,58 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+          <folding>
+            <marker date="1570906025999" expanded="false" signature="6:168" ph="..." />
+            <marker date="1570906025999" expanded="true" signature="209:4670" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="634:2920" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="723:2914" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="819:2904" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="1399:1637" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="2948:3435" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="3114:3429" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="3182:3275" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="3459:4104" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="3567:4032" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="3635:3729" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="3831:4022" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="4133:4668" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="4223:4661" ph="/* SetDataValues(current, saves[currentSave.value]); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scriptable_Object_Saving.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Initialize_Objects.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scriptable_Objects/IntData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveObjects.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -390,13 +476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scene_Load.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scene_Load.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/GameControl.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -411,20 +491,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/StartEvents.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/StartEvents.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -446,74 +514,15 @@
     <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveScene.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/CreateSave.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveObjects.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/StartEvents.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/StartEvents.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/DontDestroyObj.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scene_Load.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ObjectSave.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scriptable_Objects/StringData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/GameControl.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Initialize.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scene_Load.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Initialize.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29D15D32-74A8-45E0-BDA1-665455A698E2/0a/cf4d4c6e/AssetDatabase.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1708">
           <caret line="256" column="30" selection-start-line="256" selection-start-column="30" selection-end-line="256" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scriptable_Objects/IntData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -531,37 +540,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scriptable_Objects/StringData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        <state relative-caret-position="60">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ScriptableObjectHolder.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scriptable_Objects/IntData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scriptable_Object_Saving.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Initialize_Objects.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        <state relative-caret-position="630">
+          <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ObjectSave.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ScriptableObjectHolder.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Vector3Data.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/GameControl.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MiscScripts/StartEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
           <folding>
-            <marker date="1570836941382" expanded="false" signature="6:71" ph="..." />
-            <marker date="1570836941382" expanded="true" signature="120:2974" ph="{...}" />
-            <marker date="1570836941382" expanded="true" signature="380:1080" ph="{...}" />
-            <marker date="1570836941382" expanded="true" signature="628:697" ph="{...}" />
-            <marker date="1570836941382" expanded="true" signature="823:1074" ph="{...}" />
-            <marker date="1570836941382" expanded="true" signature="1117:2127" ph="{...}" />
-            <marker date="1570836941382" expanded="true" signature="1239:2121" ph="{...}" />
-            <marker date="1570836941382" expanded="true" signature="1582:2098" ph="{...}" />
-            <marker date="1570836941382" expanded="true" signature="2160:2847" ph="{...}" />
-            <marker date="1570836941382" expanded="true" signature="2408:2477" ph="{...}" />
-            <marker date="1570836941382" expanded="true" signature="2610:2759" ph="{...}" />
-            <marker date="1570836941382" expanded="true" signature="2877:2965" ph="{...}" />
+            <marker date="1570901242823" expanded="false" signature="6:104" ph="..." />
+            <marker date="1570901242823" expanded="true" signature="146:318" ph="{...}" />
+            <marker date="1570901242823" expanded="true" signature="214:252" ph="{...}" />
+            <marker date="1570901242823" expanded="true" signature="278:316" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Set_Player_Pos.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Player_Object.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SetTransforms.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MiscScripts/Scene_Load.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/WaitEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <marker date="1570906025999" expanded="false" signature="6:168" ph="..." />
+            <marker date="1570906025999" expanded="true" signature="209:4670" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="634:2920" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="723:2914" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="819:2904" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="1399:1637" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="2948:3435" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="3114:3429" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="3182:3275" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="3459:4104" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="3567:4032" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="3635:3729" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="3831:4022" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="4133:4668" ph="{...}" />
+            <marker date="1570906025999" expanded="true" signature="4223:4661" ph="/* SetDataValues(current, saves[currentSave.value]); ... */" />
           </folding>
         </state>
       </provider>

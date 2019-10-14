@@ -48,7 +48,7 @@ public class Initialize_Objects : MonoBehaviour
                 origpath = AssetDatabase.GetAssetPath(saveData.Data[j]);
                 pathsections = origpath.Split('.');
                 endpath = pathsections[1];
-                newpath += saveData.Data[j].name + "." + endpath;
+                newpath += saveData.Data[j].name + "_0" + (i+1) + "." + endpath;
                 Debug.Log(newpath);
                 AssetDatabase.CopyAsset(origpath, newpath);
                 copiedData[i].Data.Add(AssetDatabase.LoadAssetAtPath<ScriptableObject>(newpath));

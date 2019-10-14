@@ -5,4 +5,9 @@ using UnityEngine;
 public class IntData : ScriptableObject
 {
     public int value;
+
+    public void Set(int newVal)
+    {
+        value = newVal;
+    }
 }

@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Save_Data_01
   m_EditorClassIdentifier: 
   Data:
-  - {fileID: 11400000, guid: a7e96de7768dbd8418faa6d903cf7b98, type: 2}
-  - {fileID: 11400000, guid: 6b238fc3af1179942b326c0373dcd918, type: 2}
+  - {fileID: 11400000, guid: 5a519163ebfe11e47b1e2a0109103c46, type: 2}
+  - {fileID: 11400000, guid: a914ae7e419e47f41806582cf8e3a5de, type: 2}
+  - {fileID: 11400000, guid: 79487ebae9f1f954cbfea0f1105e0683, type: 2}
