@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: Ornaments.ma
-//Last modified: Mon, Oct 21, 2019 08:45:51 PM
+//Last modified: Mon, Oct 21, 2019 09:04:06 PM
 //Codeset: 1252
 requires maya "2018";
 currentUnit -l centimeter -a degree -t film;
@@ -13,13 +13,13 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "C169A440-487E-0328-651B-4CB929604EFA";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 9.7876154186604509 21.673138954471725 33.700662909810461 ;
+	setAttr ".t" -type "double3" 2.2185128857541616 10.310961816668001 14.77655653515504 ;
 	setAttr ".r" -type "double3" -29.138352726553023 -2498.2000000001863 0 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "0D9F0A0A-47CD-5C8F-4E7D-D387E044F261";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 42.375181081261175;
+	setAttr ".coi" 19.040396219519877;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
