@@ -6,54 +6,73 @@
   <component name="ChangeListManager">
     <list default="true" id="3c9dd06a-ceb8-4497-a40c-21d87c099300" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Script Testing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiscScripts/Scene_Load.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MiscScripts/Scene_Load.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MiscScripts/StartEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MiscScripts/StartEvents.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_01/Scene_01_Saving.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_01/Scene_01_Saving.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_01/TestFloat.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_01/TestFloat.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_02/Scene_01_Saving.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_02/Scene_01_Saving.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_02/TestFloat.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_02/TestFloat.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_03/Scene_01_Saving.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_03/Scene_01_Saving.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_03/TestFloat.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Save_Objects/Save_03/TestFloat.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_01.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_01.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_01.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_01.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_02.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_02.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_02.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_02.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_03.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_03.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_03.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_03.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_initial.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Data_Lists/Save_Data_initial.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Manager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Save_Manager.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Saving_Objects_Used/Scene_01_Saving.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Saving_Objects_Used/Scene_01_Saving.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Saving_Objects_Used/TestFloat.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/SavingResources/Saving_Objects_Used/TestFloat.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/Scenes/Scene_01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/Scenes/Scene_01.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/Scenes/Scene_02.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/Scenes/Scene_02.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/Scripts/Initialize_Objects.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/Scripts/Initialize_Objects.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/UnitySerializerExamples/Getting Started Guide.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/UnitySerializerExamples/Getting Started Guide.pdf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/UnitySerializerExamples/Room Management in Unity Serializer.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Saving/UnitySerializerExamples/Room Management in Unity Serializer.pdf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scriptable_Objects/IntData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scriptable_Objects/IntData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SceneSaveManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1290">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <marker date="1570841091838" expanded="false" signature="6:111" ph="..." />
+                <marker date="1570841091838" expanded="true" signature="264:2543" ph="{...}" />
+                <marker date="1570841091838" expanded="true" signature="271:412" ph="/* DO NOT DESTROY ANY OF THE GAMEOBJECTS FOR THIS SCRIPT ... */" />
+                <marker date="1570841091838" expanded="true" signature="539:945" ph="{...}" />
+                <marker date="1570841091838" expanded="true" signature="678:755" ph="{...}" />
+                <marker date="1570841091838" expanded="true" signature="799:877" ph="{...}" />
+                <marker date="1570841091838" expanded="true" signature="890:930" ph="{...}" />
+                <marker date="1570841091838" expanded="true" signature="975:1424" ph="{...}" />
+                <marker date="1570841091838" expanded="true" signature="1217:1402" ph="{...}" />
+                <marker date="1570841091838" expanded="true" signature="1448:2101" ph="{...}" />
+                <marker date="1570841091838" expanded="true" signature="1585:2095" ph="{...}" />
+                <marker date="1570841091838" expanded="true" signature="1693:1798" ph="{...}" />
+                <marker date="1570841091838" expanded="true" signature="1815:2085" ph="{...}" />
+                <marker date="1570841091838" expanded="true" signature="2126:2541" ph="{...}" />
+                <marker date="1570841091838" expanded="true" signature="2263:2535" ph="{...}" />
+                <marker date="1570841091838" expanded="true" signature="2371:2525" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SaveScript.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="33" selection-end-column="77" />
+              <folding>
+                <marker date="1572654341363" expanded="false" signature="6:168" ph="..." />
+                <marker date="1572654341363" expanded="true" signature="209:4669" ph="{...}" />
+                <marker date="1572654341363" expanded="true" signature="634:2919" ph="{...}" />
+                <marker date="1572654341363" expanded="true" signature="723:2913" ph="{...}" />
+                <marker date="1572654341363" expanded="true" signature="819:2903" ph="{...}" />
+                <marker date="1572654341363" expanded="true" signature="1398:1636" ph="{...}" />
+                <marker date="1572654341363" expanded="true" signature="2947:3434" ph="{...}" />
+                <marker date="1572654341363" expanded="true" signature="3113:3428" ph="{...}" />
+                <marker date="1572654341363" expanded="true" signature="3181:3274" ph="{...}" />
+                <marker date="1572654341363" expanded="true" signature="3458:4103" ph="{...}" />
+                <marker date="1572654341363" expanded="true" signature="3566:4031" ph="{...}" />
+                <marker date="1572654341363" expanded="true" signature="3634:3728" ph="{...}" />
+                <marker date="1572654341363" expanded="true" signature="3830:4021" ph="{...}" />
+                <marker date="1572654341363" expanded="true" signature="4132:4667" ph="{...}" />
+                <marker date="1572654341363" expanded="true" signature="4222:4660" ph="/* SetDataValues(current, saves[currentSave.value]); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -65,26 +84,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveObjects.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MiscScripts/Scene_Load.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Boss_Fight/Phase_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Initialize_Objects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/WaitEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ObjectSave.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MiscScripts/StartEvents.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Boss_Fight/Phase.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/GameControl.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ScriptableObjectHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scriptable_Objects/StringData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MiscScripts/Scene_Load.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Set_Player_Pos.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SetTransforms.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Player_Object.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Initialize_Objects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MiscScripts/StartEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Scriptable_Object_Saver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveObjects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/GameControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/ScriptableObjectHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/Player_Object.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scriptable_Objects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Boss_Fight/Phase_Debug.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scriptable_Objects/StringData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Saving/Scripts/WaitEvent.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -134,16 +150,56 @@
         <option value="$PROJECT_DIR$/Assets/MiscScripts/StartEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Saving/Scripts/Set_Player_Pos.cs" />
         <option value="$PROJECT_DIR$/Assets/Saving/Scripts/SetTransforms.cs" />
-        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Boss_Fight/Boss_Main.cs" />
         <option value="$PROJECT_DIR$/Assets/Boss_Fight/Phase_one_example.cs" />
         <option value="$PROJECT_DIR$/Assets/Boss_Fight/Phase.cs" />
         <option value="$PROJECT_DIR$/Assets/Boss_Fight/Phase_Manager.cs" />
         <option value="$PROJECT_DIR$/Assets/Boss_Fight/Phase_Debug.cs" />
+        <option value="$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs" />
       </list>
     </option>
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="width" value="1317" />
+    <option name="height" value="1040" />
+  </component>
   <component name="ProjectId" id="1S1DmCqs09d8X2lDVRNtc4vld8V" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Script Testing" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Script Testing" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Script Testing" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -163,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+  <component name="RunManager" selected="Attach Unity.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -172,15 +228,11 @@
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
-      <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <option name="userSelectedPid" value="false" />
-      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
-      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+      <item itemvalue="Attach Unity.Attach to Unity Editor" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -200,8 +252,48 @@
       <workItem from="1570828559125" duration="23351000" />
       <workItem from="1570895206511" duration="10271000" />
       <workItem from="1571939618460" duration="5268000" />
+      <workItem from="1572653131242" duration="1214000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1214000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1053" height="832" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24974824" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -214,12 +306,21 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
     <state x="130" y="161" key="SettingsEditor" />
@@ -239,5 +340,56 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SceneSaveManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <marker date="1570841091838" expanded="false" signature="6:111" ph="..." />
+            <marker date="1570841091838" expanded="true" signature="264:2543" ph="{...}" />
+            <marker date="1570841091838" expanded="true" signature="271:412" ph="/* DO NOT DESTROY ANY OF THE GAMEOBJECTS FOR THIS SCRIPT ... */" />
+            <marker date="1570841091838" expanded="true" signature="539:945" ph="{...}" />
+            <marker date="1570841091838" expanded="true" signature="678:755" ph="{...}" />
+            <marker date="1570841091838" expanded="true" signature="799:877" ph="{...}" />
+            <marker date="1570841091838" expanded="true" signature="890:930" ph="{...}" />
+            <marker date="1570841091838" expanded="true" signature="975:1424" ph="{...}" />
+            <marker date="1570841091838" expanded="true" signature="1217:1402" ph="{...}" />
+            <marker date="1570841091838" expanded="true" signature="1448:2101" ph="{...}" />
+            <marker date="1570841091838" expanded="true" signature="1585:2095" ph="{...}" />
+            <marker date="1570841091838" expanded="true" signature="1693:1798" ph="{...}" />
+            <marker date="1570841091838" expanded="true" signature="1815:2085" ph="{...}" />
+            <marker date="1570841091838" expanded="true" signature="2126:2541" ph="{...}" />
+            <marker date="1570841091838" expanded="true" signature="2263:2535" ph="{...}" />
+            <marker date="1570841091838" expanded="true" signature="2371:2525" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Saving/Scripts/SaveScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="33" selection-end-column="77" />
+          <folding>
+            <marker date="1572654341363" expanded="false" signature="6:168" ph="..." />
+            <marker date="1572654341363" expanded="true" signature="209:4669" ph="{...}" />
+            <marker date="1572654341363" expanded="true" signature="634:2919" ph="{...}" />
+            <marker date="1572654341363" expanded="true" signature="723:2913" ph="{...}" />
+            <marker date="1572654341363" expanded="true" signature="819:2903" ph="{...}" />
+            <marker date="1572654341363" expanded="true" signature="1398:1636" ph="{...}" />
+            <marker date="1572654341363" expanded="true" signature="2947:3434" ph="{...}" />
+            <marker date="1572654341363" expanded="true" signature="3113:3428" ph="{...}" />
+            <marker date="1572654341363" expanded="true" signature="3181:3274" ph="{...}" />
+            <marker date="1572654341363" expanded="true" signature="3458:4103" ph="{...}" />
+            <marker date="1572654341363" expanded="true" signature="3566:4031" ph="{...}" />
+            <marker date="1572654341363" expanded="true" signature="3634:3728" ph="{...}" />
+            <marker date="1572654341363" expanded="true" signature="3830:4021" ph="{...}" />
+            <marker date="1572654341363" expanded="true" signature="4132:4667" ph="{...}" />
+            <marker date="1572654341363" expanded="true" signature="4222:4660" ph="/* SetDataValues(current, saves[currentSave.value]); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

@@ -31,7 +31,7 @@ public class SaveScript : MonoBehaviour
                    objTo = AssetDatabase.LoadAssetAtPath<SceneSaveObjects>(AssetDatabase.GetAssetPath(To.Data[i]));
                    objTo.objnames = new string[objFrom.objnames.Length];
                    objTo.active = new bool[objFrom.objnames.Length];
-                   objTo.destinations = new Vector3[objFrom.objnames.Length];;
+                   objTo.destinations = new Vector3[objFrom.objnames.Length];
                    for (int j = 0; j < objFrom.objnames.Length; j++)
                    {
                        objTo.objnames[j] = objFrom.objnames[j];
