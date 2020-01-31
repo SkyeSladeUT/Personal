@@ -1,0 +1,14 @@
+10802160 User Log
+
+Login Time: 1/30/2020 6:18:04 PM
+
+Testing
+
+Logout Time: 1/30/2020 6:18:09 PM
+
+Login Time: 1/30/2020 6:18:55 PM
+
+Testing phase 2
+
+Logout Time: 1/30/2020 6:19:02 PM
+

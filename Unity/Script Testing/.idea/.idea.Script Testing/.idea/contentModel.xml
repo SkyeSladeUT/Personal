@@ -10,6 +10,10 @@
           <e p="Phase_Debug.cs" t="Include" />
           <e p="Phase_Manager.cs" t="Include" />
         </e>
+        <e p="CreateFile" t="Include">
+          <e p="TestWrite.cs" t="Include" />
+          <e p="WriteToFile.cs" t="Include" />
+        </e>
         <e p="DialogueObjects" t="Include">
           <e p="Scripts" t="Include">
             <e p="choice_dialogue.cs" t="Include" />
@@ -64,6 +68,9 @@
           <e p="KeyCodeDataKeys.cs" t="Include" />
           <e p="StringData.cs" t="Include" />
           <e p="UnityKeyCodeObject.cs" t="Include" />
+        </e>
+        <e p="UserData" t="Include">
+          <e p="10802160.txt" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
