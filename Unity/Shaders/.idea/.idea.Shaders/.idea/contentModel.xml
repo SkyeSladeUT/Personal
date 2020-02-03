@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Owner\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Shaders.1653018034.00" t="ExcludeRecursive" />
+    <e p="E:\School\Personal_Work\Shaders\Unity\Shaders" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Ironing_Stuff" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="DeformableMesh.cs" t="Include" />
+            <e p="Event_Script.cs" t="Include" />
+            <e p="GeneratePlaneMesh.cs" t="Include" />
+            <e p="PhysicsDeformer.cs" t="Include" />
+            <e p="PhysicsDisplacementMapDeformer.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Movement_Scripts" t="Include">
+          <e p="Character_Movement_JoystickConf.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+          <e p="FloatInput.cs" t="Include" />
+          <e p="FloatInputAxis.cs" t="Include" />
+          <e p="Joystick_Move_Pattern.cs" t="Include" />
+          <e p="KeyCodeData.cs" t="Include" />
+          <e p="KeyCodeDataKeys.cs" t="Include" />
+          <e p="UnityKeyCodeObject.cs" t="Include" />
+        </e>
+        <e p="ShaderFun" t="Include">
+          <e p="Displacement" t="Include">
+            <e p="Samples" t="Include">
+              <e p="Displacent_noTesselation.shader" t="Include" />
+              <e p="Displacent_withTesselation 1.shader" t="Include" />
+              <e p="DistanceBasedTesselationDisplacement.shader" t="Include" />
+            </e>
+            <e p="Snow" t="Include">
+              <e p="DrawTracks.shader" t="Include" />
+              <e p="DrawWithMouse.cs" t="Include" />
+              <e p="PersonTracks.cs" t="Include" />
+              <e p="Snowtracks.shader" t="Include" />
+            </e>
+          </e>
+          <e p="ForceField" t="Include">
+            <e p="DestroyTimer.cs" t="Include" />
+            <e p="ForceFieldCollision.cs" t="Include" />
+          </e>
+          <e p="ShaderTest.shader" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Shaders.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
