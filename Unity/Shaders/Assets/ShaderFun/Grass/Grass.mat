@@ -37,7 +37,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_D5D3A8B6:
-        m_Texture: {fileID: 2800000, guid: cede8579d00c0c8409eddbb680fe7d40, type: 3}
+        m_Texture: {fileID: 2800000, guid: f5883c3d962127943bb0ac60ee1c7cf1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
@@ -50,7 +50,7 @@ Material:
     - Vector1_9F994636: 0
     - Vector1_ACA245D0: 0
     - Vector1_B5092C88: 0
-    - Vector1_D0FCF0EF: 0.25
+    - Vector1_D0FCF0EF: 0.5
     - Vector1_F4A3691D: 0
     - _Hardness: 0
     - _Radius: 0
@@ -64,4 +64,4 @@ Material:
     - Vector3_6503BD9F: {r: 0, g: 0, b: 0, a: 0}
     - Vector3_974842B1: {r: 20, g: 0, b: -0.3, a: 0}
     - Vector3_A5EF2683: {r: 0, g: 0, b: 0, a: 0}
-    - _Center: {r: 3.66, g: 0.099, b: 2.65, a: 0}
+    - _Center: {r: 1.9755554, g: -0.19999695, b: 1.8241005, a: 0}
