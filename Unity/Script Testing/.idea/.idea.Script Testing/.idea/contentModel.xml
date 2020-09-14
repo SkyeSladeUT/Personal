@@ -11,6 +11,7 @@
           <e p="Phase_Manager.cs" t="Include" />
         </e>
         <e p="CreateFile" t="Include">
+          <e p="SaveOutside.cs" t="Include" />
           <e p="TestWrite.cs" t="Include" />
           <e p="WriteToFile.cs" t="Include" />
         </e>
@@ -23,6 +24,36 @@
             <e p="dialogue_script_condensed.cs" t="Include" />
             <e p="IfElseEvents.cs" t="Include" />
             <e p="NPCObject.cs" t="Include" />
+          </e>
+        </e>
+        <e p="GoogleDrive" t="Include">
+          <e p="GoogleDrive" t="Include">
+            <e p="AuthRedirectionServer.cs" t="Include" />
+            <e p="GoogleDrive.cs" t="Include" />
+            <e p="GoogleDriveAuthorization.cs" t="Include" />
+            <e p="GoogleDriveErrors.cs" t="Include" />
+            <e p="GoogleDriveFile.cs" t="Include" />
+            <e p="GoogleDriveUtils.cs" t="Include" />
+            <e p="Test" t="Include">
+              <e p="DriveTest.cs" t="Include" />
+            </e>
+            <e p="UnityCoroutine.cs" t="Include" />
+            <e p="UnityWebRequest.cs" t="Include" />
+            <e p="UnityWebResponse.cs" t="Include" />
+            <e p="WebViewObject.cs" t="Include" />
+          </e>
+          <e p="link.xml" t="Include" />
+          <e p="Plugins" t="Include">
+            <e p="Android" t="Include">
+              <e p="AndroidManifest.xml" t="Include" />
+            </e>
+            <e p="JsonFx" t="Include">
+              <e p="License.txt" t="Include" />
+              <e p="Readme.txt" t="Include" />
+            </e>
+            <e p="License.bzip2.txt" t="Include" />
+            <e p="License.txt" t="Include" />
+            <e p="License.zlib.txt" t="Include" />
           </e>
         </e>
         <e p="MiscScripts" t="Include">
